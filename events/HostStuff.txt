@@ -1,0 +1,15 @@
+country_event = { 
+	id = 50004 
+	title = "Get kicked kiddo"
+	desc = "Should not have broken the rules eh?"
+	
+	is_triggered_only = yes
+
+	immediate = {
+		add_country_modifier = get_kicked_lol
+
+	}
+	option = { 
+	name = "bye"
+	}
+}

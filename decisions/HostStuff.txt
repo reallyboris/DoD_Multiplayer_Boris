@@ -1,0 +1,79 @@
+political_decisions = {
+	gtfo_kiddo = {
+		potential = {
+			has_country_flag = host_nation
+			ai = no
+		}
+
+		allow = {
+		}
+		effect = {
+			any_country = {
+				Limit = {
+					NOT = {
+						alliance_with = THIS
+						has_country_flag = host_nation
+					}
+					ai = no
+				}
+				country_event = 50004
+			
+			}
+
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	
+	ally_all_players = {
+		potential = {
+			has_country_flag = host_nation
+			ai = no
+		}
+
+		allow = {
+		}
+		effect = {
+			any_country = {
+				Limit = {
+					NOT = {
+						alliance_with = THIS
+					}
+					ai = no
+				}
+				create_alliance = THIS
+			
+			}
+
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	end_all_wars = {
+		potential = {
+			has_country_flag = host_nation
+			ai = no
+		}
+
+		allow = {
+		}
+		effect = {
+			any_country = {
+				Limit = {
+					war_with = THIS
+				}
+				end_war = THIS
+			
+			}
+
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+}

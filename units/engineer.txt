@@ -4,7 +4,7 @@ engineer = {
 	type = land
 	sprite = Engineer
 	active = no
-	unit_type = infantry
+	unit_type = special
 	#Core Abilities
 	priority = 15
 	max_strength = 3

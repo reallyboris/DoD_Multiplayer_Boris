@@ -173,7 +173,7 @@ political_decisions = {
 				    add_province_modifier = {
 				    	name = gateway_to_russia
 						duration = 7300
-	 				}      
+	 				}
 			}
 			set_country_flag = RUS_moved_capital 
 		}
@@ -194,7 +194,6 @@ political_decisions = {
 		allow = {
 			revolution_n_counterrevolution = 1 
 			biologism = 1 
-			#nationalism_n_imperialism = 1 
 		}
 		effect = {
 			prestige = 5
@@ -210,8 +209,7 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			has_country_flag = southern_focus
-			has_country_flag = RUS_moved_capital
-			NOT = { accepted_culture = tatar}
+			NOT = { accepted_culture = tatar }
 			NOT = { has_country_flag = tatar_culture }
 		}
 		#Ruthenes have higher tech requirements and lower capitol movement requirements. 
@@ -221,27 +219,9 @@ political_decisions = {
 		effect = {
 			prestige = 5
 			add_accepted_culture = tatar
-			set_country_flag = tatar_culture 
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}	
-	integrate_astrakhani_culture = {
-		potential = {
-			tag = RUS
-			has_country_flag = southern_focus
-			has_country_flag = RUS_moved_capital
-			NOT = { has_country_flag = astrakhan_culture }
-		}
-		allow = {
-			nationalism_n_imperialism = 1
-			biologism = 1 
-		}
-		effect = {
-			prestige = 5
+			add_accepted_culture = crimean
 			add_accepted_culture = astrakhani
-			set_country_flag = astrakhan_culture 
+			set_country_flag = tatar_culture 
 		}
 		ai_will_do = {
 			factor = 1
@@ -251,14 +231,11 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			has_country_flag = southern_focus
-			has_country_flag = RUS_moved_capital
-			NOT = { accepted_culture = georgian}
+			NOT = { accepted_culture = georgian }
 			NOT = { has_country_flag = georgian_culture }
 		}
-		#Georgians, being further away but Orthodox Christian, take a while.
 		allow = {
-			revolution_n_counterrevolution = 1 
-			biologism = 1 
+			revolution_n_counterrevolution = 1
 		}
 		effect = {
 			prestige = 5
@@ -268,7 +245,7 @@ political_decisions = {
 		ai_will_do = {
 			factor = 1
 		}
-	}	
+	}
 	#Baltic cultures
 	integrate_estonian_culture = {
 		potential = {

@@ -223,7 +223,7 @@
 	}
 
 	bureaucrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 20
 	}
@@ -235,26 +235,26 @@
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1500
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 14850
 	}

@@ -3,6 +3,6 @@ controller = DUA
 add_core = DUA
 add_core = ENL
 add_core = WLS
-trade_goods = iron
+trade_goods = fish
 life_rating = 35
 1861.1.1 = { railroad = 3 }

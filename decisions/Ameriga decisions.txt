@@ -404,7 +404,7 @@ political_decisions = {
 	Ameriga_LOT = { 
 		potential = { 
 		tag = LOT 
-		have_country_ flag = LOT_AMG
+		have_country_flag = LOT_AMG
 		nationalism_n_imperialism = 1
 		}
 		
@@ -726,33 +726,7 @@ political_decisions = {
 		allow = {
 			NOT = { war = yes }
 			slavery = no_slavery 
-			OR = {
-			   citizenship_policy = full_citizenship
-			   citizenship_policy = limited_citizenship
-			}
-			NOT = { average_militancy = 3 }
-			citizens_rights = all_voting_pops
 			invention = national_fraternity
-			OR = {
-				upper_house = {
-					ideology = socialist
-					value = 0.2
-				}
-				upper_house = {
-					ideology = liberal
-					value = 0.2
-				}
-				AND = {
-					upper_house = {
-						ideology = socialist
-						value = 0.1
-					}
-					upper_house = {
-						ideology = liberal
-						value = 0.1
-					}
-				}
-			}	
 		}
 		effect = {
 			add_accepted_culture = afro_frankish
@@ -803,33 +777,6 @@ political_decisions = {
 		allow = {
 			NOT = { war = yes }
 			slavery = no_slavery
-			OR = {
-			citizenship_policy = full_citizenship
-			citizenship_policy = limited_citizenship
-			}
-			citizens_rights = all_voting_pops
-			invention = national_fraternity
-			NOT = { average_militancy = 3 }
-			OR = {
-				upper_house = {
-					ideology = socialist
-					value = 0.2
-				}
-				upper_house = {
-					ideology = liberal
-					value = 0.2
-				}
-				AND = {
-					upper_house = {
-						ideology = socialist
-						value = 0.1
-					}
-					upper_house = {
-						ideology = liberal
-						value = 0.1
-					}
-				}
-			}
 		}
 		effect = {
 			add_accepted_culture = afro_latino

@@ -94,7 +94,6 @@ political_decisions = {
 	claim_siberia = {
 			potential = {
 				tag = RUS
-				#has_country_flag = livonia
 				NOT = { has_country_flag = siberia }
 			}
 		

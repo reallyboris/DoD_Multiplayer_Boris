@@ -3,5 +3,5 @@ controller = DUA
 add_core = DUA
 add_core = NAV
 add_core = OCC
-trade_goods = grain
+trade_goods = iron
 life_rating = 31

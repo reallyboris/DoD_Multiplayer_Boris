@@ -2,20 +2,15 @@ political_decisions = {
 	merge_the_crowns_ari = {
 		potential = {			
 			tag = ARA	
-			NOT = {
-				exists = ARI
-			}
+			NOT = { exists = ARI }
+			NOT = { has_country_flag = abandon_italy }
 		}
 		allow = {
 			NOT = { war = yes }
+			NOT = { has_country_flag = abandon_italy }
 			state_n_government = 1
 			owns = 754 # Napoli
 			owns = 762 # Palermo
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
 			prestige = 25
 			ITA = {
 				all_core = {
@@ -25,7 +20,9 @@ political_decisions = {
 							owner = {
 								in_sphere = THIS
 							}
-							vassal_of = THIS						
+							owner = { 
+								vassal_of = THIS
+							}
 						}
 						NOT = {
 							OR = {
@@ -41,6 +38,7 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			change_tag = ARI
+			remove_accepted_culture = castilian
 			random_country = { 
 				limit = {
 					tag = PAP
@@ -317,7 +315,7 @@ political_decisions = {
 		}
 	}
 	
-	annex_provence = { 
+	annex_provence = {
 		
 		potential = { 
 		tag = ARI 
@@ -333,10 +331,36 @@ political_decisions = {
 		war = no 
 		}
 		
-		effect = { 
+		effect = {
 		inherit = PRV 
 		}
 	
 	
+	}
+	
+	abandon_italy = {
+		potential = {
+			tag = ARA
+			NOT = { has_country_flag = abandon_italy }
+		}
+		allow = {
+			NOT = {	owns = 754 }
+			NOT = { owns = 756 }
+			NOT = { owns = 762 }
+		}
+		effect = {
+			ARA = {
+				all_core = {
+					limit = { is_core = ITA }
+					remove_core = ARA
+				}
+			}
+				SAR_765 = {
+					add_core = ARA
+				}
+		remove_accepted_culture = south_italian
+		add_accepted_culture = castilian
+				set_country_flag = abandon_italy
+		}
 	}
 }

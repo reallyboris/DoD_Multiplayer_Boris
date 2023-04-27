@@ -15,7 +15,7 @@ country_event = {
 		name = "EVTOPTA100014"
 		any_pop = {
 		      limit = {
-			    has_pop_culture = pomeranian
+			    has_pop_culture = baltic_german
 				}
 			literacy = 0.35
 		}

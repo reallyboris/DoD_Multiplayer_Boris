@@ -1,7 +1,7 @@
 owner = INC
 controller = INC
 add_core = INC
-trade_goods = timber
+trade_goods = iron
 life_rating = 31
 1861.1.1 = { 
 	owner = ARG

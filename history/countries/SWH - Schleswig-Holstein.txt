@@ -1,5 +1,5 @@
 capital = 369
-primary_culture = pomeranian
+primary_culture = baltic_german
 culture = north_german
 culture = danish
 religion = protestant

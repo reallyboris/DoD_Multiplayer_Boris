@@ -499,7 +499,7 @@ political_decisions = {
 		potential = { 
 			primary_culture = venetian
 			NOT = { has_country_flag = greek_integration }
-			OR {
+			OR = {
 			owns = 834
 			owns = 839
 			owns = 831

@@ -21,8 +21,8 @@ germanic = {
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
 	}
 	
-	pomeranian = { 
-		color = { 110 105 80 }
+	baltic_german = { 
+		color = { 0 10 25 }
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
 		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
 		Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl

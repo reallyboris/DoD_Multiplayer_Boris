@@ -4,5 +4,5 @@ add_core = LUA
 add_core = DAI
 add_core = CAM
 #add_core = SIA
-trade_goods = tropical_wood
+trade_goods = sulphur
 life_rating = 31

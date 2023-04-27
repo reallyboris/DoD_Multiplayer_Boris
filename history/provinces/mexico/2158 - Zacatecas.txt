@@ -3,5 +3,5 @@ controller = CLM
 add_core = CLM
 add_core = AZT
 add_core = MEX
-trade_goods = grain
+trade_goods = iron
 life_rating = 35

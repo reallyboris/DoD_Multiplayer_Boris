@@ -4,5 +4,5 @@ add_core = TUR
 add_core = SER
 add_core = ALB
 add_core = YUG
-trade_goods = timber
+trade_goods = iron
 life_rating = 35

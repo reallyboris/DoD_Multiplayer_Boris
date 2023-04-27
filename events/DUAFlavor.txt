@@ -95,13 +95,6 @@ country_event = {
 		AND = {
 			has_country_flag = dual_integration
 			year = 1865
-			OR = {
-				NOT = { owns = 428 }
-				NOT = { owns = 399 }
-				NOT = { owns = 272 }
-				NOT = { owns = 267 }
-			}
-			
 		}
 		AND = {
 			owns = 428 
@@ -274,51 +267,51 @@ country_event = {  # Give England cores if DUA has suceeded and someone else own
 
 	mean_time_to_happen = { days = 3 }
 	
-	option = { 
+	option = {
 	name = "EVTOPTA650296"
-	any_owned = {
-		limit = {
-			OR = {
-				province_id = 273
-				province_id = 274
-				province_id = 275
-				province_id = 276
-				province_id = 277
-				province_id = 278
-				province_id = 279
-				province_id = 280
-				province_id = 281
-				province_id = 282
-				province_id = 283
-				province_id = 284
-				province_id = 285
-				province_id = 286
-				province_id = 287
-				province_id = 288
-				province_id = 289
-				province_id = 290
-				province_id = 291
-				province_id = 292
-				province_id = 293
-				province_id = 294
-				province_id = 295
-				province_id = 296
-				province_id = 297
-				province_id = 298
-				province_id = 299
-				province_id = 300
-				province_id = 301
-				province_id = 302
-				province_id = 303
-				province_id = 304		
+		any_owned = {
+			limit = {
+				OR = {
+					province_id = 273
+					province_id = 274
+					province_id = 275
+					province_id = 276
+					province_id = 277
+					province_id = 278
+					province_id = 279
+					province_id = 280
+					province_id = 281
+					province_id = 282
+					province_id = 283
+					province_id = 284
+					province_id = 285
+					province_id = 286
+					province_id = 287
+					province_id = 288
+					province_id = 289
+					province_id = 290
+					province_id = 291
+					province_id = 292
+					province_id = 293
+					province_id = 294
+					province_id = 295
+					province_id = 296
+					province_id = 297
+					province_id = 298
+					province_id = 299
+					province_id = 300
+					province_id = 301
+					province_id = 302
+					province_id = 303
+					province_id = 304		
+				}
+				owned_by = THIS
+				NOT = { is_core = ENL }		
 			}
-			owned_by = THIS
-			NOT = { is_ core = ENL }		
+	
+			add_core = ENL
+	
 		}
-	
-	add_core = ENL
-	
-	}
 
 		
 	}
@@ -418,7 +411,7 @@ country_event = {  # Remove England cores if DUA owns it and has suceeded
 				province_id = 304		
 			}
 			owned_by = THIS
-			is_ core = ENL		
+			is_core = ENL		
 		}
 	
 	remove_core = ENL
@@ -537,7 +530,7 @@ country_event = {  # Give France cores if DUA has suceeded and someone else owns
 				province_id = 2570		
 			}
 			owned_by = THIS
-			NOT = { is_ core = FRA }		
+			NOT = { is_core = FRA }		
 		}
 	
 	add_core = FRA
@@ -656,7 +649,7 @@ country_event = {  # Remove France cores if DUA has suceeded and owns it
 				province_id = 2570		
 			}
 			owned_by = THIS
-			is_ core = FRA		
+			is_core = FRA		
 		}
 	
 	remove_core = FRA

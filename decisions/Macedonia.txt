@@ -132,11 +132,6 @@ political_decisions = {
 		NOT = { has_country_flag = macedon_serb }		
 		NOT = { has_country_flag = challenge_greece }
 		GRE = { exists = yes 
-			OR = {
-                government = absolute_monarchy
-                government = prussian_constitutionalism
-                government = hms_government
-				}
 			}
 		}
 		

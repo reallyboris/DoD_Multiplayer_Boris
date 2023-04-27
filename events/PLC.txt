@@ -84,9 +84,7 @@ country_event = {
 		name = "22233.A"
 		prestige = 5
 		RUS_965 = { secede_province = UKR }
-	}
-	option = {
-		name = "22233.B"
+		RUS_965 = { add_core = PLC }
 	}
 }
 

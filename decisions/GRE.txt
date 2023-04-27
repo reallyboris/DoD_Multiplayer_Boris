@@ -130,8 +130,7 @@ political_decisions = {
 		picture = Greece_VEN
 	
 		potential = { 
-			tag = VEN 
-			government = democracy 
+			tag = VEN
 			GRE = { vassal_of = VEN } 
 			rank = 15
 			NOT = { has_country_flag = greek_integration }
@@ -159,7 +158,6 @@ political_decisions = {
 	
 		potential = { 
 			tag = VEN 
-			government = democracy 
 			rank = 15
 			NOT = { 
 				has_country_flag = greek_integration 

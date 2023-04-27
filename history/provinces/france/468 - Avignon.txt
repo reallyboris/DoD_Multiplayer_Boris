@@ -2,6 +2,6 @@ owner = PRV
 controller = PRV
 add_core = OCC
 add_core = PRV
-trade_goods = sulphur
+trade_goods = silk
 life_rating = 31
 1861.1.1 = { railroad = 3 }

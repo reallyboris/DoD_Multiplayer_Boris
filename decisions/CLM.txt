@@ -109,10 +109,10 @@ political_decisions = {
 				NOT = { CLM = { governement = democracy } }
 				}
 			}
-			modifier = { 
+			modifier = {
 				factor = 0 
 				AND = { 
-				OR = { 
+				OR = {
 					governement = presidential_dictatorship 
 					government = absolute_monarchy
 					government = prussian_constitutionalism

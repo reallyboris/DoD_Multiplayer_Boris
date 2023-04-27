@@ -3,69 +3,69 @@
 #Kiel (256000/64000 POPS)
 369 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 300  
 	}
 
 	bureaucrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 75 
 	}
 
 	officers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 25  
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 275
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 1400
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 34650
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size = 1825 
 	}
@@ -134,32 +134,32 @@
 #Lauenburg (148000/37000 POPS)
 529 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 250 
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 300 
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 1825
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 31825
 	}
@@ -188,53 +188,53 @@
 #Hamburg (150000/37500 POPS)
 528 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 10000
 	}
 	clerks = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 2000
 	}
 	craftsmen= {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 18000
 	}
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 16250
 	}
@@ -418,44 +418,44 @@
 #Lubeck (46503/11626 POPS)
 530 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 100 
 	}
 
 	bureaucrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 15 
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 175 
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 9950
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 2000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 12395 
 	}
@@ -482,44 +482,44 @@
 #Schwerin (484000/121000 POPS)
 544 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 1225 
 	}
 
 	bureaucrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 275 
 	}
 
 	officers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 150 
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 1200 
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 6000
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1250
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 109800 
 	}
@@ -539,32 +539,32 @@
 #Neustrelitz (90000/22500 POPS)
 545 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 200 
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 1125
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 19950
 	}
@@ -1229,32 +1229,32 @@
 #Swinemunde (132000/33000 POPS)
 547 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 300 
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 1650
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 29725
 	}
@@ -1262,57 +1262,57 @@
 #Stralsund (157000/39250 POPS)
 548 = {
 	aristocrats = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 200 
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 200 
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 2350
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = protestant
 		size = 20250
 	}
 
 	clergymen = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size = 150   
 	}
 
 	artisans = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size = 1400    
 	}
 
 	soldiers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = pomeranian
+		culture = baltic_german
 		religion = catholic
 		size = 12450
 	}
@@ -5181,75 +5181,75 @@
 #Konigsberg (484000/121000 POPS)
 695 = {
 	aristocrats = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 2250 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 1300
 	}
 
 	officers = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 250  
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 825  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 10000   
 	}
 	
 	artisans = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 5000   
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 68875
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = baltic_german
 		religion = catholic
 		size = 175   
 	}
 
 	artisans = {
-		culture = north_german
+		culture = baltic_german
 		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = baltic_german
 		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = baltic_german
 		religion = catholic
 		size = 18025
 	}
@@ -5319,32 +5319,32 @@
 #Gumbinnen (228000/57000 POPS) #now part of Russia 
 697 = {
 	aristocrats = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 1100 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 475   
 	}
 
 	artisans = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 2600   
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size= 550
 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 47275
 	}

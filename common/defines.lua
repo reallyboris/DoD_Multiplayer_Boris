@@ -30,7 +30,7 @@ country = {
 	BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, -- Influence value which is distributed each day
 	AI_SUPPORT_REFORM = 0.025, -- At least this many % needs to support a reform for the AI to take it
 	BASE_MONTHLY_DIPLOPOINTS = 0.3, -- Base value gain for diplomatic actions each month
-	DIPLOMAT_TRAVEL_TIME = 14,
+	DIPLOMAT_TRAVEL_TIME = 1,
 	PROVINCE_OVERSEAS_PENALTY = 0.015, -- Each province req. this many goods flagged as overseas penalty 
 	NONCORE_TAX_PENALTY = -0.05, -- -5% for each non-core in state
 	BASE_TARIFF_EFFICIENCY = 0.1, -- baseline tariff efficiency
@@ -122,8 +122,8 @@ economy = {
 	EMPLOYMENT_HIRE_LOWEST = 0.01,				-- we Hire pops no slower then x% of total required per day
 	EMPLOYMENT_FIRE_LOWEST = 0.01,				-- we Fire pops no slower then x% of total required per day
 	TRADE_CAP_LOW_LIMIT_LAND = 0.05, 				-- the lowest % the slider can go for land units
-	TRADE_CAP_LOW_LIMIT_NAVAL = 0.25, 			-- the lowest % the slider can go for naval units
-	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0.00, 		-- the lowest % the slider can go for constructions
+	TRADE_CAP_LOW_LIMIT_NAVAL = 0.85, 			-- the lowest % the slider can go for naval units
+	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0.15, 		-- the lowest % the slider can go for constructions
 	FACTORY_PURCHASE_MIN_FACTOR = 0.50,			-- the lowest % of its daily needs a factory will purchase
 	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.01		-- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
 },
@@ -189,10 +189,10 @@ military = {
 	RECON_SIEGE_EFFECT = 0.5, -- multiplier to effect of recon on speeding up sieges
 	SIEGE_ATTRITION = 2, -- fixed attrition on sieging units
 	BASE_MILITARY_TACTICS = 1.5, -- base mil tactics before tech
-	NAVAL_LOW_SUPPLY_DAMAGE_SUPPLY_STATUS = 0.25, -- how little supply is acceptable before getting damage to STR
-	NAVAL_LOW_SUPPLY_DAMAGE_DAYS_DELAY = 30, -- delay in days before the STR will get damage due to no supplies. Sometimes supply status may jump bcoz of the market.
-	NAVAL_LOW_SUPPLY_DAMAGE_MIN_STR = 5.0, -- when low supply, the navy will supply STR damage but no less then X% to avoid destruction (value from 0 to 100.0)
-	NAVAL_LOW_SUPPLY_DAMAGE_PER_DAY = 0.25, -- damage to navies STR per day if totally 0% supplies (value from 0 to 100.0)
+	NAVAL_LOW_SUPPLY_DAMAGE_SUPPLY_STATUS = 0.80, -- how little supply is acceptable before getting damage to STR
+	NAVAL_LOW_SUPPLY_DAMAGE_DAYS_DELAY = 5, -- delay in days before the STR will get damage due to no supplies. Sometimes supply status may jump bcoz of the market.
+	NAVAL_LOW_SUPPLY_DAMAGE_MIN_STR = 1.0, -- when low supply, the navy will supply STR damage but no less then X% to avoid destruction (value from 0 to 100.0)
+	NAVAL_LOW_SUPPLY_DAMAGE_PER_DAY = 0.5, -- damage to navies STR per day if totally 0% supplies (value from 0 to 100.0)
 },
 
 diplomacy = {
@@ -665,7 +665,7 @@ pops = {
 	STATE_CREATION_ADMIN_LIMIT = 0.01,
 	MIL_TO_JOIN_REBEL = 7, -- Rebels over this will join a faction
 	MIL_TO_JOIN_RISING = 8, -- Rebels over this will join a general rising
-	MIL_TO_AUTORISE = 9, -- Rebels over this rise no matter what
+	MIL_TO_AUTORISE = 11, -- Rebels over this rise no matter what
 	REDUCTION_AFTER_RISEING = 0.0, -- After a pop spawns a rebellion, its militancy will be reduced this much
 	REDUCTION_AFTER_DEFEAT = 7.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
 																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)

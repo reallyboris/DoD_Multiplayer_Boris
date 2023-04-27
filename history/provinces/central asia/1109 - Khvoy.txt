@@ -3,5 +3,5 @@ controller = AZB
 add_core = ARY
 add_core = KUR
 add_core = AZB
-trade_goods = cotton
+trade_goods = iron
 life_rating = 35

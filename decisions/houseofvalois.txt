@@ -66,12 +66,7 @@ political_decisions = {
 
 		potential = { 
 			tag = ITA 
-			has_country_flag = valois_italy
-			OR = { 
-			government = prussian_constitutionalism 
-			government = hms_government 
-			government = absolute_monarchy 
-			}			
+			has_country_flag = valois_italy		
 			NOT = { has_country_flag = occitania_claimed }
 		}
 
@@ -104,11 +99,6 @@ political_decisions = {
 	picture = hundred_years_war
 		potential = { 
 			tag = ITA 
-			OR = { 
-			government = prussian_constitutionalism 
-			government = hms_government 
-			government = absolute_monarchy 
-			}
 			has_country_flag = occitania_claimed
 			NOT = { has_country_flag = renew_war }
 		}
@@ -148,11 +138,6 @@ political_decisions = {
 	france_italy = { 
 	potential = { 
 			tag = ITA 
-			OR = { 
-			government = prussian_constitutionalism 
-			government = hms_government 
-			government = absolute_monarchy 
-			}
 			has_country_flag = renew_war 
 		}
 	allow = {
@@ -245,11 +230,6 @@ political_decisions = {
 	picture = hundred_years_war
 		potential = {
 			NOT = { has_country_flag = valois_rulez }
-			OR = { 
-			government = prussian_constitutionalism 
-			government = hms_government 
-			government = absolute_monarchy 
-			}
 			tag = PRV
 		}	
 		allow = {
@@ -364,10 +344,6 @@ political_decisions = {
 	lucca_war = { 
 	potential = { 
 	tag = PRV 
-	OR = { 
-	government = absolute_monarchy
-	government = prussian_constitutionalism
-	}
 	LUC = { exists = yes }
 	NOT = { war = yes }
 	NOT = { has_country_flag = lucca_submission }
@@ -375,12 +351,7 @@ political_decisions = {
 	}
 		
 	allow = { 
-		LUC = { 
-		OR = { 
-			government = absolute_monarchy
-			government = prussian_constitutionalism
-			government = hms_government
-			}
+		LUC = {
 		NOT = { vassal_of = THIS }
 			}
 		}

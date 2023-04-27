@@ -1,0 +1,21 @@
+political_decisions = {
+
+	integrating_irish_sca = {
+		potential = {
+			tag = SCA
+			NOT = { has_country_flag = irish_acc }
+		}
+	
+		allow = { 
+			IRE = { all_core = { owned_by = THIS } }
+			nationalism_n_imperialism = 1 
+		}
+		
+		effect = {
+			set_country_flag = irish_acc
+			add_accepted_culture = irish 
+			prestige = 25
+		}
+	
+	}
+}

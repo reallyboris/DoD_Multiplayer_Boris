@@ -1,5 +1,6 @@
 capital = 860
 primary_culture = turkish
+culture = bosniak
 religion = sunni
 government = absolute_monarchy
 plurality = 5.0

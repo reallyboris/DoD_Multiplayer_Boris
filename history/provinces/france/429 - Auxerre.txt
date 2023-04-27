@@ -3,5 +3,5 @@ controller = BRG
 add_core = BRG
 add_core = FRA
 fort = 1 
-trade_goods = iron
+trade_goods = fruit
 life_rating = 31

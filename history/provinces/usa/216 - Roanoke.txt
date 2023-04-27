@@ -3,6 +3,6 @@ controller = PLA
 add_core = PLA
 add_core = CHE
 add_core = NBG
-trade_goods = tobacco
+trade_goods = iron
 life_rating = 35
 	

@@ -103,13 +103,13 @@
 #Parnu (92000/23000 POPS)  
 351 = {
     clergymen = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 550
     }
@@ -135,13 +135,13 @@
 #Tartu/Dorpat (156000/39000 POPS)  
 352 = {
     clergymen = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 550
     }
@@ -185,13 +185,13 @@
 #Kuressaare (16000/4000 POPS)  
 353 = {
     clergymen = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 20
     }
 
     artisans = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 50
     }

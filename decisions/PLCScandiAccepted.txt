@@ -4,19 +4,13 @@ baltic_cultures = {
 		potential = {
 			tag = PLC
 			has_country_flag = lublin_new
-			owns = 354
 			NOT = { has_country_flag = my_latvian_brother }
 		}
 	
 		allow = {
 			war = no
-			OR = {
-				citizens_rights = culture_voting_only
-				citizens_rights = all_voting_pops
-			}
 			nationalism_n_imperialism = 1
 			owns = 354
-			owns = 349
 		}
 	
 		effect = {
@@ -38,8 +32,6 @@ baltic_cultures = {
 	        NOT = { has_country_flag = treaty_hadiach }
 		}
 		allow = {
-            citizens_rights = all_voting_pops
-			NOT = { religious_policy = moralism }
 			revolution_n_counterrevolution = 1 
 			owns = 958 
 			owns = 718 
@@ -89,14 +81,13 @@ baltic_cultures = {
 		}
 
 		allow = {
-			citizens_rights = all_voting_pops
 			nationalism_n_imperialism = 1
 		}
 
 		effect = {
 			prestige = 20
 			set_country_flag = north_integration
-			add_accepted_culture = pomeranian
+			add_accepted_culture = baltic_german
 			any_pop = {
 				limit = {
 					culture = scandinavian
@@ -110,7 +101,7 @@ baltic_cultures = {
 			}
 			any_pop = {
 				limit = {
-					culture = pomeranian
+					culture = baltic_german
 				}
 				consciousness = -1
 				militancy = -3
@@ -219,7 +210,7 @@ baltic_cultures = {
 
 	meddle_with_cossacks = { 
 	
-		potential = { 
+		potential = {
 		OR = { tag = RUS }
 		is_greater_power = yes 
 		UKR = { substate_of = PLC }

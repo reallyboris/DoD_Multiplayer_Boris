@@ -71,6 +71,8 @@ country_event = {
         RUS_1041 = { add_core = RUS } #Ekaterinodar
         GEO_1 = { add_core = RUS } #Phasis
         RUS_1090 = { add_core = RUS } #Georgia proper
+		RUS_1102 = { add_core = RUS } #Azerbaijian
+		RUS_1098 = { add_core = RUS } #Armenia
 
 
         ai_chance = { 

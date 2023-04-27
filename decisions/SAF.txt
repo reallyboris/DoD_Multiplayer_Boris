@@ -157,35 +157,10 @@ form_south_africa = {
 		}
 		
 		allow = { 
-			OR = { 
-			citizenship_policy = full_citizenship
-			citizenship_policy = limited_citizenship
-			}
 			slavery = no_slavery 
 			owns = 2574
 			owns = 2098
-			citizens_rights = all_voting_pops
 			invention = national_fraternity
-			OR = {
-				upper_house = {
-					ideology = socialist
-					value = 0.2
-				}
-				upper_house = {
-					ideology = liberal
-					value = 0.2
-				}
-				AND = {
-					upper_house = {
-						ideology = socialist
-						value = 0.1
-					}
-					upper_house = {
-						ideology = liberal
-						value = 0.1
-					}
-				}
-			}
 		}
 		
 		effect = { 

@@ -119,7 +119,6 @@ political_decisions = {
 			AUS_612 = {
 				add_core = SGF
 			}
-			change_tag = SGF
 		}
 		ai_will_do = {
 			factor = 1

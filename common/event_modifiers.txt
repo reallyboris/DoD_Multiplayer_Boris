@@ -2673,3 +2673,171 @@ purge = {
 	prestige = -0.1
 	icon = 15
 }
+
+recently_demoted_crafts = {
+	icon = 8
+}
+
+recently_demoted = {
+	icon = 8
+}
+
+canal_notification = {
+	icon = 22
+}
+
+land_crossing_notification = {
+	icon = 24
+}
+
+sea_crossing_notification = {
+	icon = 23
+}
+
+no_notifications = {
+	icon = 1
+}
+
+no_notifications_kiel = {
+	icon = 1
+}
+
+no_notifications_suez = {
+	icon = 1
+}
+
+no_colonial_clergy = {
+	icon = 1
+}
+
+reduced_production = {
+	local_RGO_throughput = -0.95
+	local_RGO_output = -0.95
+	icon = 12
+}
+crat_1 = {
+	icon = 5
+}
+crat_1.1 = {
+	icon = 5
+}
+crat_1.2 = {
+	icon = 5
+}
+crat_1.3 = {
+	icon = 5
+}
+crat_1.4 = {
+	icon = 5
+}
+crat_1.5 = {
+	icon = 5
+}
+crat_1.6 = {
+	icon = 5
+}
+crat_1.7 = {
+	icon = 5
+}
+crat_1.8 = {
+	icon = 5
+}
+crat_1.9 = {
+	icon = 5
+}
+crat_2 = {
+	icon = 5
+}
+crat_2.1 = {
+	icon = 5
+}
+crat_2.2 = {
+	icon = 5
+}
+crat_2.3 = {
+	icon = 5
+}
+crat_2.4 = {
+	icon = 5
+}
+crat_2.5 = {
+	icon = 5
+}
+crat_2.6 = {
+	icon = 5
+}
+crat_2.7 = {
+	icon = 5
+}
+crat_2.8 = {
+	icon = 5
+}
+crat_2.9 = {
+	icon = 5
+}
+crat_3 = {
+	icon = 5
+}
+crat_3.1 = {
+	icon = 5
+}
+crat_3.2 = {
+	icon = 5
+}
+crat_3.3 = {
+	icon = 5
+}
+crat_3.4 = {
+	icon = 5
+}
+crat_3.5 = {
+	icon = 5
+}
+crat_3.6 = {
+	icon = 5
+}
+crat_3.7 = {
+	icon = 5
+}
+crat_3.8 = {
+	icon = 5
+}
+crat_3.9 = {
+	icon = 5
+}
+crat_4 = {
+	icon = 5
+}
+crat_4.1 = {
+	icon = 5
+}
+crat_4.2 = {
+	icon = 5
+}
+crat_4.3 = {
+	icon = 5
+}
+crat_4.4 = {
+	icon = 5
+}
+crat_4.5 = {
+	icon = 5
+}
+crat_4.6 = {
+	icon = 5
+}
+crat_4.7 = {
+	icon = 5
+}
+crat_4.8 = {
+	icon = 5
+}
+crat_4.9 = {
+	icon = 5
+}
+
+high_yield_oil_fields = {
+	farm_rgo_size = 3
+	mine_rgo_size = 3
+	icon = 5
+}

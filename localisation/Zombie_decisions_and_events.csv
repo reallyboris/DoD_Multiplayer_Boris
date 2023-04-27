@@ -55,3 +55,5 @@ ally_all_players_title;Ally All Player Countries in the Game;;;;;;;;;;;;;x
 ally_all_players_desc;Does what it says.;;;;;;;;;;;;;x
 end_all_wars_title;Ends All Wars Against You;;;;;;;;;;;;;x
 end_all_wars_desc;Does what it says.;;;;;;;;;;;;;x
+authorize_gas_warfare_title;Authorize Chemical Warfare;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+authorize_gas_warfare_desc;New discoveries and inventions has allowed us to produce chemical weapons for the battlefield, at a cost. \n§RRTaking this decision will enable Gas Attack which gives a +1 roll to every battle, but increases land supply costs by 50%, and cannot be undone.§!;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

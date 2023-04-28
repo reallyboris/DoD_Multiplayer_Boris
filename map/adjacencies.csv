@@ -62,7 +62,7 @@ From;To;Type;Through;Data;Comment
 759;763;sea;2757;0;Strait of Messina
 837;827;sea;2765;0;Ionian Islands Strait
 966;1049;sea;2776;0;Strait of Azov
-512;1686;sea;2746;0;Strait of Gibraltar - Cadiz to Tangiers
+517;2590;sea;3322;0;Strait of North Gibraltar
 331;332;sea;2710;0;Gotland Strait
 374;335;sea;2710;0;Bornholm Strait
 846;872;sea;2771;0;Dodecanese Strait
@@ -232,6 +232,13 @@ From;To;Type;Through;Data;Comment
 2773;2774;canal;860;4;Bosphorus Strait
 2772;2773;canal;859;5;Dardanelles Strait
 #2724;2723;canal;301;6;English Channel
+
+# Gibraltar Canals
+
+2746;3322;canal;517;7;Gibraltar2
+3323;3322;canal;517;8;Gibraltar2
+2746;3321;canal;512;9;Ceuta1
+3323;3321;canal;512;10;Ceuta2
 
 #### Sea Adjacencies ####
 2992;2335;sea;0;0;

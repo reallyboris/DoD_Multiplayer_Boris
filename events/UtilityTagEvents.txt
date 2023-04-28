@@ -20,10 +20,10 @@ country_event = {
 							province_id = 372
 							province_id = 517
 							province_id = 512
-							province_id = 1687
 							province_id = 865
 							province_id = 861
 							province_id = 373
+							province_id = 2590
 						}
 					}
 					add_province_modifier = {
@@ -51,8 +51,6 @@ country_event = {
 							province_id = 861
 							province_id = 759
 							province_id = 763
-							province_id = 1687
-							province_id = 517
 							province_id = 1403
 							province_id = 1413
 							province_id = 1420
@@ -160,6 +158,8 @@ country_event = {
 							province_id = 1531
 							province_id = 1412
 							province_id = 1875
+							province_id = 517
+							province_id = 2590
 						}
 					}
 					add_province_modifier = {

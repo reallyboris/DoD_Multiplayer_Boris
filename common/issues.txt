@@ -786,6 +786,7 @@ economic_reforms = {
 			on_execute = {
 				effect = {
 					activate_technology = freedom_of_trade
+					set_country_flag = yes_land_reform
 					political_reform = peonage
 					political_reform = no_slavery
 					any_pop = {
@@ -818,6 +819,7 @@ economic_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_admin_reform
 					activate_technology = enlightenment_thought
 					any_pop = {
 						scaled_militancy = {
@@ -855,6 +857,7 @@ economic_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_finance_reform
 					activate_technology = private_banks
 					any_pop = {
 						scaled_militancy = {
@@ -882,6 +885,7 @@ economic_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = finance_reform_two
 					activate_technology = stock_exchange
 					any_pop = {
 						scaled_militancy = {
@@ -914,6 +918,7 @@ economic_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_monetary_reform
 					activate_technology = no_standard
 					any_pop = {
 						scaled_militancy = {
@@ -939,6 +944,7 @@ economic_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = monetary_reform_two
 					activate_technology = ad_hoc_money_bill_printing
 					any_pop = {
 						scaled_militancy = {
@@ -973,6 +979,7 @@ economic_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_education_reform
 					activate_technology = malthusian_thought
 					plurality = 5
 					any_pop = {
@@ -1007,6 +1014,7 @@ economic_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_research_reform
 					plurality = 5
 					activate_technology = late_enlightenment_philosophy
 					any_pop = {
@@ -1048,8 +1056,8 @@ economic_reforms = {
 					}
 				}
 				effect = {
+					set_country_flag = yes_transport_improv
 					treasury = -2000
-					set_country_flag = activate_experimental_railroad
 					activate_technology = experimental_railroad
 					
 					build_railway_in_capital = {
@@ -1088,6 +1096,7 @@ economic_reforms = {
 			on_execute = {
 				effect = {
 					treasury = -10000
+					set_country_flag = yes_firearms_production
 					activate_technology = mechanized_mining
 					build_factory_in_capital_state = small_arms_factory
 
@@ -1126,6 +1135,7 @@ economic_reforms = {
 				}
 				
 				effect = {
+					set_country_flag = yes_pre_indust
 				    activate_technology = guild_based_production
 					activate_technology = basic_chemistry
 					treasury = -2000
@@ -1162,6 +1172,7 @@ economic_reforms = {
 			on_execute = {
 				effect = {
 					treasury = -7000
+					set_country_flag = yes_industrial_construction
 					activate_technology = piston_steam_engine
 					build_factory_in_capital_state = fabric_factory
 
@@ -1205,6 +1216,9 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_foreign_training
+					activate_technology = introspectionism
+					activate_technology = associationism
 					country_event = 90959
 					any_pop = {
 						scaled_militancy = {
@@ -1236,7 +1250,7 @@ military_reforms = {
 			on_execute = {
 				effect = {
 					activate_technology = flintlock_rifles
-					set_country_flag = using_foreign_weapons
+					set_country_flag = yes_foreign_weapons
 					
 					any_pop = {
 						scaled_militancy = {
@@ -1277,6 +1291,7 @@ military_reforms = {
 					}
 				}
 				effect = {
+					set_country_flag = yes_military_constructions
 					treasury = -2000
 					activate_technology = post_napoleonic_thought
 					build_fort_in_capital = {
@@ -1315,6 +1330,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_foreign_officers
 					activate_technology = military_staff_system
 					country_event = 90959
 					any_pop = {
@@ -1349,7 +1365,8 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
-				activate_technology = army_command_principle
+					set_country_flag = yes_army_schools
+					activate_technology = army_command_principle
 					random_owned = {
 						limit = { owner = { has_country_modifier = corrupt_army } }
 						owner = { remove_country_modifier = corrupt_army } 
@@ -1388,6 +1405,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_foreign_naval_officers
 					activate_technology = naval_design_bureaus
 					country_event = 90959
 					any_pop = {
@@ -1425,6 +1443,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_naval_schools 
 					activate_technology = alphabetic_flag_signaling
 					activate_technology = the_command_principle
 					country_event = 90959
@@ -1461,6 +1480,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_foreign_navies
 					activate_technology = clipper_design
 					activate_technology = steamers
 					set_country_flag = using_foreign_ships
@@ -1498,6 +1518,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_western_shipyards
 					activate_technology = post_nelsonian_thought
 					set_country_flag = using_foreign_shipyards
 					
@@ -1529,6 +1550,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
+					set_country_flag = yes_foreign_artillery 
 					activate_technology = bronze_muzzle_loaded_artillery
 					set_country_flag = using_foreign_artillery
 					

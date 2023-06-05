@@ -141,7 +141,7 @@ industrial_goods = {
 		color = { 255 255 0 }
 	}
 	fabric = { 
-		cost = 1.8
+		cost = 1.08
 		color = { 186 50 40 }
 	}
 	lumber = { 

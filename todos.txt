@@ -1,0 +1,11 @@
+DONE:8
+
+Implemented expliot proof grants from HMPS
+
+
+TODO:
+
+Adapt eco to no naval cap (scandinavia specifically)
+
+
+DUA overhaul (potato dod)

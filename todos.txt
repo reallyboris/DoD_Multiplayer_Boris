@@ -5,6 +5,8 @@ Implemented expliot proof grants from HMPS
 
 TODO:
 
+Militirization reforms similar to HMPS that dosen't give mob?
+
 Adapt eco to no naval cap (scandinavia specifically)
 
 

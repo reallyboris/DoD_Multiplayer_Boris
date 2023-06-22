@@ -4,6 +4,7 @@ political_decisions = {
 		potential = {
 			tag = SCA
 			NOT = { has_country_flag = irish_acc }
+			NOT = { has_country_flag = SCA_chosen_path }
 		}
 	
 		allow = { 
@@ -13,7 +14,11 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = irish_acc
-			add_accepted_culture = irish 
+			set_country_flag = SCA_chosen_path
+			add_accepted_culture = irish
+			ENG_254 = { add_core = THIS }	
+			ENG_263 = { add_core = THIS }
+			ENG_260 = { add_core = THIS }
 			prestige = 25
 		}
 	

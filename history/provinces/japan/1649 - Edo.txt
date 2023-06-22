@@ -3,4 +3,9 @@ controller = JAP
 add_core = JAP
 trade_goods = grain
 life_rating = 40
+state_building = {
+	level = 2
+	building = luxury_clothes_factory
+	upgrade = yes
+}
 fort = 1

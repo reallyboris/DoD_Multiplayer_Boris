@@ -59,12 +59,12 @@ political_decisions = {
 		}
 		
 		allow = { 
-			war_policy = jingoism
+			state_n_government = 1
 		}
 		
 		effect = {
 			set_country_flag = lol_rekt
-			PRU_690 = { add_core = SCA }
+			HOL_369 = { add_core = SCA }
 			PRU_546 = { add_core = SCA }
 			badboy = 10
 		}
@@ -133,6 +133,7 @@ political_decisions = {
 			any_pop = {
 				limit = {
 					OR = {
+					has_pop_culture = baltic_german
 					has_pop_culture = north_german
 					has_pop_culture = russian
 					}

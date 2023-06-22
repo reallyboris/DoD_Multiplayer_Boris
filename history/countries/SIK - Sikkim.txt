@@ -34,7 +34,6 @@ penal_system = capital_punishment
 child_labor = child_labor_legalcitizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = host_nation
 set_country_flag = gelugpa_country
 
 ruling_party = AAA_conservative_4

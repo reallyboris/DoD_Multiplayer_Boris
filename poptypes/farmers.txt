@@ -16,7 +16,7 @@ life_needs = {
 
 #Total cash needed: 50.75 - Vanilla value: 49.25
 everyday_needs = {
-	tea = 4
+	tea = 4.3
 	coal = 1
 	liquor = 2
 	regular_clothes = 1.2

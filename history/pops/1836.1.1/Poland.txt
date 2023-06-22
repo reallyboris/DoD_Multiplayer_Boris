@@ -1025,32 +1025,32 @@
 #Torun (156000/44000 POPS) 
 694 = {
 	aristocrats = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 850
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 125  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 800  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size= 175
 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = baltic_german
 		religion = protestant
 		size = 13900 
 	}

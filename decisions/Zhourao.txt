@@ -2,7 +2,7 @@ political_decisions = {
 	austral_destiny = { 
 	picture = zuharra
 		potential = { 
-		tag = GAN 
+		tag = DNG 
 		NOT = { has_country_flag = austral_destiny }
 		}
 		

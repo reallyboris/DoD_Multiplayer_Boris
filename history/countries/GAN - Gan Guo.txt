@@ -68,4 +68,3 @@ piston_steam_engine = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "GAN_oob.txt"

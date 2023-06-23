@@ -404,3 +404,5 @@ switch_to_english_title;Choose the English Route;;;;;;;;;;;;;
 switch_to_english_desc;choose the english route, instantly accepting the pops there, and locking yourself out of the french or dual route.;;;;;;;;;;;;;
 switch_to_french_title;Choose the French Route;;;;;;;;;;;;;
 switch_to_french_desc;choose the french route, instantly accepting the pops there, and locking yourself out of the english or dual route.;;;;;;;;;;;;;
+EVTNAME7777929;Militarisation;;;;;;;;;;;;;
+EVTDESC7777929;Instutions take time to have change affected in them, and the policies of the parties in power is what initiates these gradual shifts. Jingoism is locked to the two highest levels, pro-military to the top three, anti-military to the bottom three, and pacifism to the bottom two. The level can be raised or lowered by the executive anyway to a certain degree, as long as it doesnt violate these war policies. \n\n §BCheck the military policy descriptions to view allowed institutional changes§!;;;;;;;;;;;;;

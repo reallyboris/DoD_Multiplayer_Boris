@@ -74,6 +74,30 @@ country_migration_target = {
 		border_policy = quota_immigration
 		THIS = { NOT = { literacy = 0.6 } }
 	}
+	
+	modifier = {
+		factor = 1.2
+		is_greater_power = yes
+	}
+	modifier = {
+		factor = 1.2
+		government = democracy
+	}
+	modifier = {
+		factor = 0.75
+		government = prussian_constitutionalism
+	}
+	modifier = {
+		factor = 0.4
+		OR = {
+			government = proletarian_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = fascist_dictatorship
+			government = absolute_monarchy
+		}
+	}
+	
 	modifier = {
 		factor = 0.75
 		NOT = { military_spending = 0.4 }
@@ -222,13 +246,9 @@ migration_target = {
 	
 	modifier = {
 		factor = 2
-		any_core = {
-			OR = {
-				is_primary_culture = THIS
-				is_accepted_culture = THIS
-			}
+		state_scope = {
+			has_factories = yes
 		}
-		state_scope = {	work_available = { worker = craftsmen } }
 	}
 	modifier = {
 		factor = 1.2
@@ -439,6 +459,14 @@ promote_to = {
 
 	craftsmen = {
 		factor = 0.01
+		
+		modifier = {
+				factor = -100
+				is_primary_culture = no
+				is_accepted_culture = no
+				country = { has_country_flag = disable_non_accepted_craftsmen }
+			}
+		
 		group = {
 			modifier = {
 				factor = -5

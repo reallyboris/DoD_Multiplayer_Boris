@@ -110,6 +110,31 @@ country_migration_target = {
 		factor = 0.1
 		unemployment = 0.5
 	}
+	
+	modifier = {
+		factor = 1.2
+		is_greater_power = yes
+	}
+	modifier = {
+		factor = 1.2
+		government = democracy
+	}
+	modifier = {
+		factor = 0.75
+		government = prussian_constitutionalism
+	}
+	modifier = {
+		factor = 0.4
+		OR = {
+			government = proletarian_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = fascist_dictatorship
+			government = absolute_monarchy
+		}
+	}
+	
+	
 	modifier = {
 		factor = 2.0
 		OR = {
@@ -220,29 +245,32 @@ migration_target = {
 		country = { border_policy = closed_borders }
 	}
 	
-	#modifier = {
-	#	factor = 0
-	#	NOT = { state_scope = {	work_available = { worker = craftsmen } } }
-	#	country = { economic_policy = planned_economy }
-	#	OR = { 
-	#		unemployment_by_type = { type = farmers value = 0.1  }
-	#		unemployment_by_type = { type = labourers value = 0.1  }
-	#	}
-	#}
+	modifier = {
+		factor = 0
+					AND = {
+				state_scope = {
+					has_factories = no
+				}
+				can_build_factory = no
+			}
+		OR = { 
+			unemployment_by_type = { type = farmers value = 0.1  }
+			unemployment_by_type = { type = labourers value = 0.1  }
+		}
+	}
+	
 	modifier = {
 		factor = 1.2
 		has_pop_culture = THIS
 	}
-	#modifier = {
-	#	factor = 2
-	#	any_core = {
-	#		OR = {
-	#			is_primary_culture = THIS
-	#			is_accepted_culture = THIS
-	#		}
-	#	}
-	#	state_scope = {	work_available = { worker = craftsmen } }
-	#}
+	
+	modifier = {
+		factor = 2
+		state_scope = {
+					has_factories = yes
+				}
+	}
+	
 	modifier = {
 		factor = 1.2
 		has_pop_religion = THIS
@@ -861,6 +889,14 @@ promote_to =
 	
 	craftsmen = {
 		factor = 0.01
+		
+		modifier = {
+			factor = -100
+			is_primary_culture = no
+			is_accepted_culture = no
+			country = { has_country_flag = disable_non_accepted_craftsmen }
+		}
+		
 		group = {
 			modifier = {
 				factor =  2

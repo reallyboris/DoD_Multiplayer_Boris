@@ -46,6 +46,36 @@ political_decisions = {
 
 		}
 		effect = {
+		
+			DUA = { treasury = 500000 }
+			SCA = { treasury = 500000 }
+			BRG = { treasury = 500000 }
+			BOH = { treasury = 500000 }
+			SPA = { treasury = 200000 }
+			CLM = { treasury = 100000 }
+			TUR = { treasury = 60000 }
+			TUR = { treasury = 200000 }
+			
+			any_country = {
+				limit = {
+					exists = yes
+					is_secondary_power = yes
+					NOT = {
+						tag = BEL
+						tag = NET
+						tag = SAR
+					}
+				}
+				treasury = 60000
+			}
+			any_country = {
+				limit = {
+					exists = yes
+					is_secondary_power = no
+					is_greater_power = no
+				}
+				treasury = 20000
+			}
 	
 			any_country = { limit = { is_greater_power = yes } capitalists = { money = 1000 } aristocrats = { money = 500 } artisans = { money = 200 } }
 			any_country = { limit = { is_secondary_power = yes } capitalists = { money = 800 } aristocrats = { money = 400 } artisans = { money = 100 } }

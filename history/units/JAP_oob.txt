@@ -278,21 +278,6 @@ army = {
 navy = {
 	name = "Imperial Fleet"
 	location = 1641
-	
-	ship = {
-		name= "Shohei Maru"
-		type = manowar
-	}
-
-	ship = {
-		name= "Kanrin Maru"
-		type = manowar
-	}
-
-	ship = {
-		name= "Kotetsu"
-		type = manowar
-	}
 
 	ship = {
 		name= "Takao"
@@ -339,21 +324,7 @@ navy = {
 navy = {
 	name = "Ashikaga Fleet"
 	location = 1648
-	
-	ship = {
-		name= "Ryujo"
-		type = manowar
-	}
 
-	ship = {
-		name= "Unyo"
-		type = manowar
-	}
-
-	ship = {
-		name= "Kongo"
-		type = manowar
-	}
 	ship = {
 		name= "1st Toyama Frigate"
 		type = frigate

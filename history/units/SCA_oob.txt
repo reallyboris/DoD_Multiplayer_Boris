@@ -403,137 +403,113 @@ army = {
 navy = {
 	name = "Home Navy"
 	location = 372
-	ship = {
-		name= "Danmark"
-		type = manowar
-	}
-
-	ship = {
-		name= "Dronning Marie"
-		type = manowar
-	}
-
-	ship = {
-		name= "Frederik den sjette"
-		type = manowar
-	}
-
-	ship = {
-		name= "Phoenix"
-		type = manowar
-	}
-
-	ship = {
-		name= "Prindsesse Lovise Augusta"
-		type = manowar
-	}
 
 	ship = {
 		name= "Skjold"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Ghana"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "India"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Wilhelm"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Frederick Karl"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Svenson"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Viken"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Aurora"
-		type = manowar
+		type = commerce_raider
 	}
 	ship = {
 		name= "Jan Mayen"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Reykjavik"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Hvanadalshnukur"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Heimdall"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Torstensson"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Glasgow"
-		type = manowar
+		type = commerce_raider
 	}
 	ship = {
 		name= "Finland"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Helsinki"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Oulu"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Farrad"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Eire"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Ilverness"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Barracuda"
-		type = manowar
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "Celsius"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -545,7 +521,17 @@ navy = {
 		name= "Diana"
 		type = frigate
 	}
-
+	
+	ship = {
+		name= "Freja"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Freja"
+		type = frigate
+	}
+	
 	ship = {
 		name= "Freja"
 		type = frigate
@@ -693,101 +679,6 @@ navy = {
 	location = 354
 
 	ship = {
-		name= "Aarhus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Aarbjorg"
-		type = frigate
-	}
-
-	ship = {
-		name= "Riga"
-		type = frigate
-	}
-
-	ship = {
-		name= "Livland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Kurland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Jelgava"
-		type = frigate
-	}
-
-	ship = {
-		name= "Grand Lahou"
-		type = frigate
-	}
-
-	ship = {
-		name= "Harald"
-		type = frigate
-	}
-
-	ship = {
-		name= "Hardraade"
-		type = frigate
-	}
-
-	ship = {
-		name= "Tomiel"
-		type = frigate
-	}
-
-	ship = {
-		name= "Osel"
-		type = frigate
-	}
-
-	ship = {
-		name= "Gotland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Reval"
-		type = frigate
-	}
-
-	ship = {
-		name= "Narva"
-		type = frigate
-	}
-
-	ship = {
-		name= "Pskov"
-		type = frigate
-	}
-
-	ship = {
-		name= "Hindustan"
-		type = frigate
-	}
-
-	ship = {
-		name= "Tartaros"
-		type = frigate
-	}
-
-	ship = {
-		name= "Amesbury"
-		type = frigate
-	}
-
-	ship = {
-		name= "Ireland"
-		type = frigate
-	}
-
-	ship = {
 		name= "Drakkar"
 		type = frigate
 	}
@@ -819,192 +710,13 @@ navy = {
 }
 
 navy = {
-	name = "Fleet of Antillea"
-	location = 2215
-
-	ship = {
-		name= "Duna"
-		type = manowar
-	}
-
-	ship = {
-		name= "Prins Oskar"
-		type = manowar
-	}
-
-	ship = {
-		name= "Äran"
-		type = manowar
-	}
-
-	ship = {
-		name= "Försiktigheten"
-		type = manowar
-	}
-
-	ship = {
-		name= "Gustav den Store"
-		type = manowar
-	}
-
-	ship = {
-		name= "Josefine"
-		type = frigate
-	}
-
-	ship = {
-		name= "Susanna"
-		type = frigate
-	}
-
-	ship = {
-		name= "Piet Retief"
-		type = frigate
-	}
-
-	ship = {
-		name= "Atlantea"
-		type = frigate
-	}
-
-	ship = {
-		name= "Loki"
-		type = frigate
-	}
-}
-
-navy = {
-	name = "Fleet of Mosambique"
-	location = 2060
-
-	ship = {
-		name= "Orinoco"
-		type = manowar
-	}
-
-	ship = {
-		name= "Vanern"
-		type = manowar
-	}
-	
-	ship = {
-		name= "Vattern"
-		type = manowar
-	}
-
-	ship = {
-		name= "Neva"
-		type = manowar
-	}
-
-	ship = {
-		name= "Koskenkorva"
-		type = manowar
-	}
-
-	ship = {
-		name= "Valhalla"
-		type = frigate
-	}
-
-	ship = {
-		name= "Camilla"
-		type = frigate
-	}
-
-	ship = {
-		name= "Af Chapman"
-		type = frigate
-	}
-
-	ship = {
-		name= "Eurydice"
-		type = frigate
-	}
-
-	ship = {
-		name= "Galatea"
-		type = frigate
-	}
-}
-
-navy = {
 	name = "Fleet of the Eastern Indies"
 	location = 1384
 
-	ship = {
-		name= "Heimdal"
-		type = manowar
-	}
-
-	ship = {
-		name= "Valkyrien"
-		type = manowar
-	}
-	
-	ship = {
-		name= "Fäderneslandet"
-		type = manowar
-	}
-
-	ship = {
-		name= "Manligheten"
-		type = manowar
-	}
-
-	ship = {
-		name= "Dristigheten"
-		type = manowar
-	}
-
-	ship = {
-		name= "Packa"
-		type = frigate
-	}
-
-	ship = {
-		name= "Desideira"
-		type = frigate
-	}
-
-	ship = {
-		name= "Jarramas"
-		type = frigate
-	}
-
-	ship = {
-		name= "Hansa"
-		type = frigate
-	}
 
 	ship = {
 		name= "Coventry"
 		type = frigate
-	}
-
-	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5th Transport Flotilla"
-		type = clipper_transport
 	}
 
 	ship = {

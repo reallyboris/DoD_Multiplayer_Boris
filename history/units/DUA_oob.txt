@@ -484,151 +484,6 @@ navy = {
 	name = "Escadre des Indes Orientales"
 	location = 461
 	ship = {
-		name= "Couronne"
-		type = manowar
-	}
-
-	ship = {
-		name= "Superbe"
-		type = manowar
-	}
-
-	ship = {
-		name= "Jean Bart"
-		type = manowar
-	}
-
-	ship = {
-		name= "Deux couronnes"
-		type = manowar
-	}
-
-	ship = {
-		name= "Wagram"
-		type = manowar
-	}
-
-	ship = {
-		name= "Trocadero "
-		type = manowar
-	}
-
-	ship = {
-		name= "Zélandais"
-		type = manowar
-	}
-
-	ship = {
-		name= "Superbe"
-		type = manowar
-	}
-
-	ship = {
-		name= "Austerlitz"
-		type = manowar
-	}
-
-	ship = {
-		name= "Magnifique"
-		type = manowar
-	}
-
-	ship = {
-		name= "Normandie"
-		type = manowar
-	}
-
-	ship = {
-		name= "Conquérant"
-		type = manowar
-	}
-
-	ship = {
-		name= "Neptune"
-		type = manowar
-	}
-
-	ship = {
-		name= "Algerisas"
-		type = manowar
-	}
-
-	ship = {
-		name= "Nestor"
-		type = manowar
-	}
-
-	ship = {
-		name= "Duchesse de Berry"
-		type = frigate
-	}
-
-	ship = {
-		name= "Thétis"
-		type = frigate
-	}
-
-	ship = {
-		name= "Astrée"
-		type = frigate
-	}
-
-	ship = {
-		name= "Amazone"
-		type = frigate
-	}
-
-	ship = {
-		name= "Clorinde"
-		type = frigate
-	}
-
-	ship = {
-		name= "Maure"
-		type = frigate
-	}
-
-	ship = {
-		name= "Vestale"
-		type = frigate
-	}
-
-	ship = {
-		name= "Magicienne"
-		type = frigate
-	}
-
-	ship = {
-		name= "Marie Thérese"
-		type = frigate
-	}
-
-	ship = {
-		name= "Venus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Sirène"
-		type = frigate
-	}
-
-	ship = {
-		name= "Atalante"
-		type = frigate
-	}
-
-	ship = {
-		name= "Surveillante"
-		type = frigate
-	}
-
-	ship = {
-		name= "Iphigénie"
-		type = frigate
-	}
-
-	ship = {
 		name= "Sultane"
 		type = frigate
 	}
@@ -663,140 +518,6 @@ navy = {
 navy = {
 	name = "Escadre de Méditerranée"
 	location = 461
-	ship = {
-		name= "Triton"
-		type = manowar
-	}
-
-	ship = {
-		name= "Etats de Bourgogne"
-		type = manowar
-	}
-
-	ship = {
-		name= "Souverain"
-		type = manowar
-	}
-
-	ship = {
-		name= "Marengo"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ville de Marseilles"
-		type = manowar
-	}
-
-	ship = {
-		name= "Hercule"
-		type = manowar
-	}
-
-	ship = {
-		name= "Montebello "
-		type = manowar
-	}
-
-	ship = {
-		name= "Centaure"
-		type = manowar
-	}
-
-	ship = {
-		name= "Jupiter"
-		type = manowar
-	}
-
-	ship = {
-		name= "Duc d’Angouleme"
-		type = manowar
-	}
-
-	ship = {
-		name= "Hercules"
-		type = manowar
-	}
-
-	ship = {
-		name= "Généreux"
-		type = manowar
-	}
-
-	ship = {
-		name= "Diadème"
-		type = manowar
-	}
-
-	ship = {
-		name= "Couronne"
-		type = manowar
-	}
-
-	ship = {
-		name= "Suffren"
-		type = manowar
-	}
-
-	ship = {
-		name= "Trident"
-		type = manowar
-	}
-
-	ship = {
-		name= "Royal Louis "
-		type = manowar
-	}
-
-	ship = {
-		name= "Commerces de Paris"
-		type = manowar
-	}
-
-	ship = {
-		name= "Terpsichore"
-		type = frigate
-	}
-
-	ship = {
-		name= "Arthémise"
-		type = frigate
-	}
-
-	ship = {
-		name= "Belle Gabrielle"
-		type = frigate
-	}
-
-	ship = {
-		name= "Didon"
-		type = frigate
-	}
-
-	ship = {
-		name= "Caroline"
-		type = frigate
-	}
-
-	ship = {
-		name= "Herminie"
-		type = frigate
-	}
-
-	ship = {
-		name= "Melpomène"
-		type = frigate
-	}
-
-	ship = {
-		name= "Uranie"
-		type = frigate
-	}
-
-	ship = {
-		name= "Andromède"
-		type = frigate
-	}
 
 	ship = {
 		name= "Jeanne d’Arc"
@@ -1010,6 +731,22 @@ navy = {
 		type = frigate
 	}
 
+	ship = {
+		name= "HMS Pique"
+		type = frigate
+	}
+	ship = {
+		name= "HMS Pique"
+		type = frigate
+	}
+	ship = {
+		name= "HMS Pique"
+		type = frigate
+	}
+	ship = {
+		name= "HMS Pique"
+		type = frigate
+	}
 	ship = {
 		name= "HMS Pique"
 		type = frigate

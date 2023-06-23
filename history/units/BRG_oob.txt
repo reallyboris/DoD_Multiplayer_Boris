@@ -428,70 +428,6 @@ army = {
 navy = {
 	name = "Escadre de Flandre"
 	location = 388
-	ship = {
-		name= "Triton"
-		type = manowar
-	}
-
-	ship = {
-		name= "Etats de Flandres"
-		type = manowar
-	}
-
-	ship = {
-		name= "Souverain"
-		type = manowar
-	}
-
-	ship = {
-		name= "Marengo"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ville de Brugges"
-		type = manowar
-	}
-
-	ship = {
-		name= "Hercule"
-		type = manowar
-	}
-
-	ship = {
-		name= "Montebello "
-		type = manowar
-	}
-
-	ship = {
-		name= "Centaure"
-		type = manowar
-	}
-
-	ship = {
-		name= "Jupiter"
-		type = manowar
-	}
-
-	ship = {
-		name= "Duc de Lorraine"
-		type = manowar
-	}
-
-	ship = {
-		name= "Hercules"
-		type = manowar
-	}
-
-	ship = {
-		name= "Généreux"
-		type = manowar
-	}
-
-	ship = {
-		name= "Diadème"
-		type = manowar
-	}
 
 	ship = {
 		name= "Couronne"
@@ -692,46 +628,6 @@ navy = {
 navy = {
 	name = "Escadre de Java"
 	location = 1414
-	ship = {
-		name= "Deus"
-		type = manowar
-	}
-
-	ship = {
-		name= "Alsatia"
-		type = manowar
-	}
-
-	ship = {
-		name= "Neuwelt"
-		type = manowar
-	}
-
-	ship = {
-		name= "Arcadia"
-		type = manowar
-	}
-
-	ship = {
-		name= "Athena"
-		type = manowar
-	}
-
-	ship = {
-		name= "Calvinia"
-		type = frigate
-	}
-
-	ship = {
-		name= "Calais"
-		type = frigate
-	}
-
-	ship = {
-		name= "Burgunda"
-		type = frigate
-	}
-
 	ship = {
 		name= "Santa Maria"
 		type = frigate

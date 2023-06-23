@@ -551,78 +551,10 @@ army = {
 	}
 }
 
-navy = {
-	name = "Imperial Fleet"
-	location = 1569
-	ship = {
-		name= "Manchu"
-		type = frigate
-	}
-
-	ship = {
-		name= "Qing"
-		type = frigate
-	}
-
-	ship = {
-		name= "Beijing"
-		type = frigate
-	}
-
-	ship = {
-		name= "Haishenwai"
-		type = frigate
-	}
-
-	ship = {
-		name= "Qingqiu"
-		type = frigate
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-}
 
 navy = {
 	name = "Southern Fleet"
 	location = 1565
-	ship = {
-		name= "Nanjing"
-		type = frigate
-	}
-
-	ship = {
-		name= "Shanghai"
-		type = frigate
-	}
-
-	ship = {
-		name= "Jiangsu"
-		type = frigate
-	}
 
 	ship = {
 		name= "Guangzhou"

@@ -53,6 +53,8 @@ political_decisions = {
 				limit = { is_greater_power = no is_secondary_power = no civilized = yes }
 				capitalists = { money = 500 } aristocrats = { money = 200 } artisans = { money = 50 } 
 			}
+			DUA = { country_event = 650201 } # Guide for DUA paths for player day1
+			DUA = { country_event = { id = 650202 days = 1460 } } # will happen in 1840 for DUA
 			country_event = 1000090
 			set_global_flag = money_setup_done
 		}

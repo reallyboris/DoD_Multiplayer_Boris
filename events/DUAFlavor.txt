@@ -2,80 +2,48 @@
 country_event = {
 
 	id = 650201
-	title = "DUA1.T"
-	desc = "DUA1.D"
-
+	title = "EVTNAME650201"
+	desc = "EVTDESC650201"
+	
+	
+	is_triggered_only = yes
 	major = yes
-	fire_only_once = yes
-	
-	trigger = {
-	fire_only_once = yes
-	tag = DUA
-	NOT = { has_country_flag = french_integration }
-	NOT = { has_country_flag = english_integration }
-	NOT = { has_country_flag = dual_integration }
-	}
-	
-	mean_time_to_happen = {
-		days = 2
-	}
 	
 	option = {
-		name = "650201.A"
-		set_country_flag = french_integration
-		set_global_flag = french_int
-		add_accepted_culture = french
-		any_pop = {
-			limit = {
-				culture = french
-				location = {
-					is_core = FRA
-				}
-			}
-			militancy = -4
-		}
+		name = "Ok, i understand"
+	}
+}
+
+
+country_event = {
+
+	id = 650202
+	title = "EVTNAME650202"
+	desc = "EVTDESC650202"
+	
+	
+	is_triggered_only = yes
+	major = yes
+		
+	immediate = {
 		random_owned = {
-				limit = {
-					FRA = { exists = no }
+			limit = {
+				owner = {
+					NOT = { has_country_flag = DUA_set_focus }
 				}
-				FRA = { all_core = { remove_core = FRA } }
 			}
-		ai_chance = { 
-		factor = 50
-		}
+			owner = {
+				set_country_flag = DUA_set_focus
+				set_country_flag = anglois_int
+				country_event = { id = 650248 days = 10950 } # event will happen in 1870, and give all accepted
+				
+			}
+		}	
+	
 	}
 	
 	option = {
-		name = "650201.B"
-		set_country_flag = english_integration
-		set_global_flag = english_int
-		add_accepted_culture = english
-		any_pop = {
-			limit = {
-				culture = english
-				location = {
-					is_core = ENL
-				}
-			}
-			militancy = -4
-		}
-		random_owned = {
-			ENL = { all_core = { remove_core = ENL } }
-		}
-		ai_chance = { 
-			factor = 20
-			}
-	}
-	option = {
-		name = "650201.C"
-		set_country_flag = dual_integration
-		add_country_modifier = { 
-			name = anglois_dilemma
-			duration = 15000
-		}
-		ai_chance = { 
-			factor = 30
-		}
+		name = "Ok"
 	}
 }
 
@@ -84,32 +52,10 @@ country_event = {
 	id = 650248
 	title = "DUA48.T"
 	desc = "DUA48.D"
-
+	
+	is_triggered_only = yes
 	major = yes
-	fire_only_once = yes
 	
-	trigger = {
-	tag = DUA
-	has_country_flag = dual_integration
-	OR = {
-		AND = {
-			has_country_flag = dual_integration
-			year = 1865
-		}
-		AND = {
-			owns = 428 
-			owns = 399 
-			owns = 272 
-			owns = 267 		
-			has_country_flag = dual_integration
-			year = 1860		
-		}
-	}
-}
-	
-	mean_time_to_happen = {
-		days = 10
-	}
 	
 	option = {
 		name = "650248.A"
@@ -660,5 +606,3 @@ country_event = {  # Remove France cores if DUA has suceeded and owns it
 	}
 	
 }
-
-

@@ -134,58 +134,91 @@ baltic_cultures = {
 			nationalism_n_imperialism = 1 
 			PRU_549 = {
 				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
 			}
 			HAM_528 = {
 				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
 			}
 			PRU_553 = {
 				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
 			}
-			HAN_534 = {
+			540 = {
 				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
 			}
-			PRU_581 = {
+			541 = {
 				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 					}
-					owner = {
-						vassal_of = THIS
+			}
+			538 = {
+				OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 					}
-				}
+			}
+			585 = {
+				OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+					}
+			}
+			582 = {
+				OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+					}
 			}
 		}
 	

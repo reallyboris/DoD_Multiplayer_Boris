@@ -79,18 +79,6 @@ army = {
 navy = {
 	name = "Fleet of Vinland"
 	location = 77
-
-
-	ship = {
-		name= "Thor"
-		type = frigate
-	}
-
-	ship = {
-		name= "Odin"
-		type = frigate
-	}
-
 	ship = {
 		name= "Loki"
 		type = frigate
@@ -98,11 +86,6 @@ navy = {
 
 	ship = {
 		name= "Vinland"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "Danelaw"
 		type = clipper_transport
 	}
 }

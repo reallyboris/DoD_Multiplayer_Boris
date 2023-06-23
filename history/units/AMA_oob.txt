@@ -73,10 +73,6 @@ army = {
 navy = {
 	name = "Fleet of the Federation"
 	location = 2431
-	ship = {
-		name= "Amazonie"
-		type = frigate
-	}
 
 	ship = {
 		name= "Francois"
@@ -88,8 +84,4 @@ navy = {
 		type = clipper_transport
 	}
 
-	ship = {
-		name= "Jacques"
-		type = clipper_transport
-	}
 }

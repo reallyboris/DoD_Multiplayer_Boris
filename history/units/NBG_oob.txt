@@ -105,11 +105,6 @@ navy = {
 	location = 233
 	
 	ship = {
-		name= "Charles le Téméraire"
-		type = frigate
-	}
-	
-	ship = {
 		name= "Nouveau Monde"
 		type = frigate
 	}

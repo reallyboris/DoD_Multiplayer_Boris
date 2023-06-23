@@ -54,16 +54,18 @@ political_decisions = {
 			SPA = { treasury = 200000 }
 			CLM = { treasury = 100000 }
 			TUR = { treasury = 60000 }
-			TUR = { treasury = 200000 }
+			ARA = { treasury = 200000 }
+			
+			
+			JAP = { treasury = 90000 }
+			VIN = { treasury = 40000 }
 			
 			any_country = {
 				limit = {
 					exists = yes
 					is_secondary_power = yes
 					NOT = {
-						tag = BEL
-						tag = NET
-						tag = SAR
+						tag = JAP
 					}
 				}
 				treasury = 60000
@@ -73,6 +75,9 @@ political_decisions = {
 					exists = yes
 					is_secondary_power = no
 					is_greater_power = no
+					NOT = {
+						tag = VIN
+					}
 				}
 				treasury = 20000
 			}

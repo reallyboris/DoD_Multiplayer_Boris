@@ -336,7 +336,7 @@ turn_off_vassal_payments_desc;Our coffers are full enough and members of the cab
 turn_on_vassal_payments_title;Oblige Vassals to Contribute to our Treasury!;;;;;;;;;;;;;
 turn_on_vassal_payments_desc;The earlier tax break offered to vassals has run its course. We need that every vassal of $COUNTRY$ to do their part and contribute to the maintenance of $COUNTRY_ADJ$ glory.;;;;;;;;;;;;;
 request_lend_lease_title;Request Lend Lease;;;;;;;;;;;;;
-request_lend_lease_desc;This will request military or industrial goods from other players, similar to a grant. Please note the sender needs to have the "Economic Responsibility" tech in order to recieve the request.;;;;;;;;;;;;;
+request_lend_lease_desc;This will request military or industrial goods from other players, similar to a grant. Please note the sender needs to have the "Market Regulations" tech in order to recieve the request.;;;;;;;;;;;;;
 form_germany_title;Three Hurrahs For Germany! @GER;;;;;;;;;;;;;
 form_italy_title;Avanti Italia! @ITA;;;;;;;;;;;;;
 form_north_german_confederation_title;The North German Confederation @NGF;;;;;;;;;;;;;

@@ -52,11 +52,6 @@ navy = {
 
 
 	ship = {
-		name= "Dong Guo"
-		type = frigate
-	}
-
-	ship = {
 		name= "Shanghai"
 		type = frigate
 	}

@@ -18349,3 +18349,27 @@ country_event = {
 		name = "k"
 	}
 }
+
+
+country_event = {
+	id = 1000009
+	title = "Siege"
+	desc = "You will siege your enemies"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	immediate = {
+		any_country = {
+			limit = {
+				tag = FROM
+			}
+			any_owned = {
+				change_controller = THIS
+			}			
+		}
+	}
+
+	option = {
+		name = "Based"
+	}
+}

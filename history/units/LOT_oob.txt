@@ -50,10 +50,6 @@ army = {
 navy = {
 	name = "Republican Fleet"
 	location = 2344
-	ship = {
-		name= "Ursus"
-		type = frigate
-	}
 
 	ship = {
 		name= "Victoria"

@@ -116,10 +116,6 @@ army = {
 navy = {
 	name = "Fleet of the Serenessima"
 	location = 729
-	ship = {
-		name= "Costanza Guerriera"
-		type = manowar
-	}
 
 	ship = {
 		name= "San Giovanni Battista"
@@ -144,25 +140,6 @@ navy = {
 	ship = {
 		name= "2a Squadrone Transporti"
 		type = clipper_transport
-	}
-}
-
-navy = {
-	name = "Fleet of Crete"
-	location = 848
-	ship = {
-		name= "Stella Maris"
-		type = manowar
-	}
-
-	ship = {
-		name= "Colomba d'Oro"
-		type = frigate
-	}
-
-	ship = {
-		name= "Croce Rossa"
-		type = frigate
 	}
 }
 

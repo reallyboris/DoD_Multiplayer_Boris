@@ -96,15 +96,6 @@ army = {
 navy = {
 	name = "Marine Royale de Plantagénie"
 	location = 139
-	ship = {
-		name= "Gloire"
-		type = frigate
-	}
-
-	ship = {
-		name= "Liberite"
-		type = frigate
-	}
 
 	ship = {
 		name= "Egalite"

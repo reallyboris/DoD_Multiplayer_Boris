@@ -230,6 +230,24 @@ political_decisions = {
 			factor = 0
 		}
 	}
+	unsige_yourself = {
+	picture = unsiege
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			country_event = 999993
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
 	choose_country_to_siege = {
 	picture = host
 		potential = {
@@ -258,7 +276,7 @@ political_decisions = {
 			factor = 0
 		}
 	}
-	siege_country = {
+	siege_country_to_target = {
 	picture = siege
 		potential = {
 			has_country_flag = showing_host_decisions
@@ -278,6 +296,54 @@ political_decisions = {
 				country_event = 999994
 			}
 			clr_country_flag = has_chosen_siege_country
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	siege_country_to_yourself = {
+	picture = siege
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				any_owned = {
+					change_controller = THIS
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	get_sieged_by_target = {
+	picture = siege
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			random_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				country_event = 1000009
+			}
 		}
 		ai_will_do = {
 			factor = 0

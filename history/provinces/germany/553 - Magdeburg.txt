@@ -11,13 +11,19 @@ state_building = {
 	upgrade = yes
 }
 state_building = {
-	level = 2 
+	level = 1 
 	building = small_arms_factory
 	upgrade = yes
 }
 state_building = {
 	level = 2 
 	building = paper_mill
+	upgrade = yes
+}
+
+state_building = {
+	level = 2 
+	building = artillery_factory
 	upgrade = yes
 }
 1861.1.1 = {

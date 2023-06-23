@@ -1148,19 +1148,19 @@
 	}
 	
 	aristocrats = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1000
 	}
 
 	officers = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1550
 	}
@@ -1178,7 +1178,7 @@
 	}
 	
 	artisans = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1000
 	}
@@ -1199,7 +1199,7 @@
 #St Brieuc (604000/151000 POPS)
 421 = {
 	aristocrats = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1200
 	}
@@ -1217,7 +1217,7 @@
 	}
 	
 	artisans = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1000
 	}
@@ -1238,7 +1238,7 @@
 #Vannes (436000/109000 POPS)
 422 = {
 	aristocrats = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1100
 	}
@@ -1256,7 +1256,7 @@
 	}
 	
 	artisans = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1000
 	}
@@ -1277,13 +1277,13 @@
 #Nantes (476000/119000 POPS)
 423 = {
 	aristocrats = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1200
 	}
@@ -1295,13 +1295,13 @@
 	}
 	
 	artisans = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 10000
 	}
 
 	labourers = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 30000
 	}
@@ -1315,19 +1315,19 @@
 #Rennes (548000/137000 POPS)
 424 = {
 	aristocrats = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1400
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 1350
 	}
 
 	artisans = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 9000
 	}
@@ -1346,7 +1346,7 @@
 	}
 	
 	farmers = {
-		culture = anglois
+		culture = breton
 		religion = catholic
 		size = 20000
 	}

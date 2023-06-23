@@ -19,25 +19,6 @@ political_decisions = {
 			add_accepted_culture = irish
 			add_accepted_culture = scottish
 			capital = 300
-			FRA_461 = { remove_core = DUA }
-			FRA_451 = { remove_core = DUA }
-			FRA_435 = { remove_core = DUA }
-			FRA_399 = { remove_core = DUA }
-			FRA_467 = { remove_core = DUA }
-			FRA_412 = { remove_core = DUA }
-			FRA_418 = { remove_core = DUA }
-			FRA_442 = { remove_core = DUA }
-			FRA_455 = { remove_core = DUA }
-			FRA_445 = { remove_core = DUA }
-			FRA_420 = { remove_core = DUA }
-			FRA_428 = { remove_core = DUA }
-			FRA_404 = { remove_core = DUA }
-			FRA_411 = { remove_core = DUA }
-			FRA_448 = { remove_core = DUA }
-			FRA_458 = { remove_core = DUA }
-			FRA_438 = { remove_core = DUA }
-			FRA_425 = { remove_core = DUA }
-			ESK_1 = { remove_core = DUA }
 			FRA_438 = { add_core = FRA }
 			FRA_425 = { add_core = FRA }
 			FRA_435 = { add_core = FRA }
@@ -48,6 +29,18 @@ political_decisions = {
 			FRA_420 = { add_core = FRA }
 			FRA_428 = { add_core = FRA }
 			FRA_404 = { add_core = FRA }
+			ENG_263 = { remove_core = ENL }
+			ENG_260 = { remove_core = ENL }
+			ENG_254 = { remove_core = ENL }
+			ENG_271 = { remove_core = ENL }
+			ENG_300 = { remove_core = ENL }
+			ENG_291 = { remove_core = ENL }
+			ENG_284 = { remove_core = ENL }
+			ENG_266 = { remove_core = ENL }
+			ENG_280 = { remove_core = ENL }
+			ENG_273 = { remove_core = ENL }
+			ENG_277 = { remove_core = ENL }
+			ENG_296 = { remove_core = ENL }
 		}
 	}
 	
@@ -70,18 +63,25 @@ political_decisions = {
 			add_accepted_culture = provencal
 			add_accepted_culture = basque
 			capital = 425
-			ENG_263 = { remove_core = DUA }
-			ENG_260 = { remove_core = DUA }
-			ENG_254 = { remove_core = DUA }
-			ENG_271 = { remove_core = DUA }
-			ENG_300 = { remove_core = DUA }
-			ENG_291 = { remove_core = DUA }
-			ENG_284 = { remove_core = DUA }
-			ENG_266 = { remove_core = DUA }
-			ENG_280 = { remove_core = DUA }
-			ENG_273 = { remove_core = DUA }
-			ENG_277 = { remove_core = DUA }
-			ENG_296 = { remove_core = DUA }
+			FRA_461 = { remove_core = FRA remove_core = OCC }
+			FRA_451 = { remove_core = FRA remove_core = OCC }
+			FRA_435 = { remove_core = FRA remove_core = OCC }
+			FRA_399 = { remove_core = FRA remove_core = OCC }
+			FRA_467 = { remove_core = FRA remove_core = OCC }
+			FRA_412 = { remove_core = FRA remove_core = OCC }
+			FRA_418 = { remove_core = FRA remove_core = OCC }
+			FRA_442 = { remove_core = FRA remove_core = OCC }
+			FRA_455 = { remove_core = FRA remove_core = OCC }
+			FRA_445 = { remove_core = FRA remove_core = OCC }
+			FRA_420 = { remove_core = FRA remove_core = OCC }
+			FRA_428 = { remove_core = FRA remove_core = OCC }
+			FRA_404 = { remove_core = FRA remove_core = OCC }
+			FRA_411 = { remove_core = FRA remove_core = OCC }
+			FRA_448 = { remove_core = FRA remove_core = OCC }
+			FRA_458 = { remove_core = FRA remove_core = OCC }
+			FRA_438 = { remove_core = FRA remove_core = OCC }
+			FRA_425 = { remove_core = FRA remove_core = OCC }
+			ESK_1 = { remove_core = FRA remove_core = OCC }
 			ENG_300 = { add_core = ENL }
 			ENG_296 = { add_core = ENL }
 			ENG_280 = { add_core = ENL }
@@ -181,7 +181,7 @@ political_decisions = {
 		potential = {
 			tag = DUA 
 				NOT = { has_country_flag = Paris_congress }
-				NOT = { has_country_flag = provencal_acc }
+				NOT = { accepted_culture = provencal }
 				NOT = { has_country_flag = DUA_schooling }
 			OR = { 
 				has_country_flag = Anglois_accepted 
@@ -195,7 +195,6 @@ political_decisions = {
 		}
 	
 		effect = {
-			set_country_flag = provencal_acc
 			add_accepted_culture = provencal 
 		}
 	
@@ -205,7 +204,7 @@ political_decisions = {
 		potential = {
 			tag = DUA 
 				NOT = { has_country_flag = Paris_congress }		
-				NOT = { has_country_flag = irish_acc }
+				NOT = { accepted_culture = irish }
 				NOT = { has_country_flag = DUA_schooling }
 				NOT = { has_global_flag = french_int }
 		}
@@ -216,7 +215,6 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = irish_acc
 			add_accepted_culture = irish 
 		}
 	
@@ -248,7 +246,7 @@ political_decisions = {
 		potential = {
 			tag = DUA 
 			NOT = { has_country_flag = Paris_congress }
-			NOT = { has_country_flag = scottish_acc }
+			NOT = { accepted_culture = scottish }
 			NOT = { has_country_flag = DUA_schooling }
 			has_country_flag = scotland_acc
 		}
@@ -259,7 +257,6 @@ political_decisions = {
 		}
 	
 		effect = { 
-			set_country_flag = scottish_acc
 			add_accepted_culture = scottish 
 		}
 	
@@ -269,7 +266,7 @@ political_decisions = {
 		potential = {
 			tag = DUA 
 			NOT = { has_country_flag = Paris_congress }
-			NOT = { has_country_flag = basque_acc }
+			NOT = { accepted_culture = basque }
 			NOT = { has_country_flag = DUA_schooling }
 			OR = { 
 				has_country_flag = Anglois_accepted 

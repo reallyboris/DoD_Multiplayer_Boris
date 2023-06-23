@@ -91,8 +91,7 @@ machine_part_user_template = {
 
 cement_template = {
 	efficiency = {
-		iron = 2.3 #if no cement, work at 75% efficiency #cost = 16.0
-		machine_parts = 0.05 # was 0.01 cost = 36.5 		#9.825/day/level for both
+		machine_parts = 0.1 # was 0.01 cost = 36.5 		#9.825/day/level for both
 	}
 	
 	owner = {

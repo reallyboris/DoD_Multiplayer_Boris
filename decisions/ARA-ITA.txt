@@ -344,9 +344,7 @@ political_decisions = {
 			NOT = { has_country_flag = abandon_italy }
 		}
 		allow = {
-			NOT = {	owns = 754 }
-			NOT = { owns = 756 }
-			NOT = { owns = 762 }
+			
 		}
 		effect = {
 			ARA = {

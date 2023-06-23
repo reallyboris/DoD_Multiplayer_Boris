@@ -1600,13 +1600,13 @@
 #Cambridge (308000/77000 POPS)
 291 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 250
 	}
@@ -1618,7 +1618,7 @@
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 500
 	}
@@ -1632,13 +1632,7 @@
 	soldiers = {
 		culture = english
 		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = anglois
-		religion = catholic
-		size = 3000
+		size = 6000
 	}
 	
 	labourers = {
@@ -1654,7 +1648,7 @@
 	}
 	
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 28000
 	}
@@ -1662,13 +1656,13 @@
 #Ipswich (676000/169000 POPS)
 292 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1500
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1100
 	}
@@ -1692,7 +1686,7 @@
 	}
 	
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 60000
 	}
@@ -1700,13 +1694,13 @@
 #Chelmsford (276000/69000 POPS)
 293 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 375
 	}
@@ -1730,7 +1724,7 @@
 	}
 	
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 27000
 	}
@@ -1778,13 +1772,13 @@
 #St. Albans (312000/78000 POPS)
 295 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1500
 	}
@@ -1808,7 +1802,7 @@
 	}
 	
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 30000
 	}
@@ -1817,13 +1811,13 @@
 #Bristol (404000/101000 POPS)
 296 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 500
 	}
@@ -1835,37 +1829,37 @@
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1625
 	}
 
 	capitalists = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 250
 	}
 
 	clerks = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 600
 	}
 
 	craftsmen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 12000
 	}
 
 	artisans = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 3000
 	}
@@ -1883,7 +1877,7 @@
 	}
 	
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 12275
 	}
@@ -1903,31 +1897,31 @@
 #Salisbury (408000/102000 POPS)
 297 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 5000
 	}
 
 	craftsmen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 12000
 	}
 
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 42375
 	}
@@ -1947,31 +1941,31 @@
 #Bath (408000/102000 POPS)
 298 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1750
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1625
 	}
 
 	artisans = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 5000
 	}
 
 	craftsmen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 12000
 	}
 
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 37625
 	}
@@ -1991,25 +1985,25 @@
 #Plymouth (812000/203000 POPS)
 299 = {
 	aristocrats = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1500
 	}
 
 	clergymen = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 1250
 	}
 
 	artisans = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 5500
 	}
 
 	labourers = {
-		culture = anglois
+		culture = english
 		religion = catholic
 		size = 56250
 	}

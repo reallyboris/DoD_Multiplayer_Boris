@@ -90,6 +90,7 @@ political_decisions = {
 			}
 			DUA = { country_event = 650201 } # Guide for DUA paths for player day1
 			DUA = { country_event = { id = 650202 days = 1460 } } # will happen in 1840 for DUA
+			
 			DUA = { activate_technology = ideological_thought }
 			SCA = { activate_technology = ideological_thought }
 			country_event = 1000090

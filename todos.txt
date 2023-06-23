@@ -6,22 +6,24 @@ no naval cap
 
 Scandi can get EITHER elbian accepted n cored, or irish accepted n cored (baltic german is given to both)
 
-DM rework, similar to femboy dod, though you don't lose cores
+DM rework, similar to femboy dod, you can pick either french or english until 1840, where if you havent picked anything by that point, you'll take the dual route and get all accepted by 1870. Less anglois pops too
 
 Changed RGOs around a lil bit
 
 utility and host decisions/events
 
-TODO:
+Immigration and pop mechanics from alstadt
 
-Militirization reforms similar to HMPS that dosen't give mob?
+able to send goods with grants after 1850 (market regulations tech)
 
-Adapt eco to no naval cap (scandinavia specifically)
+reduced factory build time
 
+imported alot of decision changes from zoomer dod, which removes alot of reform and govt conditions for decisions
 
+removed mob size from conscription reforms, instead it simply gives army bonuses at the cost of other maluses. can be changed once a year with a event
 
+added new military and navy factories
 
-DUA overhaul (potato dod)
-
+fabric no longer requires dye to make, and dye is required for clothes directly instead. Basically it means clipper convoys dosent require dyes to build, but just more cotton
 
 

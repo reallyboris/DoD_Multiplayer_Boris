@@ -3,3 +3,50 @@ DONE:
 
 
 TODO:
+
+merge african/other cultures
+
+change militancy/infamy penalites from trucebreak
+	
+warscore rework (alstadt too)
+
+consider making frigates require lvl 1 ports to build
+
+sulfur in provence
+
+alstadt defines
+
+faster railraods/forts/ports
+
+small/medium/big puppet and 3 way transfer cbs from alstadt
+
+fix diplo wait time (also defines)
+
+revert elbian form conditions to the old dod (wtf zoomer)
+
+goods.txt causing ooses? (reno)
+
+general traits saying atk or def
+
+add starting techs to uncivs matching their reforms
+
+gold rush on oil spawn, extra large oil fields
+
+change NVs?
+
+remove conscription decision
+
+too much tea and silk (and maybe cotton/wood too)
+
+new turkey paths that arent dumb
+
+china shouldnt start with enlightenment philisophy
+
+No chinese rebels???
+
+better starting situation for many countries, but most importantly scandi
+
+buff party nf
+
+remove the extra vassal release decisions (the one with a decision for each country)
+

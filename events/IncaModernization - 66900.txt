@@ -1,6 +1,6 @@
 
 province_event = {
-	id = 50001
+	id = 500001
 	title = "Baby Boom in $STATENAME$"
 	desc = "Our newly modernized country and natalism is seeing a stark increase in birth rates."
 	
@@ -52,7 +52,7 @@ province_event = {
 }
 
 country_event = {
-	id = 50002
+	id = 500002
 	title = "B" 
 	desc = "O."
 	
@@ -75,7 +75,7 @@ country_event = {
 	}	
 }
 country_event = {
-	id = 50003
+	id = 500003
 	title = "The End of Natalism" 
 	desc = "After the long population campaign, the results have begun to slow down and birth rates has returned to normal."
 

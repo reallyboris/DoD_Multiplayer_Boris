@@ -1235,7 +1235,7 @@ artisan_paper = {
 
 artisan_regular_clothes = {       
 	input_goods = {  
-		fabric = 40		#was 81
+		fabric = 45		#was 81
 		dye = 2.4
 	}
 	output_goods = regular_clothes
@@ -1369,7 +1369,7 @@ artisan_lumber = {
 
 artisan_fabric = {       
 	input_goods = {     
-		cotton = 18	#46
+		cotton = 23	#46
 	}
 	output_goods = fabric
 	value = 45			#81

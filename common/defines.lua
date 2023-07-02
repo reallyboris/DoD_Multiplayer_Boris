@@ -112,7 +112,7 @@ economy = {
 	SECOND_RANK_BASE_SHARE_FACTOR = 0.5,
 	CIV_BASE_SHARE_FACTOR = 0.75,
 	UNCIV_BASE_SHARE_FACTOR = 1,
-	FACTORY_PAYCHECKS_LEFTOVER_FACTOR = 0.3, -- % of how much we pay to the pops and capitalists, from the leftovers.
+	FACTORY_PAYCHECKS_LEFTOVER_FACTOR = 0.98, -- % of how much we pay to the pops and capitalists, from the leftovers.
 	MAX_FACTORY_MONEY_SAVE = 3000,	-- how much money is stored maximum in a factory.
 	SMALL_DEBT_LIMIT = 20000,
 	FACTORY_UPGRADE_EMPLOYEE_FACTOR = 0.75, -- determines how close to the employee limit we need to be before "upgrade all" will upgrade/expand a given factory (1 = 100%).
@@ -124,8 +124,8 @@ economy = {
 	TRADE_CAP_LOW_LIMIT_LAND = 0.05, 				-- the lowest % the slider can go for land units
 	TRADE_CAP_LOW_LIMIT_NAVAL = 0.85, 			-- the lowest % the slider can go for naval units
 	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0.15, 		-- the lowest % the slider can go for constructions
-	FACTORY_PURCHASE_MIN_FACTOR = 0.50,			-- the lowest % of its daily needs a factory will purchase
-	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.01		-- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
+	FACTORY_PURCHASE_MIN_FACTOR = 1,			-- the lowest % of its daily needs a factory will purchase
+	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.025		-- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
 },
 
 military = {
@@ -141,10 +141,10 @@ military = {
 	EXP_GAIN_DIV = 0.05,
 	LEADER_RECRUIT_COST = 20,
 	SUPPLY_RANGE = 50,
-	POP_MIN_SIZE_FOR_REGIMENT_PROTECTORATE_MULTIPLIER = 6,
-	POP_MIN_SIZE_FOR_REGIMENT_COLONY_MULTIPLIER = 4,
+	POP_MIN_SIZE_FOR_REGIMENT_PROTECTORATE_MULTIPLIER = 8,
+	POP_MIN_SIZE_FOR_REGIMENT_COLONY_MULTIPLIER = 5,
 	POP_MIN_SIZE_FOR_REGIMENT_NONCORE_MULTIPLIER = 3, -- VALUE * POP_MIN_SIZE_FOR_REGIMENT is min for noncores
-	GAS_ATTACK_MODIFIER = 3,
+	GAS_ATTACK_MODIFIER = 1,
 	COMBATLOSS_WAR_EXHAUSTION = 3, -- base war exhaustion in combat
 	LEADER_MAX_RANDOM_PRESTIGE = 0.05, -- max percent of prestige, when randomizing stats for leaders.
 	LEADER_AGE_DEATH_FACTOR = 4, -- higher value means leaders live longer
@@ -172,9 +172,9 @@ military = {
 	NAVAL_COMBAT_STACKING_TARGET_SELECT = 0.2, -- modifier for how much the stacking penalty affects the target selection.
 	NAVAL_COMBAT_MAX_TARGETS = 6, -- max number of ships that may target the same enemy ship
 	AI_BIGSHIP_PROPORTION = 0.2, -- fraction of ships in the navy that should be ships of the line
-	AI_LIGHTSHIP_PROPORTION = 0.6, -- fraction of ships in the navy that should be cruisers, frigates etc
-	AI_TRANSPORT_PROPORTION = 0.3, -- fraction of ships in the navy that should be should be transports
-	AI_CAVALRY_PROPORTION = 0.15, -- fraction of brigades that should be cavalry
+	AI_LIGHTSHIP_PROPORTION = 0.4, -- fraction of ships in the navy that should be cruisers, frigates etc
+	AI_TRANSPORT_PROPORTION = 0.6, -- fraction of ships in the navy that should be should be transports
+	AI_CAVALRY_PROPORTION = 0.1, -- fraction of brigades that should be cavalry
 	AI_SUPPORT_PROPORTION = 0.6, -- fraction of brigades that should be artillery and other support units
 	AI_SPECIAL_PROPORTION = 0.0, -- fraction of brigades that should be engineers and tanks
 	AI_ESCORT_RATIO = 2.0, -- ratio of escorts to transports in invasion fleets
@@ -509,7 +509,7 @@ diplomacy = {
 	
 	GUNBOAT_DIPLOMATIC_COST = 1,
 	GUNBOAT_RELATION_ON_ACCEPT = 1,
-	WARGOAL_JINGOISM_REQUIREMENT = 0.015,
+	WARGOAL_JINGOISM_REQUIREMENT = 0,
 
 	LIBERATE_STATE_RELATION_INCREASE = 50,
 	DISHONORED_CALLALLY_PRESTIGE_PENALTY = -3,
@@ -588,7 +588,7 @@ diplomacy = {
 	BACK_CRISIS_RELATION_ON_DECLINE = 0,
 	CRISIS_TEMPERATURE_ON_OFFER_DECLINE = 0,
 	CRISIS_TEMPERATURE_PARTICIPANT_FACTOR = 10, -- How much faster a crisis heats up if all interested parties have taken sides (linear, multiplied)
-	CRISIS_TEMPERATURE_ON_MOBILIZE = 10, -- added temperature if a participant mobilizes
+	CRISIS_TEMPERATURE_ON_MOBILIZE = 0, -- added temperature if a participant mobilizes
 	CRISIS_WARGOAL_INFAMY_MULT = 1, -- Applied to all infamy from adding wargoals in a crisis
 	CRISIS_WARGOAL_PRESTIGE_MULT = 1, -- Applied to all prestige effects on wargoals in a crisis
 	CRISIS_WARGOAL_MILITANCY_MULT = 0, -- Applied to all militancy from failed wargoals in a crisis
@@ -671,8 +671,8 @@ pops = {
 																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
 	
 	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
-	ARTISAN_MIN_PRODUCTIVITY = 5, -- Minimum efficiency of an artisan
-	SLAVE_GROWTH_DIVISOR = 10, -- Slaves have N times lower growth
+	ARTISAN_MIN_PRODUCTIVITY = 1, -- Minimum efficiency of an artisan
+	SLAVE_GROWTH_DIVISOR = 1, -- Slaves have N times lower growth
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
 	LUXURY_CON_CHANGE = 0.001, -- con boost from over-buying luxury goods
@@ -695,12 +695,12 @@ pops = {
 ai =
 {
 	COLONY_WEIGHT = 4.0, -- ai weight for colonising
-	ADMINISTRATOR_WEIGHT = 15.0, -- ai weight for new bureaucrat
+	ADMINISTRATOR_WEIGHT = 25.0, -- ai weight for new bureaucrat
 	INDUSTRYWORKER_WEIGHT = 10.0, -- ai weight for new industry workers
 	EDUCATOR_WEIGHT = 25.0, -- ai weigth for new clergy
 	SOLDIER_WEIGHT = 35.0, -- ai weight for soldiers
 	SOLDIER_FRACTION = 0.045, -- max amount of population AI wants to be soldiers
-	CAPITALIST_FRACTION = 0.007, -- max amount of population AI wants to be capis
+	CAPITALIST_FRACTION = 0, -- max amount of population AI wants to be capis
 	PRODUCTION_WEIGHT = 0.05, -- ai weight for new production
 	SPAM_PENALTY = 20, -- makes certain diplomatic action less common 
 	ONE_SIDE_MAX_WARSCORE = 150, -- don't add too many wargoals to one side in a war

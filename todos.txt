@@ -48,5 +48,7 @@ better starting situation for many countries, but most importantly scandi
 
 buff party nf
 
+remove "trade policy" decisions
+
 remove the extra vassal release decisions (the one with a decision for each country)
 

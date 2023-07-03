@@ -332,15 +332,17 @@ demotion_chance = {
 		modifier = {
 			factor = 0.2
 			unemployment = 0.1
+			country = { civilized = yes }
 		}
 		modifier = {
 			factor = 0.2
 			unemployment = 0.2
+			country = { civilized = yes }
 		}
 		modifier = {
 			factor = 0.3
 			unemployment = 0.3
-			location = { controlled_by = owner }
+			country = { civilized = yes }
 		}		
 		
 	}

@@ -508,32 +508,3 @@ country_event = {
 }
 
 ########################
-country_event = { 
-	id = 333500
-	title = "BrS.T"
-	desc = "BrS.D"
-	
-	trigger = { 
-	tag = PLA 
-	year = 1847 
-	slavery = yes_slavery
-	}
-	
-	fire_only_once = yes 
-	
-	mean_time_to_happen = { 
-	months = 15 
-	}
-	
-	option = { 
-	name = "333500.A"
-	prestige = 2 
-	any_pop = {
-			consciousness = 2
-			dominant_issue = {
-				factor = 0.075
-				value = no_slavery
-			}
-		}
-	}
-}

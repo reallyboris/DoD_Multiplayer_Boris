@@ -51,6 +51,7 @@ upper_house = {
 
 set_country_flag = sunni_country
 set_country_flag = istanbul_not_renamed
+set_country_flag = is_protector_at_the_beginning
 
 decision = ottoman_1836_setup
 

@@ -1,44 +1,5 @@
 political_decisions = {
 
-	LOT_NAN_friendship_decision = {
-		potential = { 
-			tag = LOT
-			NOT = {
-				has_country_flag = kings_statue
-				has_country_flag = lot_nan_friendship
-				has_country_flag = lot_nan_friendship_end
-			}
-			
-		}
-		
-		allow = {
-			money = 50000
-			prestige = 20
-			war = no
-			romanticism = 1
-			NOT = {
-				has_country_flag = kings_statue
-				has_country_flag = lot_nan_friendship
-				has_country_flag = lot_nan_friendship_end
-			}
-			OR = {
-				government = presidential_dictatorship
-				upper_house = {
-					ideology = reactionary
-					value = 0.4
-					}
-			}
-			
-		}
-		
-		effect = {
-			treasury = -50000
-			set_country_flag = kings_statue
-			NAN = { relation = { who = LOT value = 200}
-				}	
-			}
-		}
-	
 	conquest_of_the_desertNAN = {
 
 		picture = NAN_colony

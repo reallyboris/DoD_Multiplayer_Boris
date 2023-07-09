@@ -93,6 +93,23 @@ political_decisions = {
 			
 			DUA = { activate_technology = ideological_thought }
 			SCA = { activate_technology = ideological_thought }
+			SCA = {
+				any_pop = {
+					limit = {
+						has_pop_culture = baltic_german
+					}			
+					literacy = 0.35
+				}
+			}
+			BRG = {
+				any_pop = {
+					limit = {
+						has_pop_culture = rheinish
+					}			
+					literacy = 0.40
+				}
+			}
+			
 			country_event = 1000090
 			set_global_flag = money_setup_done
 		}

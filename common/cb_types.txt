@@ -106,6 +106,9 @@ establish_protectorate_BC_casus_belli
 establish_protectorate_NI_casus_belli
 establish_protectorate_casus_belli
 negotiated_transfer
+negotiated_transfer_colony
+negotiated_transfer_state
+3_way_transfer
 status_quo
 }
 
@@ -5825,6 +5828,7 @@ negotiated_transfer = {
 		ai = no
 		THIS = { ai = no } 
 		THIS = { civilized = yes }
+		NOT { has_global_flag = infamy_transfers }
 	}
 	
 	allowed_states = {
@@ -5853,6 +5857,166 @@ negotiated_transfer = {
 		}
 	}
 }
+
+3_way_transfer = {
+	sprite_index = 5
+	is_triggered_only = yes
+	months = 0
+	crisis = no
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	construction_speed = 1000.0
+
+	can_use = {
+		NOT = { tag = UTI }
+		NOT = { tag = CLN }
+		is_independant = yes
+		ai = no
+		THIS = { ai = no } 
+		OR = {
+			AND = {
+				has_global_flag = infamy_transfers
+				THIS = { has_country_flag = host_nation }
+			}
+			AND = {
+				NOT = { has_global_flag = infamy_transfers }
+			}
+		}
+		
+	}
+	
+	allowed_states = {
+		not = { any_owned_province = { is_capital = yes } }
+	}
+	allowed_countries = {
+		FROM = {
+		ai = no
+		exists = yes
+		civilized = yes
+		}
+		NOT = { tag = FROM }
+		ai = no
+		THIS = { ai = no }
+	}
+
+	po_transfer_provinces = yes
+	
+	war_name = WAR_NEGOTIATE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.00
+		}
+	}
+}
+
+
+# infamy transfers
+negotiated_transfer_state = {
+	sprite_index = 5
+	is_triggered_only = yes
+	months = 1
+	crisis = no
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	construction_speed = 2.0
+
+	can_use = {
+		number_of_states = 2 # annex if you want their last state
+		is_independant = yes
+		ai = no
+		THIS = { ai = no } 
+		THIS = { civilized = yes }
+		has_global_flag = infamy_transfers
+	}
+	
+	allowed_states = {
+		is_colonial = no	
+		not = { any_owned_province = { is_capital = yes } }
+	}
+
+	po_demand_state = yes
+	
+	war_name = WAR_NEGOTIATE_NAME
+	
+	on_add = {
+		badboy = 10
+	}
+}
+
+negotiated_transfer_colony = {
+	sprite_index = 5
+	is_triggered_only = yes
+	months = 1
+	crisis = no
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	construction_speed = 2.0
+
+	can_use = {
+		number_of_states = 2 # annex if you want their last state
+		is_independant = yes
+		ai = no
+		THIS = { ai = no } 
+		THIS = { civilized = yes }
+		has_global_flag = infamy_transfers
+	}
+	
+	allowed_states = {
+		is_colonial = yes	
+		not = { any_owned_province = { is_capital = yes } }
+	}
+
+	po_demand_state = yes
+	
+	war_name = WAR_NEGOTIATE_NAME
+	
+	on_add = {
+		badboy = 5
+	}
+}
+
 
 conquest_low = {
 	sprite_index = 2

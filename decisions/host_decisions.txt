@@ -78,6 +78,26 @@ political_decisions = {
 			factor = 0
 		}
 	}
+	
+	enable_infamytransfers = {
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = infamy_transfers }
+			NOT = { year = 1837 }
+		}
+	
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = infamy_transfers
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
 	ally_all_countries = {
 	picture = ally_yes
 		potential = {

@@ -410,3 +410,5 @@ EVT7777929OPTA;Raise militarisation;;;;;;;;;;;;;
 EVT7777929OPTB;Maintain militarisation;;;;;;;;;;;;;
 EVT7777929OPTC;Lower militarisation;;;;;;;;;;;;;
 conscription;Militarisation;;;;;;;;;;;;;
+enable_infamytransfers_title;Enable Transfers Costing Infamy;;;;;;;;;;;
+enable_infamytransfers_desc;Clicking this decision will make all transfer CBs cost infamy roughly equivalent to the cost of the state/colony. Will also make 3-way transfers host-only.\nThe decision will only be visible till 1837!;;;;;;;;;;;

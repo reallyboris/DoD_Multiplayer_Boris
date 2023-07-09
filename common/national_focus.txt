@@ -128,10 +128,6 @@ diplomatic_focus = {
 		flashpoint_tension = 0.15
 
 		limit = {
-			owner = {
-				has_global_flag = revolution_n_counter_researched
-				is_vassal = no
-			}
 			is_core = THIS
 			THIS = { is_greater_power = no }
 		}

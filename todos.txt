@@ -1,14 +1,17 @@
 DONE:
 
+	misc defines changes
+	
+	option to enable transfers costing infamy
+	
+	cleaned up events/decisions
 
+	changes reqs for changing tech schools
 
 TODO:
 
 merge african/other cultures
 
-change militancy/infamy penalites from trucebreak
-
-option for transfers that cost infamy
 
 30 LR for all of china
 
@@ -31,7 +34,6 @@ alstadt reform values
 
 small/medium/big puppet and 3 way transfer cbs from alstadt
 
-fix diplo wait time (also defines)
 
 revert elbian form conditions to the old dod (wtf zoomer)
 
@@ -41,7 +43,6 @@ general traits saying atk or def
 
 give GC less reforms when they take their accepted decision?
 
-easier reqs for changing tech schools
 
 add starting techs to uncivs matching their reforms
 

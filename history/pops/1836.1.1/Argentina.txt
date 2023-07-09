@@ -974,7 +974,7 @@
 		size = 250
 	}
 
-	artisans =  {
+	artisans = {
 		culture = aimara
 		religion = inti
 		size = 2300

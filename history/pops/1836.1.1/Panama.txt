@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -48,7 +48,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -100,7 +100,7 @@
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -125,7 +125,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -164,7 +164,7 @@
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -189,7 +189,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -228,7 +228,7 @@
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -253,7 +253,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -292,7 +292,7 @@
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -323,7 +323,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 

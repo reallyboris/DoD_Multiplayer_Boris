@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = tigray
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -41,7 +41,7 @@
 	soldiers = {
 		culture = misri
 		religion = sunni
-		size= 200
+		size = 200
 	}
 
 	aristocrats = {
@@ -65,7 +65,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -97,7 +97,7 @@
 	soldiers = {
 		culture = tigray
 		religion = sunni
-		size= 750
+		size = 750
 	}
 
 	farmers = {
@@ -127,7 +127,7 @@
 	soldiers = {
 		culture = afar
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -202,7 +202,7 @@
 	soldiers = {
 		culture = tigray
 		religion = sunni
-		size= 750
+		size = 750
 	}
 
 	farmers = {
@@ -239,7 +239,7 @@
 	soldiers = {
 		culture = tigray
 		religion = coptic
-		size= 750
+		size = 750
 	}
 
 	farmers = {

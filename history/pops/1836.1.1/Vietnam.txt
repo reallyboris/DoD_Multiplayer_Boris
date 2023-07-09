@@ -47,7 +47,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1675
+		size = 1675
 
 	}
 
@@ -122,7 +122,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1325
+		size = 1325
 
 	}
 
@@ -191,7 +191,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1100
+		size = 1100
 
 	}
 
@@ -246,7 +246,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = animist
-		size= 100
+		size = 100
 
 	}
 
@@ -279,7 +279,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1100
+		size = 1100
 
 	}
 
@@ -334,7 +334,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = animist
-		size= 150
+		size = 150
 
 	}
 
@@ -367,7 +367,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1100
+		size = 1100
 
 	}
 
@@ -442,7 +442,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1100
+		size = 1100
 
 	}
 
@@ -513,7 +513,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 2250
+		size = 2250
 
 	}
 
@@ -588,7 +588,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1250
+		size = 1250
 
 	}
 
@@ -639,7 +639,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 1100
+		size = 1100
 
 	}
 
@@ -694,7 +694,7 @@
 	soldiers = {
 		culture = champa
 		religion = hindu
-		size= 225
+		size = 225
 
 	}
 
@@ -745,7 +745,7 @@
 	soldiers = {
 		culture = champa
 		religion = hindu
-		size= 350
+		size = 350
 
 	}
 
@@ -802,7 +802,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 75
+		size = 75
 
 	}
 
@@ -833,7 +833,7 @@
 	soldiers = {
 		culture = champa
 		religion = hindu
-		size= 250
+		size = 250
 
 	}
 
@@ -880,7 +880,7 @@
 	soldiers = {
 		culture = champa
 		religion = hindu
-		size= 1775
+		size = 1775
 
 	}
 
@@ -973,7 +973,7 @@
 	soldiers = {
 		culture = champa
 		religion = hindu
-		size= 475
+		size = 475
 
 	}
 
@@ -1022,7 +1022,7 @@
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size= 75
+		size = 75
 
 	}
 
@@ -1055,7 +1055,7 @@
 	soldiers = {
 		culture = khmer
 		religion = mahayana
-		size= 150
+		size = 150
 
 	}
 
@@ -1080,7 +1080,7 @@
 	soldiers = {
 		culture = champa
 		religion = hindu
-		size= 250
+		size = 250
 
 	}
 
@@ -1113,7 +1113,7 @@
 	soldiers = {
 		culture = champa
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1138,7 +1138,7 @@
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 150
+		size = 150
 
 	}
 

@@ -34,7 +34,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -67,7 +67,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 250
+		size = 250
 
 	}
 
@@ -94,7 +94,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -127,7 +127,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 250
+		size = 250
 
 	}
 
@@ -160,7 +160,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -289,7 +289,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -322,7 +322,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -355,7 +355,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -388,7 +388,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -421,7 +421,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -454,7 +454,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -501,7 +501,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -552,7 +552,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -585,7 +585,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -618,7 +618,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 2100
+		size = 2100
 
 	}
 
@@ -651,7 +651,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -696,7 +696,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -735,7 +735,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 1500
+		size = 1500
 
 	}
 

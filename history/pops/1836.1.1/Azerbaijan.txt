@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 150
+		size = 150
 
 	}
 
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 400
+		size = 400
 	}
 
 	farmers = {
@@ -90,7 +90,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 650
+		size = 650
 	}
 
 	farmers = {
@@ -164,7 +164,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -194,7 +194,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -227,7 +227,7 @@
 	soldiers = {
 		culture = dagestani
 		religion = sunni
-		size= 500
+		size = 500
 		militancy = 9
 	}
 
@@ -261,7 +261,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -292,7 +292,7 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -326,7 +326,7 @@
 	soldiers = {
 		culture = dagestani
 		religion = sunni
-		size= 550
+		size = 550
 		militancy = 9
 	}
 
@@ -360,7 +360,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -390,7 +390,7 @@
 	soldiers = {
 		culture = armenian
 		religion = coptic
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -422,7 +422,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -453,7 +453,7 @@
 	soldiers = {
 		culture = armenian
 		religion = coptic
-		size= 240
+		size = 240
 	}
 
 	farmers = {
@@ -485,7 +485,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 150
+		size = 150
 	}
 
 	farmers = {

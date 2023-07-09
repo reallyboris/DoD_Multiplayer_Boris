@@ -41,7 +41,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -74,14 +74,14 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -205,7 +205,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -264,7 +264,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 225
+		size = 225
 
 	}
 
@@ -283,7 +283,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -316,7 +316,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -335,7 +335,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -356,7 +356,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -375,7 +375,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -400,7 +400,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -427,7 +427,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -454,7 +454,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -483,7 +483,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -540,7 +540,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 150
+		size = 150
 
 	}
 
@@ -567,7 +567,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -596,7 +596,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -621,7 +621,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -648,7 +648,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -667,7 +667,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -695,7 +695,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -720,7 +720,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -747,7 +747,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -869,7 +869,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 3000
+		size = 3000
 
 	}
 
@@ -926,7 +926,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -952,7 +952,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 500
+		size = 500
 
 	}
 
@@ -1003,7 +1003,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 250
+		size = 250
 	}
 
 	clergymen = {	
@@ -1072,7 +1072,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 10
+		size = 10
 
 	}
 
@@ -1131,7 +1131,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 3000
+		size = 3000
 	}
 
 	farmers = {
@@ -1169,7 +1169,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 25
+		size = 25
 
 	}
 
@@ -1202,7 +1202,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 10
+		size = 10
 
 	}
 
@@ -1249,7 +1249,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -1288,7 +1288,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -1313,7 +1313,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1340,7 +1340,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -1399,14 +1399,14 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1439,7 +1439,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -1472,7 +1472,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -1499,7 +1499,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -1521,7 +1521,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 300
+		size = 300
 
 	}
 
@@ -1548,7 +1548,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 130
+		size = 130
 
 	}
 
@@ -1601,7 +1601,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 250
+		size = 250
 
 	}
 
@@ -1628,7 +1628,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -1667,7 +1667,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 1500
+		size = 1500
 	}
 
 	farmers = {
@@ -1700,7 +1700,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 900
+		size = 900
 
 	}
 
@@ -1747,7 +1747,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -1773,7 +1773,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -1807,7 +1807,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 200
+		size = 200
 
 	}
 
@@ -1837,7 +1837,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 175
+		size = 175
 
 	}
 
@@ -1864,7 +1864,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 175
+		size = 175
 
 	}
 
@@ -1897,7 +1897,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 325
+		size = 325
 	}
 
 	farmers = {
@@ -1923,7 +1923,7 @@
 	soldiers = {
 		culture = beornian
 		religion = protestant
-		size= 175
+		size = 175
 
 	}
 
@@ -1958,7 +1958,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 65
+		size = 65
 
 	}
 
@@ -1985,7 +1985,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 65
+		size = 65
 
 	}
 
@@ -2012,7 +2012,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 65
+		size = 65
 
 	}
 
@@ -2039,7 +2039,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 65
+		size = 65
 
 	}
 
@@ -2066,7 +2066,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 65
+		size = 65
 
 	}
 
@@ -2089,7 +2089,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -2114,7 +2114,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 175
+		size = 175
 
 	}
 

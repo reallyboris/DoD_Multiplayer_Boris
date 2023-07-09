@@ -28,7 +28,7 @@
 	soldiers = {
 		culture = livlandian
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -53,7 +53,7 @@
 	soldiers = {
 		culture = afro_germanic
 		religion = protestant
-		size= 250
+		size = 250
 
 	}
 
@@ -104,7 +104,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -173,7 +173,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -212,7 +212,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 5
+		size = 5
 
 	}
 
@@ -237,7 +237,7 @@
 	soldiers = {
 		culture = afro_germanic
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -288,7 +288,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 

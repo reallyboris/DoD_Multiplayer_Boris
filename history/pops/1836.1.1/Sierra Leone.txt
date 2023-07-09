@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = mande
 		religion = sunni
-		size= 350
+		size = 350
 
 	}
 
@@ -159,7 +159,7 @@
 	soldiers = {
 		culture = mande
 		religion = sunni
-		size= 475
+		size = 475
 
 	}
 
@@ -230,7 +230,7 @@
 	soldiers = {
 		culture = mande
 		religion = sunni
-		size= 475
+		size = 475
 
 	}
 

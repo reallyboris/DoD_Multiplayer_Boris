@@ -169,7 +169,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 2100
+		size = 2100
 
 	}
 
@@ -226,7 +226,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 1025
+		size = 1025
 
 	}
 
@@ -295,7 +295,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -353,7 +353,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -387,7 +387,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -418,7 +418,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -451,7 +451,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -516,7 +516,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 75
+		size = 75
 
 	}
 
@@ -549,7 +549,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -582,7 +582,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 250
+		size = 250
 
 	}
 
@@ -613,7 +613,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 

@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
@@ -142,7 +142,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -187,7 +187,7 @@
 	soldiers = {
 		culture = albanian
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 

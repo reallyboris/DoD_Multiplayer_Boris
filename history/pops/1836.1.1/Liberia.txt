@@ -29,7 +29,7 @@
 	soldiers = {
 		culture = kru
 		religion = animist
-		size= 450
+		size = 450
 
 	}
 
@@ -60,7 +60,7 @@
 	soldiers = {
 		culture = mande
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -111,7 +111,7 @@
 	soldiers = {
 		culture = kru
 		religion = animist
-		size= 375
+		size = 375
 
 	}
 
@@ -175,7 +175,7 @@
 	soldiers = {
 		culture = mande
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -238,7 +238,7 @@
 	soldiers = {
 		culture = mande
 		religion = sunni
-		size= 125
+		size = 125
 
 	}
 
@@ -288,7 +288,7 @@
 	soldiers = {
 		culture = kru
 		religion = animist
-		size= 250
+		size = 250
 
 	}
 

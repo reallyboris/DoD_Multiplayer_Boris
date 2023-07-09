@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 15
+		size = 15
 
 	}
 
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -87,7 +87,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -114,7 +114,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -145,7 +145,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -178,7 +178,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -213,7 +213,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 125
+		size = 125
 
 	}
 
@@ -246,7 +246,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -277,7 +277,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 225
+		size = 225
 
 	}
 
@@ -310,7 +310,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -344,7 +344,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -377,7 +377,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 175
+		size = 175
 
 	}
 
@@ -412,7 +412,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -445,7 +445,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 175
+		size = 175
 
 	}
 
@@ -476,7 +476,7 @@
 	soldiers = {
 		culture = oirat
 		religion = sunni
-		size= 125
+		size = 125
 
 	}
 
@@ -510,7 +510,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -541,7 +541,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 175
+		size = 175
 
 	}
 
@@ -576,7 +576,7 @@
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -607,7 +607,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 125
+		size = 125
 
 	}
 
@@ -640,7 +640,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -673,7 +673,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -708,7 +708,7 @@
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -739,7 +739,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 

@@ -64,7 +64,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -146,7 +146,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -197,7 +197,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 1500
+		size = 1500
 
 	}
 
@@ -286,7 +286,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 2700
+		size = 2700
 	}
 
 	farmers = {
@@ -366,7 +366,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 1200
+		size = 1200
 	}
 
 	farmers = {
@@ -428,7 +428,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 260
+		size = 260
 
 	}
 
@@ -491,7 +491,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 1050
+		size = 1050
 	}
 
 	farmers = {
@@ -567,7 +567,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 220
+		size = 220
 
 	}
 
@@ -642,7 +642,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 125
+		size = 125
 	}
 
 	farmers = {
@@ -705,7 +705,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 175
+		size = 175
 	}
 
 	farmers = {
@@ -780,7 +780,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -831,7 +831,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 125
+		size = 125
 	}
 
 	farmers = {

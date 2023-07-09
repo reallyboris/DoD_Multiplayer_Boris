@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = mossi
 		religion = animist
-		size= 2150
+		size = 2150
 
 	}
 
@@ -222,7 +222,7 @@
 	soldiers = {
 		culture = mossi
 		religion = animist
-		size= 150
+		size = 150
 
 	}
 
@@ -259,7 +259,7 @@
 	soldiers = {
 		culture = fulbe
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 

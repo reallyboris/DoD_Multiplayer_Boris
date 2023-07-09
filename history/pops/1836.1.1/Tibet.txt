@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 2000
+		size = 2000
 
 	}
 
@@ -60,7 +60,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 150
+		size = 150
 
 	}
 
@@ -93,7 +93,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 1400
+		size = 1400
 
 	}
 
@@ -118,7 +118,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 150
+		size = 150
 
 	}
 
@@ -151,7 +151,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 800
+		size = 800
 
 	}
 
@@ -176,7 +176,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 25
+		size = 25
 
 	}
 
@@ -209,7 +209,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 1725
+		size = 1725
 
 	}
 
@@ -242,7 +242,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 175
+		size = 175
 
 	}
 
@@ -275,7 +275,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 750
+		size = 750
 
 	}
 
@@ -308,7 +308,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 1325
+		size = 1325
 
 	}
 
@@ -339,7 +339,7 @@
 	soldiers = {
 		culture = kachin
 		religion = animist
-		size= 350
+		size = 350
 
 	}
 
@@ -370,7 +370,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = animist
-		size= 375
+		size = 375
 
 	}
 

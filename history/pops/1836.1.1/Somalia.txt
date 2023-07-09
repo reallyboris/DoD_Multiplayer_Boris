@@ -36,7 +36,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 1125
+		size = 1125
 
 	}
 
@@ -75,7 +75,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -145,7 +145,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 1175
+		size = 1175
 
 	}
 
@@ -180,7 +180,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -231,7 +231,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -284,7 +284,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 1750
+		size = 1750
 
 	}
 
@@ -329,7 +329,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -362,7 +362,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size= 50
+		size = 50
 	}
 
 	farmers = {
@@ -392,7 +392,7 @@
 	soldiers = {
 		culture = afar
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 

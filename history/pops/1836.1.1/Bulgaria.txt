@@ -105,7 +105,7 @@
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 2000
+		size = 2000
 
 	}
 
@@ -156,7 +156,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -219,14 +219,14 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 	
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 
@@ -289,7 +289,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -320,7 +320,7 @@
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 }
@@ -347,7 +347,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -398,7 +398,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -429,7 +429,7 @@
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 }
@@ -470,7 +470,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 275
+		size = 275
 
 	}
 
@@ -513,7 +513,7 @@
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 
@@ -576,7 +576,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 175
+		size = 175
 
 	}
 
@@ -607,7 +607,7 @@
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 225
+		size = 225
 
 	}
 }
@@ -634,7 +634,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 450
+		size = 450
 
 	}
 
@@ -665,7 +665,7 @@
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -713,7 +713,7 @@
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 	
@@ -756,7 +756,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 

@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 475
+		size = 475
 	}
 
 	farmers = {
@@ -75,7 +75,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -118,7 +118,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -149,7 +149,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -181,7 +181,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 175
+		size = 175
 
 	}
 
@@ -206,7 +206,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 125
+		size = 125
 
 	}
 
@@ -239,7 +239,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -264,7 +264,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 150
+		size = 150
 
 	}
 
@@ -297,7 +297,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 125
+		size = 125
 
 	}
 
@@ -322,7 +322,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 125
+		size = 125
 
 	}
 
@@ -355,7 +355,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 175
+		size = 175
 
 	}
 
@@ -382,7 +382,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -407,7 +407,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 75
+		size = 75
 
 	}
 
@@ -440,7 +440,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 200
+		size = 200
 
 	}
 
@@ -485,7 +485,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 125
+		size = 125
 
 	}
 
@@ -510,7 +510,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -539,7 +539,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 275
+		size = 275
 
 	}
 
@@ -570,7 +570,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 100
+		size = 100
 
 	}
 
@@ -607,7 +607,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -644,7 +644,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -685,7 +685,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 350
+		size = 350
 
 	}
 
@@ -710,7 +710,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -755,7 +755,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 225
+		size = 225
 
 	}
 
@@ -786,7 +786,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 100
+		size = 100
 	}
 
 	farmers = {
@@ -824,7 +824,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -855,7 +855,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -880,7 +880,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -910,7 +910,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 175
+		size = 175
 
 	}
 
@@ -935,7 +935,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 100
+		size = 100
 
 	}
 
@@ -966,7 +966,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 

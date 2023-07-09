@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size = 1000
 
 	}
 
@@ -60,7 +60,7 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -90,7 +90,7 @@
 	soldiers = {
 		culture = dagestani
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -121,7 +121,7 @@
 	soldiers = {
 		culture = armenian
 		religion = coptic
-		size= 75
+		size = 75
 
 	}
 
@@ -152,7 +152,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -239,7 +239,7 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size= 200
+		size = 200
 
 	}
 
@@ -270,7 +270,7 @@
 	soldiers = {
 		culture = dagestani
 		religion = orthodox
-		size= 75
+		size = 75
 
 	}
 
@@ -301,7 +301,7 @@
 	soldiers = {
 		culture = armenian
 		religion = coptic
-		size= 75
+		size = 75
 
 	}
 
@@ -334,7 +334,7 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size= 1000
+		size = 1000
 
 	}
 
@@ -403,7 +403,7 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size= 150
+		size = 150
 	}
 
 	farmers = {
@@ -433,7 +433,7 @@
 	soldiers = {
 		culture = armenian
 		religion = coptic
-		size= 100
+		size = 100
 	}
 
 	farmers = {
@@ -463,7 +463,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -496,7 +496,7 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size= 750
+		size = 750
 
 	}
 
@@ -547,7 +547,7 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size= 100
+		size = 100
 	}
 
 	farmers = {
@@ -577,7 +577,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size = 1000
 	}
 
 	farmers = {
@@ -610,7 +610,7 @@
 	soldiers = {
 		culture = north_caucasian
 		religion = sunni
-		size= 3000
+		size = 3000
 		militancy = 9
 	}
 
@@ -664,7 +664,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -713,7 +713,7 @@
 	soldiers = {
 		culture = georgian
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 

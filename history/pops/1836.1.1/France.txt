@@ -479,7 +479,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -593,7 +593,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 750
+		size = 750
 
 	}
 
@@ -636,7 +636,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 275
+		size = 275
 
 	}
 
@@ -681,7 +681,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 700
+		size = 700
 
 	}
 
@@ -712,7 +712,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 350
+		size = 350
 
 	}
 
@@ -777,7 +777,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1125
+		size = 1125
 	}
 
 	farmers = {
@@ -821,7 +821,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 650
+		size = 650
 
 	}
 
@@ -852,7 +852,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 300
+		size = 300
 
 	}
 
@@ -891,7 +891,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 750
+		size = 750
 
 	}
 
@@ -916,7 +916,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -949,7 +949,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -974,7 +974,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -1186,7 +1186,7 @@
 	soldiers = {
 		culture = breton
 		religion = catholic
-		size= 1400
+		size = 1400
 
 	}
 
@@ -1225,7 +1225,7 @@
 	soldiers = {
 		culture = breton
 		religion = catholic
-		size= 1500
+		size = 1500
 
 	}
 
@@ -1264,7 +1264,7 @@
 	soldiers = {
 		culture = breton
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1335,7 +1335,7 @@
 	soldiers = {
 		culture = breton
 		religion = catholic
-		size= 1400
+		size = 1400
 
 	}
 
@@ -1749,7 +1749,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1800,7 +1800,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1845,7 +1845,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1500
+		size = 1500
 
 	}
 
@@ -1890,7 +1890,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1942,7 +1942,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1500
+		size = 1500
 
 	}
 
@@ -1975,7 +1975,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2204,7 +2204,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size= 15000
+		size = 15000
 
 	}
 	
@@ -2477,7 +2477,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size= 1350
+		size = 1350
 
 	}
 
@@ -2510,7 +2510,7 @@
 	soldiers = {
 		culture = provencal
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -3140,7 +3140,7 @@
 	soldiers = {
 		culture = basque
 		religion = catholic
-		size= 450
+		size = 450
 
 	}
 
@@ -3301,7 +3301,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -3652,7 +3652,7 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 

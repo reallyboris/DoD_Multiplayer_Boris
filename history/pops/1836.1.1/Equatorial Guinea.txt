@@ -29,7 +29,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 5
+		size = 5
 
 	}
 	aristocrats = {

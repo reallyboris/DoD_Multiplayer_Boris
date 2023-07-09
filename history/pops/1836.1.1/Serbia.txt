@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 
@@ -48,7 +48,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -85,7 +85,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -118,7 +118,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 300
+		size = 300
 
 	}
 
@@ -155,7 +155,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -192,7 +192,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 200
+		size = 200
 
 	}
 
@@ -223,7 +223,7 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size= 100
+		size = 100
 
 	}
 
@@ -262,7 +262,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 300
+		size = 300
 
 	}
 
@@ -299,7 +299,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 300
+		size = 300
 
 	}
 
@@ -330,7 +330,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -361,7 +361,7 @@
 	soldiers = {
 		culture = slovak
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -398,7 +398,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -451,7 +451,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 1100
+		size = 1100
 
 	}
 
@@ -490,7 +490,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 1100
+		size = 1100
 
 	}
 
@@ -523,7 +523,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 1100
+		size = 1100
 
 	}
 
@@ -556,7 +556,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 1100
+		size = 1100
 
 	}
 
@@ -590,7 +590,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 1250
+		size = 1250
 
 	}
 
@@ -645,7 +645,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -714,7 +714,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -749,7 +749,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 
@@ -786,7 +786,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -811,7 +811,7 @@
 	soldiers = {
 		culture = albanian
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -862,7 +862,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -887,7 +887,7 @@
 	soldiers = {
 		culture = albanian
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -945,7 +945,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 
@@ -970,7 +970,7 @@
 	soldiers = {
 		culture = bosniak
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 

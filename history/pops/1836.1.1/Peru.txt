@@ -37,7 +37,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -62,7 +62,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 25
+		size = 25
 
 	}
 
@@ -93,7 +93,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 100
+		size = 100
 
 	}
 
@@ -127,7 +127,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -160,7 +160,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -193,7 +193,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -240,7 +240,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 1125
+		size = 1125
 
 	}
 
@@ -265,7 +265,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 250
+		size = 250
 
 	}
 
@@ -304,7 +304,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -329,7 +329,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 100
+		size = 100
 
 	}
 
@@ -360,7 +360,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -399,7 +399,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -424,7 +424,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 100
+		size = 100
 
 	}
 
@@ -455,7 +455,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -494,7 +494,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -519,7 +519,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 10
+		size = 10
 
 	}
 
@@ -550,7 +550,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -585,7 +585,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -610,7 +610,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 75
+		size = 75
 
 	}
 
@@ -649,7 +649,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -674,7 +674,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 125
+		size = 125
 
 	}
 
@@ -719,7 +719,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -744,7 +744,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 225
+		size = 225
 
 	}
 
@@ -797,7 +797,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -821,7 +821,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 175
+		size = 175
 
 	}
 
@@ -853,7 +853,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -892,7 +892,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -917,7 +917,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 100
+		size = 100
 
 	}
 
@@ -948,7 +948,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -987,7 +987,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -1012,7 +1012,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 175
+		size = 175
 
 	}
 
@@ -1043,7 +1043,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -1090,7 +1090,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -1121,7 +1121,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -1154,7 +1154,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1201,7 +1201,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1300,7 +1300,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -1325,7 +1325,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 250
+		size = 250
 
 	}
 
@@ -1364,7 +1364,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 1050
+		size = 1050
 
 	}
 
@@ -1389,7 +1389,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 150
+		size = 150
 
 	}
 
@@ -1442,7 +1442,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -1467,7 +1467,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 200
+		size = 200
 
 	}
 

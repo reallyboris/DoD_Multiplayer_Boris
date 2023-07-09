@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -60,7 +60,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -115,7 +115,7 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -154,7 +154,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -229,7 +229,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -335,7 +335,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -380,7 +380,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -450,7 +450,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -514,7 +514,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1250
+		size = 1250
 
 	}
 
@@ -559,7 +559,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -606,7 +606,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -631,7 +631,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -676,7 +676,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -733,7 +733,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -779,7 +779,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 300
+		size = 300
 
 	}   
   
@@ -846,7 +846,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -893,7 +893,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -912,7 +912,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 15
+		size = 15
 
 	}
 
@@ -959,7 +959,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1017,7 +1017,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1068,7 +1068,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -1093,7 +1093,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -1151,7 +1151,7 @@
 	soldiers = {
 		culture = dutch
 		religion = protestant
-		size= 200
+		size = 200
 	}
 
 	clergymen = {
@@ -1213,7 +1213,7 @@
 	soldiers = {
 		culture = dutch
 		religion = protestant
-		size= 850
+		size = 850
 
 	}
 
@@ -1249,7 +1249,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1282,7 +1282,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1307,7 +1307,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1384,7 +1384,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 4000
+		size = 4000
 
 	}
 
@@ -1416,7 +1416,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -1458,7 +1458,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -1486,7 +1486,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1532,7 +1532,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1607,7 +1607,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1684,7 +1684,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1709,7 +1709,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 1250
+		size = 1250
 
 	}
 
@@ -1778,7 +1778,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1803,7 +1803,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -1848,7 +1848,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1873,7 +1873,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 600
+		size = 600
 
 	}
 
@@ -1918,7 +1918,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1982,7 +1982,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2007,7 +2007,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 110
+		size = 110
 
 	}
 
@@ -2072,7 +2072,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 3000
+		size = 3000
 	}
 
 	soldiers = {
@@ -2108,7 +2108,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -2183,7 +2183,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -2252,7 +2252,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2323,7 +2323,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2387,7 +2387,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2433,7 +2433,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2486,7 +2486,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2511,7 +2511,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 20
+		size = 20
 
 	}
 
@@ -2593,7 +2593,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2618,7 +2618,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2676,7 +2676,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	} 
 
@@ -2707,7 +2707,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2732,7 +2732,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 200
+		size = 200
 
 	}
 
@@ -2777,7 +2777,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 550
+		size = 550
 
 	}
 
@@ -2801,7 +2801,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -2835,7 +2835,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 500
+		size = 500
 
 	}
 
@@ -2910,7 +2910,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2935,7 +2935,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 350
+		size = 350
 
 	}
 
@@ -2970,7 +2970,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 150
+		size = 150
 
 	}
 
@@ -2995,7 +2995,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 500
+		size = 500
 
 	}
 
@@ -3041,7 +3041,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 500
+		size = 500
 
 	}
 
@@ -3066,7 +3066,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -3112,7 +3112,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3137,7 +3137,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 750
+		size = 750
 
 	}
 
@@ -3195,7 +3195,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 275
+		size = 275
 
 	}
 
@@ -3226,7 +3226,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 275
+		size = 275
 
 	}
 
@@ -3259,7 +3259,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 250
+		size = 250
 
 	}
 
@@ -3278,7 +3278,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 500
+		size = 500
 
 	}
 
@@ -3323,7 +3323,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 350
+		size = 350
 
 	}
 
@@ -3354,7 +3354,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 250
+		size = 250
 
 	}
 
@@ -3425,7 +3425,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3506,7 +3506,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -3551,7 +3551,7 @@
 	soldiers = {
 		culture = dutch
 		religion = protestant
-		size= 2100
+		size = 2100
 
 	}
 
@@ -3584,7 +3584,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -3615,7 +3615,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3643,7 +3643,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -3674,7 +3674,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 500
+		size = 500
 
 	}
 
@@ -3708,7 +3708,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3739,7 +3739,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 75
+		size = 75
 
 	}
 
@@ -3804,7 +3804,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3841,7 +3841,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -3886,7 +3886,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 500
+		size = 500
 
 	}
 
@@ -3917,7 +3917,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3950,7 +3950,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3981,7 +3981,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4014,7 +4014,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 150
+		size = 150
 
 	}
 
@@ -4045,7 +4045,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -4078,7 +4078,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4109,7 +4109,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4155,7 +4155,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4226,7 +4226,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1575
+		size = 1575
 
 	}
 
@@ -4259,7 +4259,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1025
+		size = 1025
 
 	}
 
@@ -4292,7 +4292,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 425
+		size = 425
 	}
 
 	farmers = {
@@ -4338,21 +4338,21 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4377,7 +4377,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 150
+		size = 150
 
 	}
 
@@ -4410,7 +4410,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 850
+		size = 850
 
 	}
 
@@ -4462,7 +4462,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 700
+		size = 700
 
 	}
 
@@ -4497,7 +4497,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4543,14 +4543,14 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4581,7 +4581,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 900
+		size = 900
 
 	}
 
@@ -4627,7 +4627,7 @@
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4692,7 +4692,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -4723,7 +4723,7 @@
 	soldiers = {
 		culture = south_german
 		religion = protestant
-		size= 1500
+		size = 1500
 
 	}
 
@@ -4768,7 +4768,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 350
+		size = 350
 
 	}
 
@@ -4819,7 +4819,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -4875,7 +4875,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1500
+		size = 1500
 
 	}
 
@@ -4951,7 +4951,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -4976,7 +4976,7 @@
 	soldiers = {
 		culture = south_german
 		religion = protestant
-		size= 150
+		size = 150
 
 	}
 
@@ -5021,7 +5021,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 450
+		size = 450
 
 	}
 
@@ -5072,7 +5072,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -5105,7 +5105,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -5140,7 +5140,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -5165,7 +5165,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 1050
+		size = 1050
 
 	}
 
@@ -5219,7 +5219,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -5244,7 +5244,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -5281,7 +5281,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -5306,7 +5306,7 @@
 	soldiers = {
 		culture = lithuanian
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -5339,7 +5339,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 550
+		size = 550
 
 	}
 
@@ -5364,7 +5364,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -5389,7 +5389,7 @@
 	soldiers = {
 		culture = lithuanian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 

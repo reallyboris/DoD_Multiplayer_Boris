@@ -42,7 +42,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 1000
+		size = 1000
 
 	}
 
@@ -73,7 +73,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 1500
+		size = 1500
 
 	}
 
@@ -142,7 +142,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -172,7 +172,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -202,7 +202,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = shiite
-		size= 400
+		size = 400
 	}
 
 	farmers = {
@@ -232,7 +232,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 175
+		size = 175
 
 	}
 
@@ -277,7 +277,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -307,7 +307,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 400
+		size = 400
 	}
 
 	farmers = {
@@ -337,7 +337,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = shiite
-		size= 350
+		size = 350
 	}
 
 	farmers = {
@@ -367,7 +367,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -405,7 +405,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 3000
+		size = 3000
 	}
 
 	farmers = {
@@ -435,7 +435,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -468,7 +468,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = shiite
-		size= 2000
+		size = 2000
 
 	}
 
@@ -499,7 +499,7 @@
 	soldiers = {
 		culture = azerbaijani
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -530,7 +530,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 550
+		size = 550
 
 	}
 
@@ -618,7 +618,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 3000
+		size = 3000
 
 	}
 
@@ -637,7 +637,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -699,7 +699,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 340
+		size = 340
 	}
 
 	farmers = {
@@ -723,7 +723,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 150
+		size = 150
 	}
 
 	farmers = {
@@ -767,7 +767,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 500
+		size = 500
 
 	}
 
@@ -818,7 +818,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2100
+		size = 2100
 	}
 
 	farmers = {
@@ -866,7 +866,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size= 790
+		size = 790
 	}
 
 	farmers = {
@@ -936,7 +936,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 
 	}
 
@@ -979,7 +979,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = shiite
-		size= 450
+		size = 450
 
 	}
 
@@ -1010,7 +1010,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -1048,7 +1048,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -1092,7 +1092,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -1122,7 +1122,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -1172,7 +1172,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -1248,7 +1248,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1365,7 +1365,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -1421,7 +1421,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 500
+		size = 500
 
 	}
 
@@ -1454,7 +1454,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -1510,7 +1510,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1567,7 +1567,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 500
+		size = 500
 
 	}
 
@@ -1620,14 +1620,14 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 1500
+		size = 1500
 	}
 
 	farmers = {
@@ -1663,7 +1663,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = shiite
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -1707,7 +1707,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 500
+		size = 500
 
 	}
 
@@ -1740,7 +1740,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1785,7 +1785,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -1855,7 +1855,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = shiite
-		size= 1000
+		size = 1000
 	}
 
 	farmers = {
@@ -1897,7 +1897,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 350
+		size = 350
 	}
 
 	farmers = {
@@ -1941,7 +1941,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = shiite
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -1973,7 +1973,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = shiite
-		size= 100
+		size = 100
 
 	}
 
@@ -2004,7 +2004,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -2036,7 +2036,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 250
+		size = 250
 
 	}
 
@@ -2125,7 +2125,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -2149,7 +2149,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 1250
+		size = 1250
 	}
 
 	farmers = {
@@ -2229,7 +2229,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -2317,7 +2317,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 150
+		size = 150
 	}
 
 	farmers = {
@@ -2335,7 +2335,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 100
+		size = 100
 	}
 
 	farmers = {
@@ -2367,7 +2367,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 75
+		size = 75
 	}
 
 	farmers = {
@@ -2413,7 +2413,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -2469,7 +2469,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2500,7 +2500,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = shiite
-		size= 100
+		size = 100
 	}
 
 	farmers = {
@@ -2544,7 +2544,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 1500
+		size = 1500
 
 	}
 
@@ -2575,7 +2575,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = shiite
-		size= 175
+		size = 175
 
 	}
 
@@ -2620,7 +2620,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 225
+		size = 225
 	}
 
 	farmers = {
@@ -2650,7 +2650,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 300
+		size = 300
 	}
 
 	farmers = {
@@ -2696,7 +2696,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 250
+		size = 250
 
 	}
 
@@ -2727,7 +2727,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -2760,7 +2760,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 1500
+		size = 1500
 	}
 
 	farmers = {
@@ -2790,7 +2790,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 750
+		size = 750
 	}
 
 	farmers = {
@@ -2822,7 +2822,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -2852,7 +2852,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 600
+		size = 600
 	}
 
 	farmers = {
@@ -2916,7 +2916,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 3000
+		size = 3000
 	}
 
 	farmers = {
@@ -2946,7 +2946,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -3016,7 +3016,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 1250
+		size = 1250
 	}
 
 	farmers = {
@@ -3060,7 +3060,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 500
+		size = 500
 
 	}
 
@@ -3093,7 +3093,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 150
+		size = 150
 	}
 
 	farmers = {
@@ -3123,7 +3123,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 

@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -59,7 +59,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -91,7 +91,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -115,7 +115,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 900
+		size = 900
 	}
 
 	farmers = {
@@ -148,7 +148,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 25
+		size = 25
 
 	}
 
@@ -173,7 +173,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 75
+		size = 75
 
 	}
 
@@ -206,7 +206,7 @@
 	soldiers = {
 		culture = quechua
 		religion = inti
-		size= 10
+		size = 10
 
 	}
 
@@ -231,7 +231,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 3000
+		size = 3000
 	}
 
 	farmers = {
@@ -265,7 +265,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 1125
+		size = 1125
 
 	}
 
@@ -310,7 +310,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 175
+		size = 175
 
 	}
 
@@ -363,14 +363,14 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 1500
+		size = 1500
 
 	}
 
@@ -409,7 +409,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 1100
+		size = 1100
 
 	}
 
@@ -442,7 +442,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 1100
+		size = 1100
 
 	}
 
@@ -475,7 +475,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 50
+		size = 50
 
 	}
 
@@ -510,7 +510,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 75
+		size = 75
 
 	}
 
@@ -543,7 +543,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -576,7 +576,7 @@
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size= 1100
+		size = 1100
 
 	}
 
@@ -603,7 +603,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -638,7 +638,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -672,7 +672,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -705,7 +705,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -738,7 +738,7 @@
 	soldiers = {
 		culture = patagonian
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 

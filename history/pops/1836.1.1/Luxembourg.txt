@@ -60,14 +60,14 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 4000
+		size = 4000
 
 	}
 
 	soldiers = {
 		culture = rheinish
 		religion = protestant
-		size= 4000
+		size = 4000
 
 	}
 

@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size= 1175
+		size = 1175
 
 	}
 
@@ -92,7 +92,7 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -123,7 +123,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -162,7 +162,7 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -193,7 +193,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -244,7 +244,7 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size= 1175
+		size = 1175
 
 	}
 
@@ -309,7 +309,7 @@
 	soldiers = {
 		culture = misri
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -340,7 +340,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -391,7 +391,7 @@
 	soldiers = {
 		culture = misri
 		religion = sunni
-		size= 125
+		size = 125
 	}
 
 	farmers = {
@@ -435,7 +435,7 @@
 	soldiers = {
 		culture = misri
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -466,7 +466,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -507,7 +507,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -600,7 +600,7 @@
 	soldiers = {
 		culture = teda
 		religion = sunni
-		size= 10
+		size = 10
 
 	}
 
@@ -633,7 +633,7 @@
 	soldiers = {
 		culture = teda
 		religion = sunni
-		size= 10
+		size = 10
 
 	}
 
@@ -668,7 +668,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 10
+		size = 10
 
 	}
 
@@ -699,7 +699,7 @@
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -750,7 +750,7 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size= 10
+		size = 10
 
 	}
 
@@ -781,7 +781,7 @@
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -821,7 +821,7 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -852,7 +852,7 @@
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size= 10
+		size = 10
 
 	}
 
@@ -892,7 +892,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 10
+		size = 10
 
 	}
 
@@ -923,7 +923,7 @@
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 

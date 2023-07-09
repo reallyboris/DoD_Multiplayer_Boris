@@ -35,14 +35,14 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2000
+		size = 2000
 
 	}
 
@@ -93,7 +93,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1050
+		size = 1050
 
 	}
 
@@ -144,7 +144,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 500
+		size = 500
 
 	}
 
@@ -175,7 +175,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 850
+		size = 850
 
 	}
 
@@ -206,7 +206,7 @@
 	soldiers = {
 		culture = ruthenian
 		religion = orthodox
-		size= 200
+		size = 200
 
 	}
 
@@ -257,14 +257,14 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 650
+		size = 650
 
 	}
 
@@ -311,7 +311,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 3000
+		size = 3000
 
 	}
 
@@ -360,7 +360,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2675
+		size = 2675
 
 	}
 
@@ -399,7 +399,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2650
+		size = 2650
 
 	}
 
@@ -432,7 +432,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1600
+		size = 1600
 
 	}
 
@@ -469,7 +469,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 300
+		size = 300
 
 	}
 
@@ -514,7 +514,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1450
+		size = 1450
 
 	}
 }
@@ -619,7 +619,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 325
+		size = 325
 
 	}
 
@@ -650,7 +650,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -697,7 +697,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 15
+		size = 15
 
 	}
 
@@ -736,7 +736,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -761,7 +761,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -788,7 +788,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -813,7 +813,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -872,7 +872,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -919,7 +919,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -944,7 +944,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -971,7 +971,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -996,7 +996,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1035,7 +1035,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 10
+		size = 10
 
 	}
 
@@ -1060,7 +1060,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -1245,7 +1245,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1850
+		size = 1850
 
 	}
 
@@ -1270,7 +1270,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 100
+		size = 100
 
 	}
 
@@ -1297,7 +1297,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1322,7 +1322,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -1355,7 +1355,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1388,7 +1388,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 950
+		size = 950
 
 	}
 
@@ -1421,7 +1421,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 200
+		size = 200
 
 	}
 
@@ -1446,7 +1446,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -1535,7 +1535,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -1554,7 +1554,7 @@
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size= 225
+		size = 225
 
 	}
 
@@ -1605,7 +1605,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 200
+		size = 200
 
 	}
 
@@ -1630,7 +1630,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 75
+		size = 75
 
 	}
 
@@ -1663,7 +1663,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 350
+		size = 350
 
 	}
 
@@ -1696,7 +1696,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1721,7 +1721,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1754,7 +1754,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 125
+		size = 125
 
 	}
 
@@ -1773,7 +1773,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1820,7 +1820,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1860,7 +1860,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1891,7 +1891,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 100
+		size = 100
 
 	}
 
@@ -1930,7 +1930,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 525
+		size = 525
 
 	}
 
@@ -1955,7 +1955,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 100
+		size = 100
 
 	}
 
@@ -1995,7 +1995,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1100
+		size = 1100
 
 	}
 
@@ -2048,7 +2048,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 13000
+		size = 13000
 
 	}
 
@@ -2099,7 +2099,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 425
+		size = 425
 
 	}
 
@@ -2130,7 +2130,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -2163,7 +2163,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 875
+		size = 875
 
 	}
 
@@ -2209,7 +2209,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1150
+		size = 1150
 
 	}
 
@@ -2234,7 +2234,7 @@
 	soldiers = {
 		culture = estonian
 		religion = protestant
-		size= 10
+		size = 10
 
 	}
 
@@ -2259,7 +2259,7 @@
 	soldiers = {
 		culture = latvian
 		religion = protestant
-		size= 30
+		size = 30
 
 	}
 
@@ -2310,7 +2310,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 800
+		size = 800
 
 	}
 
@@ -2405,7 +2405,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2000
+		size = 2000
 
 	}
 	craftsmen = {
@@ -2461,7 +2461,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1450
+		size = 1450
 
 	}
 
@@ -2500,7 +2500,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1200
+		size = 1200
 
 	}
 
@@ -2539,7 +2539,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2584,7 +2584,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2617,7 +2617,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1350
+		size = 1350
 
 	}
 
@@ -2670,7 +2670,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2650
+		size = 2650
 
 	}
 
@@ -2695,7 +2695,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -2734,7 +2734,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2350
+		size = 2350
 
 	}
 
@@ -2753,7 +2753,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -2786,7 +2786,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1350
+		size = 1350
 
 	}
 
@@ -2819,7 +2819,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 775
+		size = 775
 
 	}
 
@@ -2852,7 +2852,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 750
+		size = 750
 
 	}
 
@@ -2891,14 +2891,14 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 100
+		size = 100
 
 	}
 
@@ -2917,7 +2917,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -2990,7 +2990,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 2375
+		size = 2375
 
 	}
 
@@ -3009,7 +3009,7 @@
 	soldiers = {
 		culture = tatar
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -3054,7 +3054,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 775
+		size = 775
 
 	}
 
@@ -3099,7 +3099,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1200
+		size = 1200
 
 	}
 
@@ -3125,7 +3125,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -3178,12 +3178,12 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size = 1000
 	}	
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 125
+		size = 125
 	}
 
 	serfs = {
@@ -3240,7 +3240,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 250
+		size = 250
 
 	}
 
@@ -3271,7 +3271,7 @@
 	soldiers = {
 		culture = tatar
 		religion = orthodox
-		size= 1100
+		size = 1100
 
 	}
 
@@ -3296,7 +3296,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 150
+		size = 150
 
 	}
 
@@ -3450,7 +3450,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 550
+		size = 550
 
 	}
 
@@ -3475,7 +3475,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -3500,7 +3500,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -3525,7 +3525,7 @@
 	soldiers = {
 		culture = tatar
 		religion = orthodox
-		size= 150
+		size = 150
 
 	}
 
@@ -3558,7 +3558,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 725
+		size = 725
 
 	}
 
@@ -3589,7 +3589,7 @@
 	soldiers = {
 		culture = tatar
 		religion = orthodox
-		size= 150
+		size = 150
 
 	}
 
@@ -3697,7 +3697,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 1350
+		size = 1350
 
 	}
 
@@ -3789,7 +3789,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 850
+		size = 850
 
 	}
 
@@ -3842,7 +3842,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 2100
+		size = 2100
 
 	}
 
@@ -3861,7 +3861,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 800
+		size = 800
 
 	}
 
@@ -3888,7 +3888,7 @@
 	soldiers = {
 		culture = tatar
 		religion = orthodox
-		size= 150
+		size = 150
 
 	}
 
@@ -3921,7 +3921,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 400
+		size = 400
 
 	}
 
@@ -3960,7 +3960,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3994,7 +3994,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size= 10
+        size = 10
     }
 
     farmers = {

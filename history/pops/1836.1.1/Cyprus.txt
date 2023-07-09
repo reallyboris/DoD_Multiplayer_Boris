@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 175
+		size = 175
 
 	}
 
@@ -86,7 +86,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -137,7 +137,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 

@@ -39,7 +39,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -76,7 +76,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -109,7 +109,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -134,7 +134,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -167,7 +167,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -192,7 +192,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -217,7 +217,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -252,7 +252,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -329,7 +329,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -354,7 +354,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -391,7 +391,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -416,7 +416,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -449,7 +449,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 1125
+		size = 1125
 
 	}
 
@@ -474,7 +474,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -499,7 +499,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -532,7 +532,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -557,7 +557,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -582,7 +582,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -607,7 +607,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -640,7 +640,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -665,7 +665,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -690,7 +690,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -730,7 +730,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 500
+		size = 500
 
 	}
 
@@ -755,7 +755,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 525
+		size = 525
 
 	}
 
@@ -802,7 +802,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -845,7 +845,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -878,7 +878,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 385
+		size = 385
 	}
 
 	clergymen = {
@@ -896,7 +896,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -929,7 +929,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -954,7 +954,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -987,7 +987,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1012,7 +1012,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1045,7 +1045,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 175
+		size = 175
 
 	}
 
@@ -1082,7 +1082,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -1107,7 +1107,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -1142,7 +1142,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1167,7 +1167,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1192,7 +1192,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -1239,7 +1239,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1264,7 +1264,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 175
+		size = 175
 
 	}
 
@@ -1313,7 +1313,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1346,7 +1346,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1371,7 +1371,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -1420,7 +1420,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 200
+		size = 200
 
 	}
 
@@ -1453,7 +1453,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1478,7 +1478,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -1527,7 +1527,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1573,7 +1573,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1598,7 +1598,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -1623,7 +1623,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -1654,7 +1654,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 65
+		size = 65
 
 	}
 
@@ -1687,7 +1687,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 500
+		size = 500
 
 	}
 
@@ -1712,7 +1712,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -1737,7 +1737,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -1768,7 +1768,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 50
+		size = 50
 	}
 
 	farmers = {
@@ -1815,7 +1815,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1840,7 +1840,7 @@
 	soldiers = {
 		culture = ruthenian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1871,7 +1871,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 100
+		size = 100
 
 	}
 
@@ -1896,7 +1896,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -1942,7 +1942,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1150
+		size = 1150
 
 	}
 
@@ -1967,7 +1967,7 @@
 	soldiers = {
 		culture = ruthenian
 		religion = orthodox
-		size= 175
+		size = 175
 
 	}
 
@@ -1998,7 +1998,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 150
+		size = 150
 	}
 
 	farmers = {
@@ -2022,7 +2022,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -2055,7 +2055,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1450
+		size = 1450
 
 	}
 
@@ -2086,7 +2086,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -2110,7 +2110,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 10
+		size = 10
 
 	}
 
@@ -2156,7 +2156,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 950
+		size = 950
 
 	}
 
@@ -2187,7 +2187,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 200
+		size = 200
 
 	}
 
@@ -2220,7 +2220,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 800
+		size = 800
 
 	}
 
@@ -2245,7 +2245,7 @@
 	soldiers = {
 		culture = ruthenian
 		religion = orthodox
-		size= 225
+		size = 225
 
 	}
 
@@ -2276,7 +2276,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 200
+		size = 200
 	}
 
 	farmers = {
@@ -2308,7 +2308,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 950
+		size = 950
 
 	}
 
@@ -2333,7 +2333,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 10
+		size = 10
 
 	}
 
@@ -2364,7 +2364,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 200
+		size = 200
 	}
 
 	farmers = {
@@ -2392,7 +2392,7 @@
 	soldiers = {
 		culture = ruthenian
 		religion = orthodox
-		size= 175
+		size = 175
 
 	}
 
@@ -2423,7 +2423,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1150
+		size = 1150
 
 	}
 
@@ -2454,7 +2454,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 150
+		size = 150
 
 	}
 
@@ -2479,7 +2479,7 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -2543,7 +2543,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1500
+		size = 1500
 
 	}
 
@@ -2568,7 +2568,7 @@
 	soldiers = {
 		culture = polish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -2605,7 +2605,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 500
+		size = 500
 
 	}
 
@@ -2630,7 +2630,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -2663,7 +2663,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 375
+		size = 375
 
 	}
 
@@ -2688,7 +2688,7 @@
 	soldiers = {
 		culture = lithuanian
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -2719,7 +2719,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 75
+		size = 75
 	}
 
 	farmers = {
@@ -2751,7 +2751,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 900
+		size = 900
 
 	}
 
@@ -2782,7 +2782,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 150
+		size = 150
 
 	}
 
@@ -2807,7 +2807,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -2840,7 +2840,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 400
+		size = 400
 
 	}
 
@@ -2871,7 +2871,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 100
+		size = 100
 	}
 
 	farmers = {
@@ -2903,7 +2903,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 950
+		size = 950
 
 	}
 
@@ -2934,7 +2934,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 250
+		size = 250
 	}
 
 	farmers = {
@@ -2958,7 +2958,7 @@
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -2991,7 +2991,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1050
+		size = 1050
 
 	}
 
@@ -3022,7 +3022,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size= 250
+		size = 250
 
 	}
 
@@ -3051,7 +3051,7 @@
 	soldiers = {
 		culture = ruthenian
 		religion = orthodox
-		size= 125
+		size = 125
 
 	}
 
@@ -3082,7 +3082,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 150
+		size = 150
 
 	}
 
@@ -3107,7 +3107,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 150
+		size = 150
 
 	}
 
@@ -3156,7 +3156,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 3000
+		size = 3000
 	}
 
 	farmers = {

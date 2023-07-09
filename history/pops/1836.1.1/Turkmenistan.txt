@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -58,7 +58,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -83,7 +83,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 25
+		size = 25
 
 	}
 
@@ -116,7 +116,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -141,7 +141,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 25
+		size = 25
 
 	}
 
@@ -175,7 +175,7 @@
 	soldiers = {
 		culture = tajik
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -206,7 +206,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -237,7 +237,7 @@
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size= 75
+		size = 75
 
 	}
 

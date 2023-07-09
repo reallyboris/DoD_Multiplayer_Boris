@@ -29,7 +29,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size= 450
+		size = 450
 
 	}
 
@@ -107,7 +107,7 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -140,7 +140,7 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size= 425
+		size = 425
 
 	}
 

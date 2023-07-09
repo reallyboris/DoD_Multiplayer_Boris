@@ -30,7 +30,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -135,7 +135,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -228,7 +228,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -523,7 +523,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -598,7 +598,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 800
+		size = 800
 
 	}
 
@@ -693,7 +693,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1500
+		size = 1500
 
 	}
 
@@ -804,7 +804,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -861,7 +861,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 325
+		size = 325
 
 	}
 
@@ -920,7 +920,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -1001,7 +1001,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 275
+		size = 275
 		militancy = 8
         rebel_type = reactionary_rebels
 	}
@@ -1083,7 +1083,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 350
+		size = 350
 		militancy = 8
         rebel_type = reactionary_rebels
 	}
@@ -1299,7 +1299,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -1406,7 +1406,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -1477,7 +1477,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1050
+		size = 1050
 
 	}
 
@@ -1570,7 +1570,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -1651,7 +1651,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 525
+		size = 525
 		militancy = 10
         rebel_type = reactionary_rebels
 	}
@@ -1735,7 +1735,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 2500
+		size = 2500
 		militancy = 10
         rebel_type = reactionary_rebels
 	}
@@ -1825,7 +1825,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -1900,7 +1900,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2089,7 +2089,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1000
+		size = 1000
 		militancy = 10
         rebel_type = reactionary_rebels
 	}
@@ -2161,7 +2161,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -2336,7 +2336,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1550
+		size = 1550
 
 	}
 
@@ -2399,7 +2399,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -2494,7 +2494,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2555,7 +2555,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -2624,7 +2624,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 575
+		size = 575
 
 	}
 
@@ -2673,7 +2673,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 1575
+		size = 1575
 
 	}
 
@@ -2780,7 +2780,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2841,7 +2841,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 2500
+		size = 2500
 
 	}
 
@@ -2874,7 +2874,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -2922,7 +2922,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 1700
+		size = 1700
 
 	}
 
@@ -2955,7 +2955,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -3028,7 +3028,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 875
+		size = 875
 		 militancy = 8
         rebel_type = nationalist_rebels
 	}
@@ -3084,7 +3084,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -3191,7 +3191,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 3000
+		size = 3000
 		militancy = 8
         rebel_type = nationalist_rebels
 	}
@@ -3227,7 +3227,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -3300,7 +3300,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 2025
+		size = 2025
 
 	}
 
@@ -3333,7 +3333,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 775
+		size = 775
 
 	}
 
@@ -3406,7 +3406,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 1875
+		size = 1875
 
 	}
 
@@ -3439,7 +3439,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1000
+		size = 1000
 	}
 
 	farmers = {
@@ -3523,7 +3523,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3711,7 +3711,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 2625
+		size = 2625
 
 	}
 
@@ -3786,7 +3786,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 225
+		size = 225
 
 	}
 
@@ -3873,7 +3873,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1725
+		size = 1725
 
 	}
 
@@ -3926,14 +3926,14 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 425
+		size = 425
 
 	}
 
@@ -3964,7 +3964,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -4014,7 +4014,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1075
+		size = 1075
 	}
 
 	farmers = {
@@ -4044,7 +4044,7 @@
 	soldiers = {
 		culture = kurdish
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -4075,7 +4075,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 675
+		size = 675
 
 	}
 
@@ -4132,7 +4132,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 775
+		size = 775
 	}
 
 	farmers = {
@@ -4162,7 +4162,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 2775
+		size = 2775
 	}
 
 	farmers = {

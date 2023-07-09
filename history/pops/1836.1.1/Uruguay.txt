@@ -41,7 +41,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -66,7 +66,7 @@
 	soldiers = {
 		culture = afro_frankish
 		religion = protestant
-		size= 1050
+		size = 1050
 
 	}
 
@@ -111,7 +111,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -156,7 +156,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -181,7 +181,7 @@
 	soldiers = {
 		culture = afro_frankish
 		religion = protestant
-		size= 10
+		size = 10
 
 	}
 
@@ -226,7 +226,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 1100
+		size = 1100
 
 	}
 
@@ -251,7 +251,7 @@
 	soldiers = {
 		culture = afro_frankish
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 

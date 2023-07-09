@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 8000
+		size = 8000
 
 	}
 
@@ -122,7 +122,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -233,7 +233,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -326,7 +326,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 1800
+		size = 1800
 
 	}
 
@@ -446,7 +446,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 8000
+		size = 8000
 
 	}
 
@@ -610,7 +610,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 6000
+		size = 6000
 
 	}
 
@@ -696,7 +696,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 4000
+		size = 4000
 
 	}
 
@@ -825,7 +825,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 4000
+		size = 4000
 	}
 
 	farmers = {
@@ -893,7 +893,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 2500
+		size = 2500
 	}
 
 	farmers = {
@@ -999,7 +999,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 1000
+		size = 1000
 	}
 
 	farmers = {
@@ -1079,7 +1079,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -1130,7 +1130,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 600
+		size = 600
 	}
 
 	farmers = {
@@ -1204,7 +1204,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 1200
+		size = 1200
 	}
 
 	farmers = {
@@ -1292,7 +1292,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 2500
+		size = 2500
 	}
 
 	farmers = {
@@ -1362,7 +1362,7 @@
 	soldiers = {
 		culture = crimean
 		religion = sunni
-		size= 2600
+		size = 2600
 	}
 
 	farmers = {

@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 175
+		size = 175
 
 	}
 
@@ -124,7 +124,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 325
+		size = 325
 
 	}
 
@@ -247,7 +247,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -298,7 +298,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 

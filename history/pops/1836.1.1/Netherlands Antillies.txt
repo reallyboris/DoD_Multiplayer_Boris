@@ -11,7 +11,7 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -36,7 +36,7 @@
 	soldiers = {
 		culture = afro_frankish
 		religion = protestant
-		size= 30
+		size = 30
 
 	}
 

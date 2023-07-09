@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = kaiganese
 		religion = shinto
-		size= 1000
+		size = 1000
 
 	}
 
@@ -48,7 +48,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -93,7 +93,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -138,7 +138,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -177,7 +177,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -216,7 +216,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -247,7 +247,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -280,7 +280,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -313,7 +313,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -352,7 +352,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -383,7 +383,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -418,7 +418,7 @@
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size= 1250
+		size = 1250
 
 	}
 
@@ -451,7 +451,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 200
+		size = 200
 
 	}
 
@@ -520,7 +520,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 250
+		size = 250
 
 	}
 
@@ -591,7 +591,7 @@
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -617,7 +617,7 @@
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size= 400
+		size = 400
 	}
 
 	farmers = {
@@ -667,7 +667,7 @@
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size= 600
+		size = 600
 
 	}
 
@@ -762,7 +762,7 @@
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size= 2000
+		size = 2000
 	}
 
 	farmers = {
@@ -851,7 +851,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 625
+		size = 625
 
 	}
 
@@ -1014,7 +1014,7 @@
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size= 1500
+		size = 1500
 
 	}
 
@@ -1166,7 +1166,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 700
+		size = 700
 
 	}
 
@@ -1217,7 +1217,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 600
+		size = 600
 
 	}
 
@@ -1262,7 +1262,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1291,7 +1291,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 600
+		size = 600
 
 	}
 
@@ -1355,7 +1355,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = animist
-		size= 500
+		size = 500
 	}
 
 	farmers = {
@@ -1411,7 +1411,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = animist
-		size= 550
+		size = 550
 	}
 
 	farmers = {
@@ -1458,7 +1458,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1485,7 +1485,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -1512,7 +1512,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -1547,7 +1547,7 @@
 	soldiers = {
 		culture = apache
 		religion = animist
-		size= 250
+		size = 250
 
 	}
 
@@ -1825,7 +1825,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 40
+		size = 40
 
 	}
 
@@ -1858,7 +1858,7 @@
 	soldiers = {
 		culture = apache
 		religion = animist
-		size= 225
+		size = 225
 
 	}
 
@@ -1889,7 +1889,7 @@
 	soldiers = {
 		culture = lusitanian
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -1940,7 +1940,7 @@
 	soldiers = {
 		culture = apache
 		religion = animist
-		size= 150
+		size = 150
 
 	}
 
@@ -2023,7 +2023,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2050,7 +2050,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -2077,7 +2077,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -2110,7 +2110,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -2145,7 +2145,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2178,7 +2178,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2211,7 +2211,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2246,7 +2246,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2279,7 +2279,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -2312,7 +2312,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 	}
 
 	farmers = {
@@ -2338,7 +2338,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 40
+		size = 40
 
 	}
 
@@ -2379,7 +2379,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2412,7 +2412,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 	}
 
 	farmers = {
@@ -2444,7 +2444,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 
 	}
 
@@ -2479,7 +2479,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 
 	}
 
@@ -2512,7 +2512,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2545,7 +2545,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 
 	}
 
@@ -2580,7 +2580,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 
 	}
 
@@ -2613,7 +2613,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -2646,7 +2646,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2681,7 +2681,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2714,7 +2714,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 	}
 
 	farmers = {
@@ -2746,7 +2746,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2781,7 +2781,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2814,7 +2814,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -2847,7 +2847,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -2888,7 +2888,7 @@
 	soldiers = {
 		culture = lusitanian
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2940,7 +2940,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -2985,7 +2985,7 @@
 	soldiers = {
 		culture = lusitanian
 		religion = catholic
-		size= 900
+		size = 900
 
 	}
 
@@ -3016,7 +3016,7 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size= 1200
+		size = 1200
 	}
 
 	farmers = {
@@ -3227,7 +3227,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 150
+		size = 150
 
 	}
 
@@ -3298,7 +3298,7 @@
 	soldiers = {
 		culture = apache
 		religion = animist
-		size= 125
+		size = 125
 
 	}
 
@@ -3399,7 +3399,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3731,7 +3731,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -3764,7 +3764,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -3793,7 +3793,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -3820,7 +3820,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -3853,7 +3853,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -3904,7 +3904,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 75
+		size = 75
 
 	}
 
@@ -3931,7 +3931,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size= 75
+		size = 75
 
 	}
 
@@ -3966,7 +3966,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -3993,7 +3993,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -4026,7 +4026,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -4059,7 +4059,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -4094,7 +4094,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 
 	}
 
@@ -4127,7 +4127,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -4160,7 +4160,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 30
+		size = 30
 	}
 
 	farmers = {
@@ -4192,7 +4192,7 @@
 	soldiers = {
 		culture = sioux
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -4221,7 +4221,7 @@
 	soldiers = {
 		culture = algonquin
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -4272,7 +4272,7 @@
 	soldiers = {
 		culture = algonquin
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -4317,7 +4317,7 @@
 	soldiers = {
 		culture = algonquin
 		religion = animist
-		size= 30
+		size = 30
 	}
 
 	farmers = {
@@ -4355,7 +4355,7 @@
 	soldiers = {
 		culture = algonquin
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -4396,7 +4396,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 150
+		size = 150
 
 	}
 
@@ -4423,7 +4423,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 125
+		size = 125
 
 	}
 
@@ -4450,7 +4450,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 100
+		size = 100
 
 	}
 
@@ -4483,7 +4483,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -4522,7 +4522,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -4561,7 +4561,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 175
+		size = 175
 
 	}
 
@@ -4626,7 +4626,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 650
+		size = 650
 
 	}
 
@@ -4683,7 +4683,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 450
+		size = 450
 
 	}
 
@@ -4752,7 +4752,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 125
+		size = 125
 
 	}
 
@@ -4809,7 +4809,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 325
+		size = 325
 
 	}
 
@@ -4874,7 +4874,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 100
+		size = 100
 
 	}
 
@@ -4899,7 +4899,7 @@
 	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size= 940
+		size = 940
 
 	}
 
@@ -4938,7 +4938,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 75
+		size = 75
 
 	}
 
@@ -4989,7 +4989,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -5040,7 +5040,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -5071,7 +5071,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -5116,7 +5116,7 @@
 	soldiers = {
 		culture = algonquin
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -5145,7 +5145,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 450
+		size = 450
 
 	}
 
@@ -5208,7 +5208,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 500
+		size = 500
 
 	}
 
@@ -5271,7 +5271,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 375
+		size = 375
 
 	}
 
@@ -5328,7 +5328,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 500
+		size = 500
 
 	}
 
@@ -5385,7 +5385,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 525
+		size = 525
 
 	}
 
@@ -5442,7 +5442,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 400
+		size = 400
 
 	}
 
@@ -5519,7 +5519,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 1200
+		size = 1200
 	}
 
 	farmers = {
@@ -5555,7 +5555,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 900
+		size = 900
 
 	}
 
@@ -5606,7 +5606,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 475
+		size = 475
 
 	}
 
@@ -5649,7 +5649,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 650
+		size = 650
 
 	}
 
@@ -5700,7 +5700,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 500
+		size = 500
 
 	}
 
@@ -5731,7 +5731,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 225
+		size = 225
 
 	}
 
@@ -5782,7 +5782,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -5813,7 +5813,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 225
+		size = 225
 
 	}
 
@@ -5884,7 +5884,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 350
+		size = 350
 
 	}
 
@@ -5927,7 +5927,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 2000
+		size = 2000
 
 	}
 
@@ -5978,7 +5978,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -6015,7 +6015,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 300
+		size = 300
 
 	}
 
@@ -6066,7 +6066,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 400
+		size = 400
 
 	}
 
@@ -6097,7 +6097,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 1200
+		size = 1200
 	}
 
 	farmers = {
@@ -6147,7 +6147,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 300
+		size = 300
 	}
 
 	farmers = {
@@ -6177,7 +6177,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 600
+		size = 600
 
 	}
 
@@ -6254,7 +6254,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 400
+		size = 400
 
 	}
 
@@ -6311,7 +6311,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -6386,7 +6386,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 200
+		size = 200
 
 	}
 
@@ -6457,7 +6457,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -6514,7 +6514,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 425
+		size = 425
 
 	}
 
@@ -6607,7 +6607,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 325
+		size = 325
 
 	}
 
@@ -6903,7 +6903,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 550
+		size = 550
 
 	}
 
@@ -6958,7 +6958,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 525
+		size = 525
 
 	}
 
@@ -6991,7 +6991,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 525
+		size = 525
 
 	}
 
@@ -7048,7 +7048,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 900
+		size = 900
 
 	}
 
@@ -7105,7 +7105,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 350
+		size = 350
 
 	}
 
@@ -7182,7 +7182,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -7269,7 +7269,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 2000
+		size = 2000
 
 	}
 
@@ -7346,7 +7346,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 275
+		size = 275
 
 	}
 
@@ -7439,7 +7439,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 400
+		size = 400
 
 	}
 
@@ -7514,7 +7514,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 350
+		size = 350
 
 	}
 
@@ -7571,7 +7571,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 475
+		size = 475
 
 	}
 
@@ -7628,7 +7628,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 375
+		size = 375
 
 	}
 
@@ -7718,7 +7718,7 @@
 	soldiers = {
 		culture = algonquin
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -7763,7 +7763,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -7844,7 +7844,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 150
+		size = 150
 
 	}
 
@@ -7919,7 +7919,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 275
+		size = 275
 
 	}
 
@@ -7976,7 +7976,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 75
+		size = 75
 
 	}
 
@@ -8007,7 +8007,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 175
+		size = 175
 
 	}
 
@@ -8064,7 +8064,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 1150
+		size = 1150
 
 	}
 
@@ -8121,7 +8121,7 @@
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size= 1300
+		size = 1300
 
 	}
 
@@ -8220,7 +8220,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 1175
+		size = 1175
 
 	}
 
@@ -8277,7 +8277,7 @@
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 1175
+		size = 1175
 
 	}
 
@@ -8378,7 +8378,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -8435,7 +8435,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 450
+		size = 450
 
 	}
 
@@ -8492,7 +8492,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 150
+		size = 150
 
 	}
 
@@ -8563,7 +8563,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -8658,7 +8658,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -8727,7 +8727,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -8758,7 +8758,7 @@
 	soldiers = {
 		culture = algonquin
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -8785,7 +8785,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 425
+		size = 425
 
 	}
 
@@ -8812,7 +8812,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 425
+		size = 425
 
 	}
 
@@ -8839,7 +8839,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -8884,7 +8884,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 550
+		size = 550
 
 	}
 
@@ -8941,7 +8941,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 275
+		size = 275
 
 	}
 
@@ -8988,7 +8988,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 325
+		size = 325
 
 	}
 
@@ -9045,7 +9045,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 225
+		size = 225
 
 	}
 
@@ -9072,7 +9072,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 225
+		size = 225
 
 	}
 
@@ -9137,7 +9137,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -9218,7 +9218,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -9257,7 +9257,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -9284,7 +9284,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -9311,7 +9311,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 625
+		size = 625
 
 	}
 
@@ -9338,7 +9338,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 450
+		size = 450
 
 	}
 
@@ -9365,7 +9365,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 2000
+		size = 2000
 
 	}
 
@@ -9392,7 +9392,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 300
+		size = 300
 
 	}
 
@@ -9419,7 +9419,7 @@
 	soldiers = {
 		culture = iroquois
 		religion = animist
-		size= 200
+		size = 200
 
 	}
 
@@ -9478,7 +9478,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -9555,7 +9555,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 250
+		size = 250
 
 	}
 
@@ -9656,7 +9656,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 
@@ -9695,7 +9695,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 300
+		size = 300
 
 	}
 
@@ -9722,7 +9722,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 225
+		size = 225
 
 	}
 
@@ -9763,7 +9763,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 650
+		size = 650
 
 	}
 
@@ -9816,7 +9816,7 @@
 	soldiers = {
 		culture = septiman
 		religion = protestant
-		size= 2000
+		size = 2000
 
 	}
 	capitalists = {
@@ -9862,7 +9862,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size= 600
+		size = 600
 
 	}
 
@@ -9889,7 +9889,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size= 375
+		size = 375
 
 	}
 
@@ -9917,7 +9917,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 

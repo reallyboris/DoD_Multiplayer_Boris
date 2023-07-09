@@ -35,14 +35,14 @@
 	soldiers = {
 		culture = ayitian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = ayitian
 		religion = protestant
-		size= 1000
+		size = 1000
 
 	}
 
@@ -108,7 +108,7 @@
 	soldiers = {
 		culture = ayitian
 		religion = protestant
-		size= 75
+		size = 75
 
 	}
 
@@ -133,7 +133,7 @@
 	soldiers = {
 		culture = afro_germanic
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -236,7 +236,7 @@
 	soldiers = {
 		culture = ayitian
 		religion = protestant
-		size= 75
+		size = 75
 
 	}
 
@@ -261,7 +261,7 @@
 	soldiers = {
 		culture = afro_germanic
 		religion = protestant
-		size= 75
+		size = 75
 
 	}
 
@@ -310,7 +310,7 @@
 	soldiers = {
 		culture = ayitian
 		religion = protestant
-		size= 500
+		size = 500
 
 	}
 
@@ -329,7 +329,7 @@
 	soldiers = {
 		culture = afro_germanic
 		religion = protestant
-		size= 400
+		size = 400
 
 	}
 

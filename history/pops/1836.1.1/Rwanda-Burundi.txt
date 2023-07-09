@@ -80,7 +80,7 @@
 	soldiers = {
 		culture = rundi
 		religion = animist
-		size= 1125
+		size = 1125
 
 	}
 

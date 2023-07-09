@@ -1573,7 +1573,7 @@
 	soldiers = {
 		culture = english
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -2211,7 +2211,7 @@
 	soldiers = {
 		culture = anglois
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -2256,7 +2256,7 @@
 	soldiers = {
 		culture = anglois
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 

@@ -29,7 +29,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -111,7 +111,7 @@
 	soldiers = {
 		culture = afro_germanic
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 

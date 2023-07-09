@@ -16,7 +16,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 3000
+		size = 3000
 
 	}
 
@@ -59,14 +59,14 @@
 	soldiers = {
 		culture = pashtun
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = pashtun
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
@@ -99,7 +99,7 @@
 	soldiers = {
 		culture = pashtun
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -118,7 +118,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 3000
+		size = 3000
 
 	}
 
@@ -149,7 +149,7 @@
 	soldiers = {
 		culture = kalash
 		religion = animist
-		size= 1500
+		size = 1500
 	}
 
 	farmers = {
@@ -182,21 +182,21 @@
 	soldiers = {
 		culture = pashtun
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = pashtun
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = pashtun
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -215,14 +215,14 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size= 17500
+		size = 17500
 	}
 
 	aristocrats = {
@@ -290,14 +290,14 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -329,7 +329,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -337,7 +337,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -382,7 +382,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
@@ -426,7 +426,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
@@ -434,7 +434,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 1750
+		size = 1750
 	}
 
 
@@ -485,7 +485,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -543,7 +543,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 100
+		size = 100
 
 	}
 
@@ -580,7 +580,7 @@
 	soldiers = {
 		culture = kashmiri
 		religion = hindu
-		size= 325
+		size = 325
 
 	}
 
@@ -623,7 +623,7 @@
 	soldiers = {
 		culture = kashmiri
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -650,7 +650,7 @@
 	soldiers = {
 		culture = pashtun
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -681,7 +681,7 @@
 	soldiers = {
 		culture = kashmiri
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -712,7 +712,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = mahayana
-		size= 200
+		size = 200
 
 	}
 
@@ -739,7 +739,7 @@
 	soldiers = {
 		culture = kashmiri
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -770,7 +770,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = mahayana
-		size= 400
+		size = 400
 
 	}
 
@@ -818,7 +818,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 3000
+		size = 3000
 
 	}
 
@@ -855,14 +855,14 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 1000
+		size = 1000
 
 	}
 
@@ -899,14 +899,14 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 2000
+		size = 2000
 
 	}
 
@@ -957,7 +957,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 200
+		size = 200
 
 	}
 
@@ -988,7 +988,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 1500
+		size = 1500
 
 	}
 
@@ -1019,7 +1019,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 150
+		size = 150
 
 	}
 
@@ -1064,7 +1064,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1095,7 +1095,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 100
+		size = 100
 
 	}
 
@@ -1128,7 +1128,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 500
+		size = 500
 
 	}
 
@@ -1159,7 +1159,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 150
+		size = 150
 
 	}
 
@@ -1190,7 +1190,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 250
+		size = 250
 
 	}
 
@@ -1241,7 +1241,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1272,7 +1272,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 150
+		size = 150
 
 	}
 
@@ -1305,7 +1305,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 50
+		size = 50
 
 	}
 
@@ -1342,7 +1342,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 2500
+		size = 2500
 
 	}
 
@@ -1379,7 +1379,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = hindu
-		size= 250
+		size = 250
 
 	}
 
@@ -1418,7 +1418,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1449,7 +1449,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1480,7 +1480,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 1750
+		size = 1750
 
 	}
 
@@ -1513,7 +1513,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1544,14 +1544,14 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -1582,7 +1582,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = hindu
-		size= 600
+		size = 600
 
 	}
 
@@ -1613,7 +1613,7 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 1200
+		size = 1200
 
 	}
 
@@ -1644,7 +1644,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 650
+		size = 650
 
 	}
 
@@ -1678,7 +1678,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size= 175
+		size = 175
 
 	}
 
@@ -1709,7 +1709,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 750
+		size = 750
 
 	}
 
@@ -1740,7 +1740,7 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -1795,7 +1795,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 100
+		size = 100
 
 	}
 
@@ -1831,7 +1831,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1880,7 +1880,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size= 2500
+		size = 2500
 
 	}
 
@@ -1911,7 +1911,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 250
+		size = 250
 
 	}
 
@@ -1950,7 +1950,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -1981,7 +1981,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size= 500
+		size = 500
 
 	}
 
@@ -2012,7 +2012,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2045,7 +2045,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -2076,7 +2076,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 1750
+		size = 1750
 
 	}
 
@@ -2107,7 +2107,7 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -2140,7 +2140,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -2171,14 +2171,14 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 500
+		size = 500
 
 	}
 
@@ -2217,7 +2217,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -2254,14 +2254,14 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -2300,14 +2300,14 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2338,7 +2338,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 1500
+		size = 1500
 
 	}
 
@@ -2389,14 +2389,14 @@
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -2427,7 +2427,7 @@
 	soldiers = {
 		culture = kanauji
 		religion = sunni
-		size= 1250
+		size = 1250
 
 	}
 
@@ -2466,7 +2466,7 @@
 	soldiers = {
 		culture = kanauji
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -2497,14 +2497,14 @@
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -2537,7 +2537,7 @@
 	soldiers = {
 		culture = kanauji
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -2580,14 +2580,14 @@
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -2639,7 +2639,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 1500
+		size = 1500
 
 	}
 
@@ -2688,7 +2688,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = shiite
-		size= 1100
+		size = 1100
 
 	}
 
@@ -2731,14 +2731,14 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -2777,14 +2777,14 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size= 1500
+		size = 1500
 
 	}
 
@@ -2821,7 +2821,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -2869,21 +2869,21 @@
 	soldiers = {
 		culture = bihari
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bihari
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bihari
 		religion = hindu
-		size= 500
+		size = 500
 
 	}
 
@@ -2920,7 +2920,7 @@
 	soldiers = {
 		culture = bihari
 		religion = sunni
-		size= 1250
+		size = 1250
 
 	}
 
@@ -2965,7 +2965,7 @@
 	soldiers = {
 		culture = bihari
 		religion = hindu
-		size= 2500
+		size = 2500
 
 	}
 
@@ -2996,7 +2996,7 @@
 	soldiers = {
 		culture = bihari
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -3035,7 +3035,7 @@
 	soldiers = {
 		culture = bihari
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3066,7 +3066,7 @@
 	soldiers = {
 		culture = bihari
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -3111,14 +3111,14 @@
 	soldiers = {
 		culture = bihari
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bihari
 		religion = hindu
-		size= 1500
+		size = 1500
 
 	}
 
@@ -3149,7 +3149,7 @@
 	soldiers = {
 		culture = bihari
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -3197,14 +3197,14 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3247,7 +3247,7 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -3284,7 +3284,7 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 }
@@ -3323,28 +3323,28 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3375,7 +3375,7 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 2000
+		size = 2000
 
 	}
 
@@ -3420,21 +3420,21 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3459,7 +3459,7 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -3510,7 +3510,7 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
@@ -3547,14 +3547,14 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3593,14 +3593,14 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -3637,7 +3637,7 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -3676,14 +3676,14 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 750
+		size = 750
 
 	}
 
@@ -3720,7 +3720,7 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 2250
+		size = 2250
 
 	}
 
@@ -3765,14 +3765,14 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 1500
+		size = 1500
 
 	}
 
@@ -3809,14 +3809,14 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -3841,7 +3841,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 250
+		size = 250
 
 	}
 
@@ -3902,7 +3902,7 @@
 	soldiers = {
 		culture = assamese
 		religion = hindu
-		size= 1500
+		size = 1500
 
 	}
 
@@ -3933,7 +3933,7 @@
 	soldiers = {
 		culture = assamese
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -3952,7 +3952,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 500
+		size = 500
 
 	}
 
@@ -3991,7 +3991,7 @@
 	soldiers = {
 		culture = manipuri
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -4016,7 +4016,7 @@
 	soldiers = {
 		culture = assamese
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -4041,7 +4041,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 250
+		size = 250
 
 	}
 
@@ -4080,7 +4080,7 @@
 	soldiers = {
 		culture = assamese
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -4099,7 +4099,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 1100
+		size = 1100
 
 	}
 
@@ -4132,7 +4132,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 1100
+		size = 1100
 
 	}
 
@@ -4157,7 +4157,7 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -4204,7 +4204,7 @@
 	soldiers = {
 		culture = oriya
 		religion = hindu
-		size= 2250
+		size = 2250
 
 	}
 
@@ -4256,14 +4256,14 @@
 	soldiers = {
 		culture = oriya
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = oriya
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4294,7 +4294,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 250
+		size = 250
 
 	}
 
@@ -4345,7 +4345,7 @@
 	soldiers = {
 		culture = oriya
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -4376,7 +4376,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 250
+		size = 250
 
 	}
 
@@ -4418,7 +4418,7 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 500
+		size = 500
 
 	}
 
@@ -4449,7 +4449,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -4501,7 +4501,7 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -4526,7 +4526,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -4584,14 +4584,14 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4622,7 +4622,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -4668,14 +4668,14 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -4700,7 +4700,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -4752,14 +4752,14 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4796,7 +4796,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 600
+		size = 600
 
 	}
 
@@ -4848,14 +4848,14 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4880,7 +4880,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -4927,14 +4927,14 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -4959,7 +4959,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 200
+		size = 200
 
 	}
 
@@ -5005,7 +5005,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -5030,7 +5030,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -5076,14 +5076,14 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -5108,7 +5108,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -5148,7 +5148,7 @@
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -5179,7 +5179,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 650
+		size = 650
 
 	}
 
@@ -5236,14 +5236,14 @@
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -5292,7 +5292,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 550
+		size = 550
 
 	}
 
@@ -5339,14 +5339,14 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 1500
+		size = 1500
 
 	}
 
@@ -5377,7 +5377,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -5416,7 +5416,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 1500
+		size = 1500
 
 	}
 
@@ -5441,7 +5441,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -5494,14 +5494,14 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 750
+		size = 750
 
 	}
 
@@ -5526,7 +5526,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 350
+		size = 350
 
 	}
 
@@ -5557,7 +5557,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 650
+		size = 650
 
 	}
 
@@ -5590,7 +5590,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 800
+		size = 800
 
 	}
 
@@ -5621,7 +5621,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 1250
+		size = 1250
 
 	}
 
@@ -5654,7 +5654,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -5685,7 +5685,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 850
+		size = 850
 
 	}
 
@@ -5719,7 +5719,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -5744,7 +5744,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -5796,7 +5796,7 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -5845,7 +5845,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 400
+		size = 400
 
 	}
 
@@ -5885,7 +5885,7 @@
 	soldiers = {
 		culture = kanauji
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -5916,7 +5916,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = jain
-		size= 350
+		size = 350
 
 	}
 
@@ -5964,14 +5964,14 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 500
+		size = 500
 
 	}
 
@@ -6020,14 +6020,14 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -6058,7 +6058,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = shiite
-		size= 75
+		size = 75
 
 	}
 
@@ -6091,7 +6091,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 2500
+		size = 2500
 
 	}
 
@@ -6122,7 +6122,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 700
+		size = 700
 
 	}
 
@@ -6155,7 +6155,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -6186,7 +6186,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 800
+		size = 800
 
 	}
 
@@ -6219,7 +6219,7 @@
 	soldiers = {
 		culture = kannada
 		religion = hindu
-		size= 1800
+		size = 1800
 
 	}
 
@@ -6250,7 +6250,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -6283,14 +6283,14 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 500
+		size = 500
 
 	}
 
@@ -6327,7 +6327,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -6375,14 +6375,14 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -6413,7 +6413,7 @@
 	soldiers = {
 		culture = sindi
 		religion = shiite
-		size= 50
+		size = 50
 
 	}
 
@@ -6470,14 +6470,14 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -6534,14 +6534,14 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -6607,7 +6607,7 @@
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -6668,7 +6668,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -6731,7 +6731,7 @@
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 2500
+		size = 2500
 
 	}
 
@@ -6762,7 +6762,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -6820,14 +6820,14 @@
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 1500
+		size = 1500
 
 	}
 
@@ -6858,7 +6858,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -6909,28 +6909,28 @@
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -6961,7 +6961,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -7007,14 +7007,14 @@
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -7051,7 +7051,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -7090,21 +7090,21 @@
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = gujarati
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -7135,7 +7135,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -7189,14 +7189,14 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -7281,7 +7281,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 1500
+		size = 1500
 
 	}
 
@@ -7336,7 +7336,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
@@ -7393,7 +7393,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -7424,7 +7424,7 @@
 	soldiers = {
 		culture = sindi
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -7457,7 +7457,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -7488,7 +7488,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -7521,7 +7521,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 2500
+		size = 2500
 
 	}
 
@@ -7558,7 +7558,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -7591,7 +7591,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 2250
+		size = 2250
 
 	}
 
@@ -7622,7 +7622,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -7661,7 +7661,7 @@
 	soldiers = {
 		culture = kannada
 		religion = hindu
-		size= 2750
+		size = 2750
 
 	}
 
@@ -7710,7 +7710,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -7751,7 +7751,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -7782,7 +7782,7 @@
 	soldiers = {
 		culture = marathi
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -7807,7 +7807,7 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size= 100
+		size = 100
 
 	}
 
@@ -7855,14 +7855,14 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 500
+		size = 500
 
 	}
 
@@ -7919,14 +7919,14 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 1500
+		size = 1500
 
 	}
 
@@ -7957,7 +7957,7 @@
 	soldiers = {
 		culture = telegu
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -7990,7 +7990,7 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 2500
+		size = 2500
 
 	}
 
@@ -8021,7 +8021,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -8060,7 +8060,7 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
@@ -8091,7 +8091,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -8139,14 +8139,14 @@
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -8225,7 +8225,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 1500
+		size = 1500
 
 	}
 
@@ -8256,7 +8256,7 @@
 	soldiers = {
 		culture = anglois
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 }
@@ -8364,14 +8364,14 @@
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -8402,7 +8402,7 @@
 	soldiers = {
 		culture = tamil
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -8441,14 +8441,14 @@
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -8479,7 +8479,7 @@
 	soldiers = {
 		culture = tamil
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -8508,7 +8508,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -8527,7 +8527,7 @@
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size= 300
+		size = 300
 
 	}
 
@@ -8552,7 +8552,7 @@
 	soldiers = {
 		culture = tamil
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -8600,7 +8600,7 @@
 	soldiers = {
 		culture = kannada
 		religion = hindu
-		size= 1700
+		size = 1700
 
 	}
 
@@ -8631,7 +8631,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -8676,7 +8676,7 @@
 	soldiers = {
 		culture = kannada
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -8713,7 +8713,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -8746,7 +8746,7 @@
 	soldiers = {
 		culture = kannada
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -8777,7 +8777,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -8818,7 +8818,7 @@
 	soldiers = {
 		culture = kannada
 		religion = hindu
-		size= 2750
+		size = 2750
 
 	}
 
@@ -8849,7 +8849,7 @@
 	soldiers = {
 		culture = kannada
 		religion = sunni
-		size= 250
+		size = 250
 
 	}
 
@@ -8884,7 +8884,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = hindu
-		size= 2000
+		size = 2000
 
 	}
 
@@ -8915,7 +8915,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = sunni
-		size= 1100
+		size = 1100
 
 	}
 
@@ -8946,7 +8946,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = coptic
-		size= 250
+		size = 250
 
 	}
 
@@ -8977,7 +8977,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -9011,14 +9011,14 @@
 	soldiers = {
 		culture = malayalam
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = malayalam
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -9049,7 +9049,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -9098,7 +9098,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = coptic
-		size= 100
+		size = 100
 
 	}
 
@@ -9129,7 +9129,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = catholic
-		size= 100
+		size = 100
 
 	}
 
@@ -9174,21 +9174,21 @@
 	soldiers = {
 		culture = malayalam
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = malayalam
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = malayalam
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -9219,7 +9219,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -9268,7 +9268,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = coptic
-		size= 100
+		size = 100
 
 	}
 
@@ -9299,7 +9299,7 @@
 	soldiers = {
 		culture = malayalam
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -9348,7 +9348,7 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 

@@ -40,7 +40,7 @@
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size= 1100
+		size = 1100
 
 		militancy = 9
 	}
@@ -102,7 +102,7 @@
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size= 450
+		size = 450
 
 		militancy = 9
 	}

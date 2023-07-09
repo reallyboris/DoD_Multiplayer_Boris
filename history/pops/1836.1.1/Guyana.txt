@@ -29,7 +29,7 @@
 	soldiers = {
 		culture = guianan
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 150
+		size = 150
 
 	}
 
@@ -93,7 +93,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -126,7 +126,7 @@
 	soldiers = {
 		culture = guianan
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -151,7 +151,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -190,7 +190,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -233,7 +233,7 @@
 	soldiers = {
 		culture = guianan
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -258,7 +258,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -295,7 +295,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -328,7 +328,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -365,7 +365,7 @@
 	soldiers = {
 		culture = guianan
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -390,7 +390,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -423,7 +423,7 @@
 	soldiers = {
 		culture = amazonian_native
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 

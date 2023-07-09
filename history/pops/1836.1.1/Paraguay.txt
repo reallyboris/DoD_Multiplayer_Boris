@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -56,7 +56,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -103,7 +103,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 3000
+		size = 3000
 
 	}
 
@@ -111,7 +111,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 2100
+		size = 2100
 
 	}
 
@@ -136,7 +136,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 1250
+		size = 1250
 
 	}
 
@@ -161,7 +161,7 @@
 	soldiers = {
 		culture = afro_frankish
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -200,7 +200,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -225,7 +225,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 125
+		size = 125
 
 	}
 
@@ -258,7 +258,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 1050
+		size = 1050
 
 	}
 
@@ -283,7 +283,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 1100
+		size = 1100
 
 	}
 
@@ -316,7 +316,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 1050
+		size = 1050
 
 	}
 
@@ -341,7 +341,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 1100
+		size = 1100
 
 	}
 
@@ -374,7 +374,7 @@
 	soldiers = {
 		culture = lotharian
 		religion = protestant
-		size= 25
+		size = 25
 
 	}
 
@@ -405,7 +405,7 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 

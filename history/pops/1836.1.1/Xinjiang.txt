@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 2525
+		size = 2525
 
 	}
 
@@ -66,7 +66,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = animist
-		size= 37
+		size = 37
 
 	}
 
@@ -165,7 +165,7 @@
 	soldiers = {
 		culture = oirat
 		religion = gelugpa
-		size= 63
+		size = 63
 
 	}
 
@@ -234,7 +234,7 @@
 	soldiers = {
 		culture = oirat
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -265,7 +265,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -296,7 +296,7 @@
 	soldiers = {
 		culture = oirat
 		religion = gelugpa
-		size= 50
+		size = 50
 
 	}
 
@@ -329,7 +329,7 @@
 	soldiers = {
 		culture = oirat
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -360,7 +360,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 75
+		size = 75
 
 	}
 
@@ -391,7 +391,7 @@
 	soldiers = {
 		culture = oirat
 		religion = gelugpa
-		size= 75
+		size = 75
 
 	}
 
@@ -424,7 +424,7 @@
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 500
+		size = 500
 
 	}
 
@@ -457,7 +457,7 @@
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 225
+		size = 225
 
 	}
 
@@ -490,7 +490,7 @@
 	soldiers = {
 		culture = oirat
 		religion = sunni
-		size= 425
+		size = 425
 
 	}
 
@@ -534,14 +534,14 @@
 	soldiers = {
 		culture = oirat
 		religion = sunni
-		size= 3000
+		size = 3000
 
 	}
 	
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 1675
+		size = 1675
 
 	}
 
@@ -590,7 +590,7 @@
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size= 50
+		size = 50
 
 	}
 
@@ -621,7 +621,7 @@
 	soldiers = {
 		culture = oirat
 		religion = gelugpa
-		size= 25
+		size = 25
 
 	}
 
@@ -652,7 +652,7 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 50
+		size = 50
 
 	}
 
@@ -685,7 +685,7 @@
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 75
+		size = 75
 	}
 
 	farmers = {

@@ -41,7 +41,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -79,7 +79,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 450
+		size = 450
 
 	}
 
@@ -112,7 +112,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -146,7 +146,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -179,7 +179,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 60
+		size = 60
 
 	}
 }
@@ -202,7 +202,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -233,7 +233,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -266,7 +266,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = sunni
-		size= 150
+		size = 150
 
 	}
 
@@ -291,7 +291,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -324,7 +324,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -357,7 +357,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -402,7 +402,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -427,7 +427,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -460,7 +460,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -543,7 +543,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -594,7 +594,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -627,7 +627,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 	}
 
 	farmers = {
@@ -659,7 +659,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -710,7 +710,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -743,7 +743,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -776,7 +776,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -827,7 +827,7 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -856,7 +856,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -889,7 +889,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 1000
+		size = 1000
 
 	}
 
@@ -916,7 +916,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -949,7 +949,7 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -982,7 +982,7 @@
 	soldiers = {
 		culture = tatar
 		religion = animist
-		size= 75
+		size = 75
 
 	}
 
@@ -1017,7 +1017,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1048,7 +1048,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 100
+		size = 100
 
 	}
 
@@ -1079,7 +1079,7 @@
 	soldiers = {
 		culture = yakut
 		religion = orthodox
-		size= 50
+		size = 50
 
 	}
 
@@ -1106,7 +1106,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1137,7 +1137,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1162,7 +1162,7 @@
 	soldiers = {
 		culture = yakut
 		religion = orthodox
-		size= 10
+		size = 10
 
 	}
 
@@ -1189,7 +1189,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1220,7 +1220,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1245,7 +1245,7 @@
 	soldiers = {
 		culture = yakut
 		religion = orthodox
-		size= 10
+		size = 10
 
 	}
 
@@ -1272,7 +1272,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1303,7 +1303,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 20
+		size = 20
 
 	}
 
@@ -1328,7 +1328,7 @@
 	soldiers = {
 		culture = yakut
 		religion = orthodox
-		size= 10
+		size = 10
 
 	}
 
@@ -1361,7 +1361,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1393,7 +1393,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1420,7 +1420,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 25
+		size = 25
 
 	}
 
@@ -1451,7 +1451,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -1476,7 +1476,7 @@
 	soldiers = {
 		culture = yakut
 		religion = orthodox
-		size= 10
+		size = 10
 
 	}
 
@@ -1511,7 +1511,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1544,7 +1544,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1595,7 +1595,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1628,7 +1628,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1661,7 +1661,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1688,7 +1688,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1719,7 +1719,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1752,7 +1752,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1783,7 +1783,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -1816,7 +1816,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1849,7 +1849,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -1884,7 +1884,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 12
+		size = 12
 
 	}
 
@@ -1917,7 +1917,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -1950,7 +1950,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -1983,7 +1983,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -2016,7 +2016,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -2051,7 +2051,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -2102,7 +2102,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -2135,7 +2135,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -2168,7 +2168,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -2201,7 +2201,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -2236,7 +2236,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2288,7 +2288,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2321,7 +2321,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2354,7 +2354,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2388,7 +2388,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2421,7 +2421,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 6
+		size = 6
 
 	}
 
@@ -2451,7 +2451,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 15
+		size = 15
 
 	}
 
@@ -2485,7 +2485,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -2516,7 +2516,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -2549,7 +2549,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -2580,7 +2580,7 @@
 	soldiers = {
 		culture = yakut
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -2615,7 +2615,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2646,7 +2646,7 @@
 	soldiers = {
 		culture = ainu
 		religion = animist
-		size= 8
+		size = 8
 
 	}
 
@@ -2679,7 +2679,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -2730,7 +2730,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2763,7 +2763,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2792,7 +2792,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -2823,7 +2823,7 @@
 	soldiers = {
 		culture = ainu
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2856,7 +2856,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2889,7 +2889,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2922,7 +2922,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2955,7 +2955,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -2988,7 +2988,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -3023,7 +3023,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3056,7 +3056,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 8
+		size = 8
 
 	}
 
@@ -3089,7 +3089,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3122,7 +3122,7 @@
 	soldiers = {
 		culture = inuit
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -3155,7 +3155,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -3188,7 +3188,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 2
+		size = 2
 
 	}
 
@@ -3223,7 +3223,7 @@
 	soldiers = {
 		culture = tatar
 		religion = animist
-		size= 50
+		size = 50
 
 	}
 
@@ -3254,7 +3254,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -3287,7 +3287,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -3320,7 +3320,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3353,7 +3353,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3386,7 +3386,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 5
+		size = 5
 
 	}
 
@@ -3421,7 +3421,7 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size= 125
+		size = 125
 
 	}
 
@@ -3452,7 +3452,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3485,7 +3485,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3518,7 +3518,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3551,7 +3551,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 3
+		size = 3
 
 	}
 
@@ -3586,7 +3586,7 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size= 175
+		size = 175
 
 	}
 
@@ -3619,7 +3619,7 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size= 100
+		size = 100
 
 	}
 
@@ -3650,7 +3650,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -3690,7 +3690,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size= 125
+		size = 125
 
 	}
 
@@ -3715,7 +3715,7 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 5
+		size = 5
 
 	}
 
@@ -3746,7 +3746,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -3779,7 +3779,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size= 100
+		size = 100
 
 	}
 
@@ -3810,7 +3810,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -3845,7 +3845,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size= 750
+		size = 750
 
 	}
 
@@ -3876,7 +3876,7 @@
 	soldiers = {
 		culture = korean
 		religion = mahayana
-		size= 30
+		size = 30
 
 	}
 
@@ -3907,7 +3907,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 
@@ -3940,7 +3940,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size= 800
+		size = 800
 
 	}
 
@@ -3971,7 +3971,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 20
+		size = 20
 
 	}
 
@@ -4004,7 +4004,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size= 175
+		size = 175
 
 	}
 
@@ -4035,7 +4035,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 25
+		size = 25
 
 	}
 
@@ -4074,7 +4074,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size= 900
+		size = 900
 
 	}
 
@@ -4105,7 +4105,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 20
+		size = 20
 
 	}
 
@@ -4138,7 +4138,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size= 625
+		size = 625
 
 	}
 
@@ -4169,7 +4169,7 @@
 	soldiers = {
 		culture = siberian
 		religion = animist
-		size= 10
+		size = 10
 
 	}
 

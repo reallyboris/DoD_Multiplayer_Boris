@@ -35,21 +35,21 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 1000
+		size = 1000
 
 	}
 
@@ -80,7 +80,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 100
+		size = 100
 
 	}
 
@@ -111,7 +111,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = animist
-		size= 200
+		size = 200
 
 	}
 
@@ -144,7 +144,7 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 1100
+		size = 1100
 
 	}
 
@@ -175,7 +175,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 350
+		size = 350
 
 	}
 
@@ -206,7 +206,7 @@
 	soldiers = {
 		culture = asian_minor
 		religion = animist
-		size= 200
+		size = 200
 
 	}
 

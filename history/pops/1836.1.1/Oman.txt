@@ -35,14 +35,14 @@
 	soldiers = {
 		culture = khaliji
 		religion = ibadi
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = khaliji
 		religion = ibadi
-		size= 1000
+		size = 1000
 
 	}
 
@@ -67,7 +67,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -86,7 +86,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -143,7 +143,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = ibadi
-		size= 50
+		size = 50
 
 	}
 
@@ -176,7 +176,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = ibadi
-		size= 1000
+		size = 1000
 
 	}
 
@@ -201,7 +201,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 10
+		size = 10
 
 	}
 
@@ -234,7 +234,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = ibadi
-		size= 25
+		size = 25
 
 	}
 
@@ -259,7 +259,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -278,7 +278,7 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -317,7 +317,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = ibadi
-		size= 50
+		size = 50
 
 	}
 
@@ -382,7 +382,7 @@
 	soldiers = {
 		culture = khaliji
 		religion = ibadi
-		size= 1000
+		size = 1000
 
 	}
 

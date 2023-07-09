@@ -41,7 +41,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 2250
+		size = 2250
 
 	}
 
@@ -108,7 +108,7 @@
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 575
+		size = 575
 
 	}
 
@@ -141,7 +141,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -180,7 +180,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -217,7 +217,7 @@
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 25
+		size = 25
 
 	}
 
@@ -250,7 +250,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -283,7 +283,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -316,7 +316,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -353,7 +353,7 @@
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 100
+		size = 100
 
 	}
 
@@ -400,7 +400,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -431,7 +431,7 @@
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 50
+		size = 50
 
 	}
 
@@ -462,7 +462,7 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size= 25
+		size = 25
 
 	}
 
@@ -495,7 +495,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -526,7 +526,7 @@
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 75
+		size = 75
 
 	}
 
@@ -559,7 +559,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 1100
+		size = 1100
 
 	}
 
@@ -590,7 +590,7 @@
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 50
+		size = 50
 
 	}
 
@@ -621,7 +621,7 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size= 100
+		size = 100
 
 	}
 
@@ -668,7 +668,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 325
+		size = 325
 
 	}
 
@@ -705,7 +705,7 @@
 	soldiers = {
 		culture = shan
 		religion = theravada
-		size= 525
+		size = 525
 
 	}
 
@@ -738,7 +738,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 225
+		size = 225
 
 	}
 
@@ -769,7 +769,7 @@
 	soldiers = {
 		culture = shan
 		religion = theravada
-		size= 250
+		size = 250
 
 	}
 
@@ -800,7 +800,7 @@
 	soldiers = {
 		culture = lao
 		religion = theravada
-		size= 225
+		size = 225
 
 	}
 
@@ -847,7 +847,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 225
+		size = 225
 
 	}
 
@@ -878,7 +878,7 @@
 	soldiers = {
 		culture = lao
 		religion = theravada
-		size= 1200
+		size = 1200
 
 	}
 
@@ -911,7 +911,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 250
+		size = 250
 
 	}
 
@@ -942,7 +942,7 @@
 	soldiers = {
 		culture = lao
 		religion = theravada
-		size= 175
+		size = 175
 
 	}
 
@@ -973,7 +973,7 @@
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 25
+		size = 25
 
 	}
 
@@ -1008,7 +1008,7 @@
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 50
+		size = 50
 
 	}
 
@@ -1039,7 +1039,7 @@
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 100
+		size = 100
 
 	}
 
@@ -1064,7 +1064,7 @@
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 50
+		size = 50
 
 	}
 
@@ -1099,7 +1099,7 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size= 300
+		size = 300
 
 	}
 
@@ -1124,7 +1124,7 @@
 	soldiers = {
 		culture = tionghoa
 		religion = mahayana
-		size= 25
+		size = 25
 
 	}
 

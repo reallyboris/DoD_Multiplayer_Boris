@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -84,7 +84,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 1250
+		size = 1250
 
 	}
 
@@ -116,7 +116,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 1200
+		size = 1200
 
 	}
 
@@ -155,7 +155,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -192,28 +192,28 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -250,7 +250,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 300
+		size = 300
 
 	}
 
@@ -281,7 +281,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 50
+		size = 50
 
 	}
 
@@ -306,7 +306,7 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size= 150
+		size = 150
 
 	}
 
@@ -337,7 +337,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -390,7 +390,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -421,7 +421,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 1050
+		size = 1050
 
 	}
 
@@ -464,7 +464,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 250
+		size = 250
 
 	}
 
@@ -501,7 +501,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -561,7 +561,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 2100
+		size = 2100
 
 	}
 
@@ -598,7 +598,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 2500
+		size = 2500
 
 	}
 
@@ -629,7 +629,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 75
+		size = 75
 
 	}
 
@@ -672,7 +672,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1275
+		size = 1275
 
 	}
 
@@ -711,14 +711,14 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 3000
+		size = 3000
 
 	}
 
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -749,7 +749,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 50
+		size = 50
 
 	}
 
@@ -780,7 +780,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -811,7 +811,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -842,7 +842,7 @@
 	soldiers = {
 		culture = slovak
 		religion = catholic
-		size= 300
+		size = 300
 
 	}
 
@@ -881,7 +881,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -918,7 +918,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 175
+		size = 175
 
 	}
 
@@ -955,7 +955,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 275
+		size = 275
 
 	}
 
@@ -995,7 +995,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1032,7 +1032,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 150
+		size = 150
 
 	}
 
@@ -1063,7 +1063,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -1088,7 +1088,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -1128,7 +1128,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 150
+		size = 150
 
 	}
 
@@ -1165,7 +1165,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 100
+		size = 100
 
 	}
 
@@ -1196,7 +1196,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -1221,7 +1221,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -1262,7 +1262,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 450
+		size = 450
 
 	}
 
@@ -1293,7 +1293,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 275
+		size = 275
 
 	}
 
@@ -1324,7 +1324,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -1355,7 +1355,7 @@
 	soldiers = {
 		culture = slovak
 		religion = catholic
-		size= 50
+		size = 50
 
 	}
 
@@ -1403,7 +1403,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1440,7 +1440,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 125
+		size = 125
 
 	}
 
@@ -1471,7 +1471,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -1496,7 +1496,7 @@
 	soldiers = {
 		culture = slovak
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 
@@ -1535,7 +1535,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 1100
+		size = 1100
 
 	}
 
@@ -1572,7 +1572,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 900
+		size = 900
 
 	}
 
@@ -1603,7 +1603,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -1634,7 +1634,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 75
+		size = 75
 
 	}
 
@@ -1680,7 +1680,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size= 325
+		size = 325
 
 	}
 
@@ -1717,7 +1717,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size= 450
+		size = 450
 
 	}
 
@@ -1748,7 +1748,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = jewish
-		size= 25
+		size = 25
 
 	}
 
@@ -1773,7 +1773,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 25
+		size = 25
 
 	}
 

@@ -7,16 +7,27 @@ TODO:
 merge african/other cultures
 
 change militancy/infamy penalites from trucebreak
+
+option for transfers that cost infamy
+
+30 LR for all of china
+
 	
 warscore rework (alstadt too)
 
 consider making frigates require lvl 1 ports to build
+
+fix "stop hiring colonial clergy" dosent work atm
 
 sulfur in provence
 
 alstadt defines
 
 faster railraods/forts/ports
+
+cived nations should start iwth more tech (japan n others)
+
+alstadt reform values
 
 small/medium/big puppet and 3 way transfer cbs from alstadt
 
@@ -28,15 +39,25 @@ goods.txt causing ooses? (reno)
 
 general traits saying atk or def
 
+give GC less reforms when they take their accepted decision?
+
+easier reqs for changing tech schools
+
 add starting techs to uncivs matching their reforms
 
 gold rush on oil spawn, extra large oil fields
 
 change NVs?
 
+consider changing the ability to outlaw slavery/serfdom as unciv
+
 remove conscription decision
 
+remove dzungar blowing up
+
 too much tea and silk (and maybe cotton/wood too)
+
+make ai not take the abandom italy decision
 
 new turkey paths that arent dumb
 

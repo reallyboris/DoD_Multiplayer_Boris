@@ -47,6 +47,8 @@ upper_house = {
 	communist = 0
 }
 
+set_country_flag = turania_presentation
+
 # Level_1
 # Technologies
 late_enlightenment_philosophy = 1

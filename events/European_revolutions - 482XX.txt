@@ -586,34 +586,6 @@ country_event = { #Valois in France
 	}
 }
 
-country_event = { #Etrurian Italy
-	id = 48261
-	title = "CONGR1.T"
-	desc = "CONGR11.D"
-	
-	major = yes 
-	
-	
-	trigger = { 
-	NOT = { has_global_flag = DVG_infamy }
-	ITA = { exists = yes has_country_flag = quick_unification  }
-	NOT = { tag = ITA }
-	is_greater_power = yes 
-	continent = europe 
-	}
-	
-	mean_time_to_happen = { 
-	days = 30 
-	}
-	
-	option = { 
-	name = "48261.A"
-	set_global_flag = DVG_infamy 
-	badboy = -3 
-	prestige = 10 
-	}
-}
-
 country_event = { #Anglois acceptance 
 	id = 48262
 	title = "CONGR1.T"

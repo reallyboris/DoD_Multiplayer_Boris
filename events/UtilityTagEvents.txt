@@ -462,6 +462,33 @@ country_event = {
 		
 		option = {
 			name = "apply"
+			# cleanup sgf minor cores
+			random_country = {
+				limit = {
+					exists = yes
+					tag = SGF
+					owns = 595
+					owns = 599
+					owns = 613
+					owns = 619 
+					owns = 612 
+					owns = 589 
+					owns = 586 
+					owns = 605 
+					war = no 
+					
+				}
+				any_owned = { 
+					remove_core = BAV 
+					remove_core = AUS 
+					remove_core = TIR 
+					remove_core = SAL 
+					remove_core = BAD 
+					remove_core = WUR 
+					remove_core = SWI
+				}
+			
+			}
 			
 			# winds of westernization for uncivs
 			any_country = {

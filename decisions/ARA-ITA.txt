@@ -314,30 +314,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	
-	annex_provence = {
-		
-		potential = { 
-		tag = ARI 
-		has_country_flag = latin_empire
-		PRV = { exists = yes }
-		is_greater_power = yes 
-		NOT = { 458 = { owned_by = PRV } }
-		NOT = { 455 = { owned_by = PRV } }
-		}
-		
-		allow = { 
-		PRV = { war = no in_sphere = THIS }
-		war = no 
-		}
-		
-		effect = {
-		inherit = PRV 
-		}
-	
-	
-	}
-	
+
 	abandon_italy = {
 		potential = {
 			tag = ARA
@@ -359,6 +336,9 @@ political_decisions = {
 		remove_accepted_culture = south_italian
 		add_accepted_culture = castilian
 				set_country_flag = abandon_italy
+		}
+		ai_will_do = {
+			factor = 0
 		}
 	}
 }

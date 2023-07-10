@@ -129,109 +129,6 @@ political_decisions = {
 		}
 	}
 	
-	exploration_of_Amazonia_GRA = {
-	picture = naturalist_decision
-	potential = {
-		tag = GRA
-		owns = 2412
-		NOT = { has_country_flag = exploration_of_Amazonia }
-		2402 = { empty = yes }
-		2403 = { empty = yes }
-		2404 = { empty = yes }
-		2407 = { empty = yes }
-		2549 = { empty = yes }
-	}
-		
-	allow = {
-		OR = {
-			year = 1890 
-			is_greater_power = yes 
-			AND = {
-				vassal_of = SPA 
-				nationalism_n_imperialism = 1
-				steamers = 1
-			}
-		}
-	}
-	
-	effect = {
-		set_country_flag = exploration_of_Amazonia
-		random_owned = {
-				2402 = { secede_province = THIS }
-			}
-		}
-	}
-	
-	exploration_of_Amazonia_GUY = { 
-	picture = naturalist_decision
-	potential = { 
-		tag = GUY
-		owns = 2412
-		NOT = { has_country_flag = exploration_of_Amazonia }
-		2402 = { empty = yes }
-		2403 = { empty = yes }
-		2404 = { empty = yes }
-		2407 = { empty = yes }
-		2549 = { empty = yes }
-	}
-	
-	allow = {
-		OR = {
-			year = 1870
-			is_greater_power = yes
-			AND = {
-				vassal_of = SPA
-				ideological_thought = 1
-				steamers = 1
-			}
-		}
-	}
-	
-	effect = {
-		set_country_flag = exploration_of_Amazonia
-		add_country_modifier = {
-			name = gateway_to_harbor 
-			duration = 1095
-		}
-		random_owned = {
-				2402 = { secede_province = THIS }
-			}
-		}
-	}
-	
-	LST_recognized = {
-		potential = {
-			tag = LST
-			NOT = { has_country_flag = LST_recognized }
-			LST = {
-				all_core = {
-						owned_by = THIS	
-					}
-				}
-		}
-		
-		allow = {
-			war = no
-			is_vassal = no
-			OR = { 
-			is_greater_power = yes 
-			truce_with = MEX 
-			}
-		}
-		
-		effect = {
-			set_country_flag = LST_recognized
-			any_owned = {
-				limit = { is_core = THIS }
-				remove_core = MEX
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
 	Manifest_destiny_AMADEM = {
 		potential = {
 			tag = AMA
@@ -687,7 +584,7 @@ political_decisions = {
 		allow = {
 			NOT = { war = yes }
 			slavery = no_slavery 
-			invention = national_fraternity
+			nationalism_n_imperialism = 1
 		}
 		effect = {
 			add_accepted_culture = afro_frankish
@@ -738,6 +635,7 @@ political_decisions = {
 		allow = {
 			NOT = { war = yes }
 			slavery = no_slavery
+			nationalism_n_imperialism = 1
 		}
 		effect = {
 			add_accepted_culture = afro_latino
@@ -755,24 +653,6 @@ political_decisions = {
 				  }
           consciousness = 2
 			}
-		}
-	}
-	
-	independent_equinoxia = { 
-		potential = { 
-		tag = EQN 
-		NOT = { has_country_flag = indepence_EQN }
-		}
-		
-		allow = { 
-		NOT = { AMA = { is_greater_power = yes } } 
-		war = no 
-		year = 1860 
-		}
-		
-		effect = { 
-		EQN = { all_core = { remove_core = AMA } }
-		set_country_flag = indepence_EQN
 		}
 	}
 	
@@ -837,193 +717,6 @@ political_decisions = {
 		}
 	}
 	
-	beornia_inca_border_treaty = {
-		picture = conquest_of_the_desert
-		potential = {
-			OR = {
-				tag = NAN
-				tag = HBE
-			}
-			has_country_flag = conquest_of_the_desert
-			NOT = { has_country_flag = NAN_cone }
-			NOT = { is_greater_power = yes }
-			2324 = {
-				owner = {
-					has_country_flag = occupation_of_araucania
-					NOT = { is_greater_power = yes }
-				}
-			}
-			any_owned_province = {
-				OR = {
-					region = NAN_5
-					region = SA_9
-				}
-			}
-			NOT = { has_global_flag = NAN_INC_border_treaty }
-			2329 = { empty = no }
-			2332 = { empty = no }
-			2333 = { empty = no }
-			2334 = { empty = no }
-			2335 = { empty = no }
-			2391 = { empty = no }
-			2392 = { empty = no }
-			2394 = { empty = no }
-			2396 = { empty = no }
-			2397 = { empty = no }
-			2398 = { empty = no }
-			2399 = { empty = no }
-			2400 = { empty = no }
-		}
-		
-		allow = {
-			war = no
-			2324 = {
-				owner = {
-					war = no
-					NOT = { truce_with = THIS }
-				}
-			}
-		}
-		
-		effect = {
-			set_global_flag = NAN_INC_border_treaty
-			2324 = {
-				owner = {
-					country_event = 775420
-				}
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	beornia_inca_border_treaty_unequal = {
-		picture = treaty_signing
-		potential = {
-			OR = {
-				tag = NAN
-				tag = HBE
-			}
-			NOT = { has_country_flag = NAN_cone }
-			has_country_flag = conquest_of_the_desert
-			is_greater_power = yes
-			2324 = {
-				owner = {
-					has_country_flag = occupation_of_araucania
-					NOT = { is_greater_power = yes }
-				}
-			}
-			any_owned_province = {
-				OR = {
-					region = NAN_5
-					region = SA_9
-				}
-			}
-			NOT = { has_global_flag = NAN_INC_border_treaty }
-			2329 = { empty = no }
-			2332 = { empty = no }
-			2333 = { empty = no }
-			2334 = { empty = no }
-			2335 = { empty = no }
-			2391 = { empty = no }
-			2392 = { empty = no }
-			2394 = { empty = no }
-			2396 = { empty = no }
-			2397 = { empty = no }
-			2398 = { empty = no }
-			2399 = { empty = no }
-			2400 = { empty = no }
-		}
-		
-		allow = {
-			war = no
-			2324 = {
-				owner = {
-					war = no
-					NOT = { truce_with = THIS }
-				}
-			}
-		}
-		
-		effect = {
-			set_global_flag = NAN_INC_border_treaty
-			SA_6 = { add_core = THIS add_core = NAN }
-			SA_9 = { add_core = THIS add_core = NAN }
-			NAN_5 = { add_core = THIS }
-			2324 = {
-				owner = {
-					country_event = 775421
-				}
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	inca_beornia_border_treaty = {
-		picture = treaty_signing
-		potential = {
-			tag = INC
-			has_country_flag = occupation_of_araucania
-			2348 = {
-				owner = {
-					has_country_flag = occupation_of_araucania
-					NOT = { has_country_flag = NAN_cone }
-					NOT = { is_greater_power = yes }
-				}
-			}
-			any_owned_province = {
-				OR = {
-					region = SA_6
-					region = SA_9
-				}
-			}
-			NOT = { has_global_flag = NAN_INC_border_treaty }
-			2329 = { empty = no }
-			2332 = { empty = no }
-			2333 = { empty = no }
-			2334 = { empty = no }
-			2335 = { empty = no }
-			2391 = { empty = no }
-			2392 = { empty = no }
-			2394 = { empty = no }
-			2396 = { empty = no }
-			2397 = { empty = no }
-			2398 = { empty = no }
-			2399 = { empty = no }
-			2400 = { empty = no }
-		}
-		
-		allow = {
-			war = no
-			2324 = {
-				owner = {
-					war = no
-					NOT = { truce_with = THIS }
-				}
-			}
-		}
-		
-		effect = {
-			set_global_flag = NAN_INC_border_treaty
-			SA_6 = { add_core = THIS }
-			SA_9 = { add_core = THIS }
-			NAN_5 = { add_core = THIS }
-			2348 = {
-				owner = {
-					country_event = 775422
-				}
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	
 	Beornian_Cone = { 
 	

@@ -43,7 +43,6 @@ political_decisions = {
 				tag = NAN
 				NOT = { has_country_flag = claim_old_england }  
 				NOT = { has_country_flag = holy_britannia }
-				ENL = { exists = yes NOT = { rank = 4 } }
 			}
 		
 		allow = { 
@@ -119,8 +118,6 @@ political_decisions = {
 				HBE = { exists = no }
 				NOT = { war = yes }
 				is_greater_power = yes
-       		 government = absolute_monarchy
-		
 			}
 		
 			effect = {

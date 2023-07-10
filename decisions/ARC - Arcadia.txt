@@ -271,7 +271,6 @@ political_decisions = {
 						}
 			}
       }
-			social_thought = 1
 		}
 		effect = {
 	prestige = 10
@@ -340,7 +339,6 @@ political_decisions = {
 						owned_by = THIS
 			}
       }
-			social_thought = 1
 		}
 		effect = {
 	prestige = 10
@@ -408,7 +406,6 @@ political_decisions = {
 						owned_by = THIS
 			}
       }
-			social_thought = 1
 		}
 		effect = {
 			    prestige = 10
@@ -477,7 +474,6 @@ political_decisions = {
 						owned_by = THIS
 			}
       }
-			social_thought = 1
 		}
 		effect = {
 			    prestige = 10

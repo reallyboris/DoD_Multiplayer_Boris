@@ -88,31 +88,8 @@ political_decisions = {
 		}
 	
 		allow = { 
-               state_n_government = 1
-			OR = {
-				LIT = { substate_of = PLC }
-				BLR = { substate_of = PLC }
-				UKR = { substate_of = PLC }
-				PRU = { substate_of = PLC }
-			}
-			OR = {
-				LIT = { substate_of = PLC }
-				BLR = { exists = no }
-			}
-			OR = {
-				BLR = { substate_of = PLC }
-				BLR = { exists = no }
-			}
-			OR = {
-				UKR = { substate_of = PLC }
-				UKR = { exists = no }
-			}
-			OR = {
-				PRU = { substate_of = PLC }
-				PRU = { exists = no }
-			}
+            state_n_government = 1
 			war = no
-			690 = { owned_by = THIS }
 		}
 	
 		effect = {
@@ -161,12 +138,8 @@ political_decisions = {
 			}
 			
 		allow = { 
-		nationalism_n_imperialism = 1 
-		rank = 16 
-		OR = { 
+		nationalism_n_imperialism = 1  
 		all_core = { owned_by = THIS }
-		war_policy = jingoism
-			}
 		}	
 		
 		effect = { 

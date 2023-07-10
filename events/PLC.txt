@@ -62,32 +62,6 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 22233
-	title = "22233.T"
-	desc = "22233.D"
-	picture = "greatpowers"
-	fire_only_once = yes
-
-	trigger = {
-		tag = PLC
-		UKR = { substate_of = THIS }
-		NOT = { has_country_flag = lublin_new }
-		RUS_965 = { owned_by = THIS }
-	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
-	option = {
-		name = "22233.A"
-		prestige = 5
-		RUS_965 = { secede_province = UKR }
-		RUS_965 = { add_core = PLC }
-	}
-}
-
 country_event = { 
 	id = 22234
 	title = "22234.T"

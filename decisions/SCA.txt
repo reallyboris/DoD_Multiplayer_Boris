@@ -23,4 +23,21 @@ political_decisions = {
 		}
 	
 	}
+	
+	
+	integrating_kurland = {
+		potential = {
+			is_sphere_leader_of = KRL
+		}
+	
+		allow = { 
+			state_n_government = 1
+		}
+		
+		effect = {
+			inherit = KRL
+			prestige = 10
+		}
+	
+	}
 }

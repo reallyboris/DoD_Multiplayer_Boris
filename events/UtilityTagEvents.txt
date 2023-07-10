@@ -490,6 +490,39 @@ country_event = {
 			
 			}
 			
+			# cleanup russian minor cores
+			random_country = {
+				limit = {
+					exists = yes
+					tag = RUS
+					MUS = { exists = no }
+					NOV = { exists = no }
+					war = no 
+					
+				}
+				any_owned = { 
+					remove_core = MUS 
+					remove_core = NOV 
+					remove_core = PSV
+				}
+			
+			}
+			# cleanup crimean, askrahan, nogai, tartarstan and siberian cores if russia owns them and is a GP
+			random_country = {
+				limit = {
+					exists = yes
+					tag = RUS 
+					is_greater_power = yes 
+					war = no 
+					TAR = { exists = no }
+					owns = 1034 
+					owns = 979 
+					owns = 980 
+				}
+				country_event = 32418
+			}
+			
+			
 			# winds of westernization for uncivs
 			any_country = {
 				limit = {

@@ -108,8 +108,7 @@ political_decisions = {
 					}			
 					literacy = 0.40
 				}
-			}
-			
+			}		
 			country_event = 1000090
 			country_event = 1000092
 			set_global_flag = money_setup_done

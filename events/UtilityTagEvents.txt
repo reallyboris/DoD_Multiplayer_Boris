@@ -431,6 +431,25 @@ country_event = {
 		
 		option = {
 			name = "apply"
+			
+			# winds of westernization for uncivs
+			any_country = {
+				limit = {
+					civilized = no
+					NOT = {
+						has_country_modifier = western_influences
+						has_country_modifier = uncivilized_isolationism
+					}
+					OR = {
+						any_owned_province = { port = yes }
+						any_neighbor_country = { part_of_sphere = yes }
+						any_neighbor_country = { is_greater_power = yes }
+					}
+				}
+				country_event = 13000
+			}
+			
+			
 		
 			# gives dividends for owning canals each year
 			random_country = {

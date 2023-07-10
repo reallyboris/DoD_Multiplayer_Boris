@@ -165,11 +165,14 @@ political_decisions = {
 	picture = "SERCRO_union"
 	potential = { 
 	tag = CRO 
-	SER = { vassal_of = THIS } 
+	OR = {
+	owns = 796
+	owns = 798
+	
+	}
 	}
 	
 	allow = { 
-	rank = 20 
 	OR = { 
 	year = 1850 
 	780 = { owned_by = THIS }

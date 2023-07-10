@@ -433,6 +433,44 @@ country_event = {
 				country_event = 60141
 			
 			}
+			# tech flags
+			any_country = {
+				limit = {
+					medicine = 1
+					NOT = { has_country_flag = medicine_invented }
+				}
+				set_country_flag = medicine_invented
+			}
+			any_country = {
+				limit = {
+					invention = germ_theory
+					NOT = { has_country_flag = germs_invented }
+				}
+				set_country_flag = germs_invented
+			}
+			any_country = {
+				limit = {
+					invention = gaslights
+					NOT = { has_country_flag = gaslights_invented }
+				}
+				set_country_flag = gaslights_invented
+			}
+			any_country = {
+				limit = {
+					electricity = 1
+					NOT = { has_country_flag = electricity_invented }
+				}
+				set_country_flag = electricity_invented
+			}
+			any_country = {
+				limit = {
+					modern_central_bank_system = 1
+					NOT = { has_country_flag = modern_central_bank_system_invented }
+				}
+				set_country_flag = modern_central_bank_system_invented
+			}
+			
+			
 			# turns sefs into labourers/farmers is serfdom is not allowed
 			any_country = {
 				limit = {

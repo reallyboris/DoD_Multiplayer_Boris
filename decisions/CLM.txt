@@ -34,30 +34,6 @@ political_decisions = {
 		}
 	}
 	
-	create_gendarmeria = { 
-	
-		picture = "Federales"
-		
-		potential = { 
-		tag = CLM 
-		NOT = { has_country_flag = gendarmerie_CLM }
-		}
-		
-		allow = { 
-		state_n_government = 1 
-		NOT = { num_of_revolts = 1 }
-		OR = {
-			average_militancy = 3
-			average_consciousness = 4
-			}
-		}
-		
-		effect = {  
-		add_country_modifier = { name = federales_CLM duration = -1 }
-		set_country_flag = gendarmerie_CLM
-		}
-	}
-	
 	sponsor_transcontinental = { 
 		
 		potential = { 
@@ -93,61 +69,6 @@ political_decisions = {
 	
 	}
 	
-	Cuba_CLM = { 
-		potential = { 
-			tag = CUB 
-			ai = yes 
-		}
-		
-		allow = { 
-			CLM = { exists = yes }
-			war = no
-		}
-		
-		effect = { 
-			CLM = { country_event = 46514 }
-		}
-		
-		ai_will_do =  {
-		factor = 1
-			modifier = { 
-				factor = 0 
-				AND = { 
-				governement = democracy 
-				NOT = { CLM = { governement = democracy } }
-				}
-			}
-			modifier = {
-				factor = 0 
-				AND = { 
-				OR = {
-					governement = presidential_dictatorship 
-					government = absolute_monarchy
-					government = prussian_constitutionalism
-					government = hms_government
-					}
-				OR = { 
-					CLM = { governement = democracy } 
-					CLM = { governement = proletarian_dictatorship }
-						} 
-					}
-				}
-			modifier = { 
-				factor = 0 
-				AND = { 
-				governement = proletarian_dictatorship 
-				NOT = { CLM = { governement = proletarian_dictatorship } }
-					}
-				}
-			modifier = { 
-				factor = 0 
-				AND = { 
-				governement = fascist_dictatorship 
-				NOT = { CLM = { governement = fascist_dictatorship } }
-				}
-			}
-		}
-	}
 	Congress_CLM = { 
 		potential = { 
 			tag = CLM

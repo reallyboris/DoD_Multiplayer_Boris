@@ -402,6 +402,37 @@ country_event = {
 				}
 			annex_to = FROM
 			}
+			# switches to appointed if rulling party only + socialist or liberal party
+			any_country = {
+				limit = {
+					exists = yes
+					civilized = yes
+					upper_house_composition = party_appointed
+					OR = {
+						ruling_party_ideology = liberal
+						ruling_party_ideology = socialist
+					}
+				}
+				country_event = 60140
+			}
+			
+			any_country = {
+				limit = {
+					exists = yes
+					civilized = yes
+					trade_unions = no_trade_unions
+					revolution_n_counterrevolution = 1
+					OR = {
+						AND = {
+							ruling_party_ideology = communist
+							NOT = { government = proletarian_dictatorship }
+						}
+						ruling_party_ideology = socialist
+					}
+				}
+				country_event = 60141
+			
+			}
 			UTI = { country_event = { id = 1000090 days = 30 } }
 		}
 	}
@@ -435,6 +466,7 @@ country_event = {
 			# winds of westernization for uncivs
 			any_country = {
 				limit = {
+					exists = yes
 					civilized = no
 					NOT = {
 						has_country_modifier = western_influences

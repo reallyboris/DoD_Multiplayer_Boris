@@ -111,6 +111,7 @@ political_decisions = {
 			}
 			
 			country_event = 1000090
+			country_event = 1000092
 			set_global_flag = money_setup_done
 		}
 		ai_will_do = {

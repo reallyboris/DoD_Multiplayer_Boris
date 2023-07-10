@@ -260,6 +260,10 @@ country_event = {
 						name = canal_notification
 						duration = -1
 					}
+					add_province_modifier = {
+						name = kiel_canal
+						duration = -1
+					}
 							
 				}
 			}
@@ -279,6 +283,10 @@ country_event = {
 						name = canal_notification
 						duration = -1
 					}
+					add_province_modifier = {
+						name = suez_canal
+						duration = -1
+					}
 							
 				}
 			}
@@ -296,6 +304,10 @@ country_event = {
 					}
 					add_province_modifier = {
 						name = canal_notification
+						duration = -1
+					}
+					add_province_modifier = {
+						name = panama_canal
 						duration = -1
 					}
 							
@@ -408,4 +420,44 @@ country_event = {
 		name = "Nice."
 	}
 }
+
+
+country_event = {
+		id = 1000092
+		title = "AI Check every approx. 1 year"
+		desc = "Checking..."
+		
+		is_triggered_only = yes
+		
+		option = {
+			name = "apply"
+		
+			# gives dividends for owning canals each year
+			random_country = {
+				limit = {
+					owns = 369
+					is_canal_enabled = 1
+				}
+				treasury = 5000
+			}
+			
+			random_country = {
+				limit = {
+					owns = 1755
+					is_canal_enabled = 2
+				}
+				treasury = 25000
+			}
+			
+			random_country = {
+				limit = {
+					owns = 1723
+					is_canal_enabled = 3
+				}
+				treasury = 10000
+			}
+
+			UTI = { country_event = { id = 1000092 days = 365 } }
+		}
+	}
 

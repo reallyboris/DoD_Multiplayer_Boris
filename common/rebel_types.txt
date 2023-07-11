@@ -1564,13 +1564,6 @@ pan_nationalist_rebels = {
 		}
 		modifier = {
 			factor = 0
-			country = {
-				tag = KUK
-				NOT = { has_country_flag = austrian_greater_germany }
-			}
-		}
-		modifier = {
-			factor = 0
 			country = { tag = DNB }
 		}
 		modifier = {
@@ -3063,7 +3056,6 @@ liberal_rebels = {
 				is_culture_group = germanic
 				NOT = { tag = GER }
 				NOT = { tag = AUS }
-				NOT = { tag = KUK }
 				NOT = { has_country_flag = wants_to_unify }
 			}
 		}
@@ -3961,7 +3953,6 @@ socialist_rebels = {
 				is_culture_group = germanic
 				NOT = { tag = GER }
 				NOT = { tag = AUS }
-				NOT = { tag = KUK }
 				NOT = { has_country_flag = wants_to_unify }
 			}
 		}

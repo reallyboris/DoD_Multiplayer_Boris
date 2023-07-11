@@ -668,7 +668,6 @@ URU		="countries/Uruguay.txt"
 VNZ		="countries/Venezuela.txt"
 
 # Australasia
-AST		="countries/Australia.txt"
 NZL		="countries/New Zealand.txt"
 
 # Common Great Powers
@@ -678,10 +677,8 @@ FRA		= "countries/France.txt"
 PRU		= "countries/Prussia.txt"
 GER		= "countries/Germany.txt"
 AUS		= "countries/Austria.txt"
-USA		= "countries/USA.txt"
 JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
-KUK		= "countries/Austria-Hungary.txt"
 DUA		= "countries/Dual Monarchy.txt"
 
 

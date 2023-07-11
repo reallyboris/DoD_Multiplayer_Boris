@@ -471,16 +471,6 @@ positivism = {
 			factor = 3
 			tech_school = culture_tech_school
 		}
-		modifier = {
-			factor = 3
-			OR = {
-				tag = PRU
-				tag = NGF
-				tag = GER
-				tag = ENG
-				tag = USA
-			}
-		}
 	}
 
 }
@@ -521,16 +511,6 @@ functionalism = {
 		modifier = {
 			factor = 3
 			tech_school = culture_tech_school
-		}
-		modifier = {
-			factor = 3
-			OR = {
-				tag = PRU
-				tag = NGF
-				tag = GER
-				tag = ENG
-				tag = USA
-			}
 		}
 	}
 
@@ -573,16 +553,6 @@ biologism = {
 		modifier = {
 			factor = 5
 			tech_school = culture_tech_school
-		}
-		modifier = {
-			factor = 5
-			OR = {
-				tag = PRU
-				tag = NGF
-				tag = GER
-				tag = ENG
-				tag = USA
-			}
 		}
 	}
 
@@ -782,15 +752,6 @@ state_n_government = {
 			year = 1850
 			any_owned_province = { port = yes }
 			total_pops = 3000000
-		}
-		modifier = {
-			factor = 51
-			OR = {
-				year = 1860
-				tag = SAR
-				tag = PRU
-				tag = USA
-			}
 		}
 		modifier = {
 			factor = 3

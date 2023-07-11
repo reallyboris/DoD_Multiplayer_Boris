@@ -264,13 +264,6 @@ QUE = {
     color3= { 17 16 203  }
 }
 
-# USA
-USA = {
-    color1= { 69 157 208  }
-    color2= { 124 140 162  }
-    color3= { 137 183 124  }
-}
-
 # Lithuania
 LIT = {
     color1= { 154 69 116  }

@@ -840,18 +840,6 @@ bessemer_process = {
 	ai_chance = {
 		factor = 2
 		modifier = {
-			factor = 40
-			OR = {
-				tag = FRA
-				tag = ENG
-				tag = USA
-				tag = NGF
-				tag = GER
-				tag = PRU
-				tag = RUS
-			}
-		}
-		modifier = {
 			factor = 5
 			big_producer = coal
 		}

@@ -616,22 +616,6 @@ country_event = {
 		OR = {
 			NOT = { tag = NEN }
 			has_country_flag = usstatehood_we_have_applied
-			USA = { ai = yes }
-		}
-		NOT = {
-			tag = KUK
-			tag = AUS
-			tag = DNB
-			tag = CSA
-			tag = DES
-			tag = FSA
-			tag = UIL
-			tag = UNB
-			tag = UBD
-			tag = INO
-			tag = IRE
-			tag = ARA 
-			tag = CAT
 		}
 		NOT = { has_country_flag = post_colonial_country }
 	}

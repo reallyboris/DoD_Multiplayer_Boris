@@ -111,98 +111,18 @@ islamic_law_triggered = {
 	icon = 5
 }
 
-the_british_raj = {
-	trigger = {
-		exists = yes
-		OR = {
-			government = absolute_monarchy
-			government = prussian_constitutionalism
-			government = hms_government
-		}
-		NOT = { is_culture_group = indo_iranian }
-		NOT = { is_culture_group = south_asian }
-		1227 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-		1236 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-		1251 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-		1297 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-	}
-	research_points = 0.5
-	core_pop_militancy_modifier = -0.05
-	prestige = 0.03
-	icon = 19
-}
-
-dutch_east_india = {
-	trigger = {
-		exists = yes
-		capital_scope = { continent = europe }
-		1413 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-		1418 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-	}
-	prestige = 0.01
-	icon = 19
-}
-
 vassal_nation = {
 	trigger = {
 		exists = yes
-		is_vassal = yes
-		is_substate = no
-	}
-	icon = 10
-	prestige = -0.1
-}
-
-substate_nation = {
-	trigger = {
-		exists = yes
-		is_substate = yes
-		civilized = yes
-	}
-	
-	prestige = -0.25
-	max_loan_modifier = -1.0
-	min_tax = 0.4
-	max_military_spending = -0.25
-	min_tariff = 1.2
-	tax_efficiency = 0.5
-	
-	icon = 10
-}
-
-chinese_substate = {
-	trigger = {
 		OR = {
-			substate_of = QNG
-			vassal_of = QNG
+			is_vassal = yes
+			is_substate = no
 		}
-		civilized = no
-		exists = yes
-		QNG = {	government = absolute_monarchy }
-		is_culture_group = chinese
 	}
 	icon = 10
-	research_points_modifier = -0.2
-	global_pop_consciousness_modifier = 0.02
+	prestige = -10
 }
+
 
 own_kiel_canal = {
 	trigger = {
@@ -223,7 +143,7 @@ own_suez_canal = {
 		is_canal_enabled = 2
 	}
 	icon = 9
-	tariff_efficiency_modifier = 0.1
+	tariff_efficiency_modifier = 0.2
 	import_cost = -0.2
 	prestige = 0.01
 }
@@ -236,59 +156,9 @@ own_panama_canal = {
 		is_canal_enabled = 3
 	}
 	icon = 9
-	tariff_efficiency_modifier = 0.2
-	import_cost = -0.25
-	prestige = 0.02
-}
-
-small_but_efficient = {
-	trigger = {
-		exists = yes
-		capital_scope = { continent = europe }
-		civilized = yes
-		NOT = { number_of_states = 4 }
-		NOT = { num_of_cities = 8 }
-		NOT = { total_pops = 500000 }
-		NOT = { money = 1000000 }
-		NOT = { year = 1886 }
-		OR = {
-			NOT = { 
-				is_culture_group = south_slavic
-				is_culture_group = pan_romanian
-				is_culture_group = levantine
-			}
-			NOT = { num_of_cities = 4 }
-		}
-	}
-	
-	icon = 9
-	tax_efficiency = 0.4
-	administrative_efficiency_modifier = 0.3
-	tariff_efficiency_modifier = 0.3
-	supply_consumption = -0.9
-}
-
-sound_dues = {
-	trigger = {
-		capital_scope = { continent = europe }
-		exists = yes
-		civilized = yes
-		total_num_of_ports = 1
-		NOT = { has_global_flag = sound_dues_abolished }
-		NOT = { owns = 372 }
-		OR = {
-			is_culture_group = scandinavian
-			is_culture_group = british
-			is_culture_group = french
-			is_culture_group = beneluxian
-			primary_culture = north_german
-			primary_culture = russian
-		}
-	}
-	
-	icon = 9
-	tariff_efficiency_modifier = -0.05
-	import_cost = 0.05
+	tariff_efficiency_modifier = 0.1
+	import_cost = -0.1
+	prestige = 0.005
 }
 
 landlocked_nation = {
@@ -316,30 +186,8 @@ social_reformed_nation = {
 			penal_system = rehabilitation
 		}
 		
-	social_reform_desire = -0.3
+	social_reform_desire = -1
 	icon = 13
-}
-
-educational_spen = {
-		trigger = {
-			ai = yes
-			exists = yes
-			administration_spending = 0.74
-		}
-
-	education_efficiency_modifier = 0.3
-	icon = 16
-}
-
-admin_spen = {
-		trigger = {
-			ai = yes
-			exists = yes
-			administration_spending = 0.74
-		}
-
-	administrative_efficiency_modifier = 0.3
-	icon = 16
 }
 
 hormuz_strait = {
@@ -373,26 +221,4 @@ DVG_badboy_2 = {
 	badboy = -0.20 
 	icon = 1
 
-}
-
-powerful_HRE = { 
-	trigger = { 
-		OR = { 
-		primary_culture = south_german
-		primary_culture = rheinish 
-		primary_culture = north_german 
-			}
-		in_sphere = BOH 
-		NOT = { year = 1849 }
-	}
-	prestige = -0.50 
-}
-
-host_nation = {
-	trigger = {
-		has_country_flag = host_nation
-		ai = no
-	}
-	diplomatic_points_modifier = 50
-	icon = 1
 }

@@ -153,7 +153,6 @@ political_decisions = {
 			NOT = { exists = KUR }
 			NOT = { exists = SYR }
 			NOT = { exists = JOR }
-			NOT = { average_militancy = 4 }
 			ruling_party_ideology = reactionary 
 			NOT = { war = yes }
 		}
@@ -210,7 +209,6 @@ political_decisions = {
 			owns = 926
 			owns = 1151
 			owns = 1153
-			NOT = { average_militancy = 2 }
 			ruling_party_ideology = reactionary 
 			NOT = { war = yes }
 		}
@@ -351,92 +349,6 @@ political_decisions = {
 				add_core = TUR
 			}
 		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	egypt_levant = { 
-	potential = {
-		NOT = { has_country_flag = levant_claim }
-		tag = EGY 
-		civilized = yes
-		}
-		
-	allow = { 
-	owns = 917 
-	}	
-	
-	effect = { 
-	set_country_flag = levant_claim
-	SYR = { all_core = { add_core = EGY } }
-	badboy = 10 
-	add_accepted_culture = mashriqi
-		}
-	}
-	
-	cyrenaica_TUN = { 
-	potential = {
-	tag = TUN 
-	1735 = { owned_by = THIS }
-	NOT = { has_country_flag = cyr_claim }
-	}
-	
-	allow = { 
-	war = no 
-	}
-	
-	effect = { 
-	EGY_1754 = { add_core = TUN  remove_core = EGY }
-	set_country_flag = cyr_claim
-	}
-	
-	}
-
-	move_capital_to_ankara = {
-		potential = {
-			tag = TUR
-			NOT = { capital = 876 }
-			owns = 876
-		}
-
-		allow = {
-			OR = {
-				NOT = { owns = 817 }
-				NOT = { owns = 816 }
-				NOT = { owns = 830 }
-				has_country_flag = ottomans_to_turks
-			}
-		}
-
-		effect = {
-			capital = 876
-		any_country = { 
-		any_owned = { 
-				limit = {
-				OR = {
-					is_core = SER
-					is_core = BUL 
-					is_core = GRE
-					is_core = ROM 
-					}
-				}
-				remove_core = TUR
-				}
-			}
-		any_owned = { 
-				limit = {
-				OR = {
-					is_core = SER
-					is_core = BUL 
-					is_core = GRE
-					is_core = ROM 
-					}
-				}
-				remove_core = TUR
-			}
-		}
-
 		ai_will_do = {
 			factor = 1
 		}

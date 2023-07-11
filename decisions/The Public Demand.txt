@@ -8,6 +8,7 @@ political_decisions = {
 				government = absolute_monarchy
 				government = feudal_monarchy
 			}
+			civilized = yes
 			upper_house_composition = party_appointed
 		}
 

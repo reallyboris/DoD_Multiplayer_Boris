@@ -60,7 +60,7 @@ political_decisions = {
         add_accepted_culture = astrakhani 
         add_accepted_culture = tatar
         change_tag = TAR 
-        years_of_research = 3.0
+        # years_of_research = 3.0
         prestige = 20 
         }
         ai_will_do = {

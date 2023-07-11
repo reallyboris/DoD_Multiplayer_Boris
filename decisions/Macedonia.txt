@@ -56,7 +56,6 @@ political_decisions = {
 					TUR = { is_greater_power = yes }
 					}
 				NOT = { war = yes }
-				is_greater_power = yes
 				all_core = {
 						owned_by = THIS
 					}
@@ -121,48 +120,5 @@ political_decisions = {
 			ai_will_do = {
 				factor = 1
 			}
-	}
-	
-	challenge_greece = {
-		picture = restore_macedonia
-		
-		potential = { 
-		tag = MAC
-		NOT = { has_country_flag = macedon_greece }
-		NOT = { has_country_flag = macedon_serb }		
-		NOT = { has_country_flag = challenge_greece }
-		GRE = { exists = yes 
-			}
-		}
-		
-		allow = { 
-		all_core = { owned_by = THIS }
-		NOT = { war = yes }
-		}
-		
-		effect = { 
-		set_country_flag = challenge_greece 
-		
-		 war = {
-				target = GRE
-				attacker_goal = {
-					casus_belli = conquest
-				}
-			}
-		GRE = { country_event = 106054 }
-		badboy = -12
-		}
-		
-		ai_will_do = {
-		factor = 1
-		modifier = {
-				factor = 0
-				average_militancy = 4
-			}   
-		modifier = {
-				factor = 0
-				NOT = { badboy = 0.6 } 
-			} 
-		}
 	}
 }

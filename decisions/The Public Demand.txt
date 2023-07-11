@@ -5,6 +5,8 @@ political_decisions = {
 			OR = {
 				government = presidential_dictatorship
 				government = bourgeois_dictatorship
+				government = absolute_monarchy
+				government = feudal_monarchy
 			}
 			upper_house_composition = party_appointed
 		}

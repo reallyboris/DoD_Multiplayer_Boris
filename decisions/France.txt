@@ -120,7 +120,6 @@ political_decisions = {
 	picture = Occitania
 		potential = { 
 			tag = FRA 
-			NOT = { accepted_culture = provencal }
 			NOT = { OCC = { exists = yes } }
 			NOT = { has_country_flag = occitania_reclaime }
 		}
@@ -137,91 +136,7 @@ political_decisions = {
 	
 	}
 	
-	savoy_cores_OCC = {
-	potential = { 
-		OR = {
-			tag = OCC
-				AND = { 
-					tag = FRA 
-					has_country_flag = occitania_reclaime
-				}
-		}
-		NOT = { has_global_flag = savoy_cores }
-	}
-	
-	allow = { 
-		owns = 466 
-	}
-	
-		effect = { 
-			SAR_466 = { remove_core = ITA }
-			set_global_flag = savoy_cores
-		}
-	
-	}
-	
-	savoy_cores_ITA = { 
-		potential = { 
-			tag = ITA
-			NOT = { has_global_flag = savoy_cores }
-		}
-	
-		allow = { 
-			owns = 466 
-		}
-	
-		effect = { 
-			SAR_466 = { remove_core = OCC remove_core = FRA }
-			set_global_flag = savoy_cores
-		}
-	
-	}
-	
-	integrating_provencal = {
-		potential = {
-			tag = DUA 
-				NOT = { has_country_flag = Paris_congress }
-				NOT = { accepted_culture = provencal }
-				NOT = { has_country_flag = DUA_schooling }
-			OR = { 
-				has_country_flag = Anglois_accepted 
-				has_global_flag = french_int 
-			}
-		}
-	
-		allow = { 
-			OCC = { all_core = { owned_by = THIS }	}
-			nationalism_n_imperialism = 1 
-		}
-	
-		effect = {
-			add_accepted_culture = provencal 
-		}
-	
-	}
-	
-	integrating_irish = {
-		potential = {
-			tag = DUA 
-			NOT = { has_country_flag = Paris_congress }		
-			NOT = { accepted_culture = irish }
-			NOT = { has_country_flag = DUA_schooling }
-			OR = { 
-				has_country_flag = Anglois_accepted 
-				has_global_flag = english_int 
-			}
-		}
-	
-		allow = { 
-			IRE = { all_core = { owned_by = THIS } }
-			nationalism_n_imperialism = 1 
-		}
-		
-		effect = {
-			add_accepted_culture = irish 
-		}
-	
-	}
+
 	
 	integrate_scotland = {
 		potential = {
@@ -245,60 +160,6 @@ political_decisions = {
 	
 	}
 	
-	integrating_scottish = {
-		potential = {
-			tag = DUA 
-			NOT = { has_country_flag = Paris_congress }
-			NOT = { accepted_culture = scottish }
-			NOT = { has_country_flag = DUA_schooling }
-			has_country_flag = scotland_acc
-		}
-	
-		allow = { 
-			SCO = { all_core = { owned_by = THIS } }
-			nationalism_n_imperialism = 1 
-		}
-	
-		effect = { 
-			add_accepted_culture = scottish 
-		}
-	
-	}
-	
-	integrating_basque = { 
-		potential = {
-			tag = DUA 
-			NOT = { has_country_flag = Paris_congress }
-			NOT = { accepted_culture = basque }
-			NOT = { has_country_flag = DUA_schooling }
-			OR = { 
-				has_country_flag = Anglois_accepted 
-				has_global_flag = french_int 
-			}
-		}
-	
-		allow = {
-				NAV = {
-					all_core = {
-						owner = {
-							OR = {
-								tag = THIS
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			nationalism_n_imperialism = 1 
-		}
-	
-		effect = { 
-			set_country_flag = basque_acc
-			ESK_1 = {
-				add_core = DUA
-			}
-			add_accepted_culture = basque 
-		}
-	}
 	
 	anglois_language_schooling = {
 	

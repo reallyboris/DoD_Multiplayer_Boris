@@ -27,6 +27,12 @@ political_decisions = {
 	
 	integrating_kurland = {
 		potential = {
+			OR = {
+				tag = SCA
+				tag = PLC
+				tag = MUS
+				tag = RUS
+			}
 			is_sphere_leader_of = KRL
 		}
 	

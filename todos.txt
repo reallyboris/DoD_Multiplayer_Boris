@@ -24,6 +24,8 @@ fix "stop hiring colonial clergy" dosent work atm
 
 sulfur in provence
 
+wierd conditions with demand consession (persian?)
+
 alstadt defines
 
 faster railraods/forts/ports

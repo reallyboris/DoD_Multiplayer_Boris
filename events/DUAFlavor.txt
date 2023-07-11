@@ -62,8 +62,13 @@ country_event = {
 		remove_country_modifier = anglois_dilemma
 		prestige = 100
 		add_accepted_culture = french
+		add_accepted_culture = provencal
+		add_accepted_culture = basque 
+		add_accepted_culture = welsh
 		add_accepted_culture = breton
 		add_accepted_culture = english 
+		add_accepted_culture = irish
+		add_accepted_culture = scottish
 		any_pop = { 
 		militancy = -3 
 		}

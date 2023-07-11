@@ -162,70 +162,6 @@ political_decisions = {
 	
 	}
 	
-	treaty_of_paris = {
-		picture = treaty_signing
-		potential = {
-			OR = {
-				AND = {
-					tag = PRV
-					has_country_flag = valois_rulez
-				}
-				AND = {
-					tag = ITA 
-					has_country_flag = renew_war
-				}
-			}
-			425 = {
-				owned_by = DUA 
-			}
-			war_with = DUA 
-		}
-		
-		allow = {
-			war = yes
-			425 = { controlled_by = THIS 
-			province_control_days = 720 }
-			
-		OR = {	
-			ITA = {
-				all_core = {
-					OR = {
-						province_id = 419
-						controlled_by = THIS
-						controller = { alliance_with = THIS }
-						owner = {
-							NOT = { war_with = THIS }
-							}
-						}
-					}
-				}
-			AND = { 
-				has_country_flag = valois_rulez
-				PRV = {
-				all_core = {
-					OR = {
-						province_id = 419
-						controlled_by = THIS
-						controller = { alliance_with = THIS }
-						owner = {
-							NOT = { war_with = THIS }
-								}
-							}
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			DUA = { country_event = 110619 }	
-			}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
 	challenge_usurpers = {
 	picture = hundred_years_war
 		potential = {
@@ -302,25 +238,6 @@ political_decisions = {
 		}
 	}
 	
-	reclaim_paris_DUA = {
-		potential = {
-			tag = DUA
-			FRA = { has_country_flag = PRV_paris }
-		}
-		allow = {
-			owns = 425
-		}
-		effect = {
-			capital = 425
-			prestige = 10
-			FRA = {
-				capital = 470
-				prestige = -25
-				clr_country_flag = PRV_paris
-			}
-		}
-	}
-	
 	integrate_bretons = { 
 	potential = { 
 	OR = { tag = FRT 
@@ -341,32 +258,4 @@ political_decisions = {
 	
 	}
 	
-	lucca_war = { 
-	potential = { 
-	tag = PRV 
-	LUC = { exists = yes }
-	NOT = { war = yes }
-	NOT = { has_country_flag = lucca_submission }
-	owns = 744	
-	}
-		
-	allow = { 
-		LUC = {
-		NOT = { vassal_of = THIS }
-			}
-		}
-		
-	effect = {
-		LUC = { country_event = 110603 }
-		set_country_flag = lucca_submission
-	}
-	
-	ai_will_do = { 
-	factor = 1 
-	modifier = { 
-		factor = 0 
-		NOT = { year = 1848 }
-			}
-		}
-	}
 }

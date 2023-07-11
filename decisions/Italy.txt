@@ -305,78 +305,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-
-	etrurian_manifesto = {
-	picture = council_Etruria
-		potential = {
-			tag = TUS
-			has_global_flag = death_of_venice
-			NOT = { has_country_flag = etruria_of_italy }
-			ARI = {
-				exists = no
-			}
-			NOT = { SAR = { war = yes } }
-			NOT = { LOM = { war = yes } }
-			NOT = { VEN = { war = yes } }
-			NOT = { PAP = { war = yes } }
-		}
-		
-		allow = {
-			NOT = { war = yes }
-			government = democracy
-			rank = 30
-			ITA = {
-				exists = no
-			}
-			ARA = {
-				is_greater_power = no
-			}	
-		}
-		
-		effect = {
-			prestige = 10
-			badboy = -5
-				
-			relation = {
-				who = DUA
-				value = -100
-			}
-		
-			relation = {
-				who = AUS
-				value = -100
-			}
-		
-			relation = {
-				who = ARA
-				value = -100
-			}
-		
-			relation = {
-				who = BOH
-				value = -100
-			}
-				
-			any_country = {
-				limit = {
-					primary_culture = north_italian
-					exists = yes
-					NOT = {
-						tag = THIS
-					}
-					NOT = { rank = 20 }
-					ai = yes
-				}
-				country_event = 598008
-			}
-				
-			set_country_flag = etruria_of_italy
-		}
-			
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	
 	build_the_ponte_liberta = { 
 	
@@ -436,26 +364,7 @@ political_decisions = {
 		}
 	}
 	
-	extand_the_arsenal = { 
-		
-		picture = arsenale 	
-			
-		potential = { 
-		tag = VEN 
-		NOT = { has_country_flag = steamer_arsenal }
-		}
-		
-		allow = { 
-		invention = steamer_shipyard_construction
-		}
-		
-		effect = { 
-		prestige = 5 
-		build_factory_in_capital_state = steamer_shipyard
-		set_country_flag = steamer_arsenal 
-		}
-	}
-	
+
 	integrate_athesians = { 
 	
 		picture = athesia
@@ -511,14 +420,12 @@ political_decisions = {
 		allow = { 
 		state_n_government = 1
 		functionalism = 1
-		NOT = { GRE = { exists = yes } }
 		}
 		
 		effect = { 
 		prestige = -10 
 	add_accepted_culture = greek
-	government = democracy 
-	ruling_party_ideology = liberal
+	government = merchant_republic 
 	political_reform = universal_voting
 	political_reform = population_equal_weight
 	political_reform = yes_meeting

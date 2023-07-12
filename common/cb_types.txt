@@ -5820,7 +5820,7 @@ negotiated_transfer = {
 		ai = no
 		THIS = { ai = no } 
 		THIS = { civilized = yes }
-		NOT { has_global_flag = infamy_transfers }
+		NOT = { has_global_flag = infamy_transfers }
 	}
 	
 	allowed_states = {

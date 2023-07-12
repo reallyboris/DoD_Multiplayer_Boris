@@ -1432,10 +1432,6 @@ country_event = {
 			factor = 0.7
 			has_country_flag = famous_archaeologist
 		}
-		modifier = {
-			factor = 0.6
-			invention = modern_archaeology
-		}
 	}
 
 	option = {
@@ -1460,10 +1456,6 @@ country_event = {
 
 	mean_time_to_happen = {
 		months = 1000
-		modifier = {
-			factor = 0.9
-			invention = modern_archaeology
-		}
 		modifier = {
 			factor = 0.9
 			has_country_modifier = mesopotamian_excavations

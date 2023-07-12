@@ -267,13 +267,18 @@ political_decisions = {
 	}
 	allow = { 
 	KKN = {
-					owner = {
-						OR = {
-							tag = THIS
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
 							in_sphere = THIS
 							vassal_of = THIS
+							}
 						}
+						empty = yes
 					}
+				}
 			}
 	war = no 
 	}

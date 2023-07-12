@@ -113,9 +113,11 @@ political_decisions = {
 
 			any_country = {	
 				limit = {
-					tag = MAC
-					tag = ALB
-					tag = EGY
+					OR = {
+						tag = MAC
+						tag = ALB
+						tag = EGY
+					}
 				}
 				any_pop = {
 					militancy = -3

@@ -188,7 +188,6 @@ political_decisions = {
 			set_country_flag = greater_nusantara_acquired
 			add_accepted_culture = malagasy
 			add_accepted_culture = polynesian
-			add_accepted_culture = hawaiian
 			add_accepted_culture = maori
 		}
 		ai_will_do = {

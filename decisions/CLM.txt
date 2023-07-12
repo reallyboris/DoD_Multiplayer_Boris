@@ -56,7 +56,6 @@ political_decisions = {
 		}
 		
 		effect = { 
-		prestige = 5 
 		set_global_flag = transcontinental_railroad 
 		137 = { infrastructure = 1 life_rating = 7 }
 		136 = { infrastructure = 1 life_rating = 2 }

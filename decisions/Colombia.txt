@@ -18,13 +18,9 @@ political_decisions = {
 		effect = { 
 		set_country_flag = university_MEX 
 		any_pop = { 
-		literacy = 0.1
-			}
-		any_pop = { 
 		limit = { culture = mexican }
-		literacy = 0.05
+		literacy = 0.13
 			}
-		social_reform = public 
 		scaled_militancy = {
 			issue = moralism
 			factor = 3

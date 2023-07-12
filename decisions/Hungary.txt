@@ -55,12 +55,6 @@ political_decisions = {
 			set_country_flag = croatian_compromise
 			prestige = -10
 			add_accepted_culture = croat
-			random_owned = {
-				limit = {
-					owner = { minorities_reform = primary_culture_only }
-				}
-				owner = { political_reform = culture_voting_only }
-			}
 			any_pop = {
 				limit = {
 					has_pop_culture = croat

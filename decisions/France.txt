@@ -7,6 +7,11 @@ political_decisions = {
 			ai = no
 		}
 		
+		allow = {
+		
+		
+		}
+		
 		effect = {
 			set_country_flag = DUA_set_focus
 			set_global_flag = english_int
@@ -50,6 +55,9 @@ political_decisions = {
 			NOT = { has_country_flag = DUA_set_focus }
 			tag = DUA
 			ai = no
+		}
+		allow = {
+		
 		}
 		
 		effect = {
@@ -168,7 +176,6 @@ political_decisions = {
 			OR = { has_global_flag = english_int has_global_flag = french_int has_country_flag = Anglois_accepted }
 			NOT = {
 				has_country_flag = enacted_anglois_schooling
-				education = elite
 			}
 		}
 		
@@ -180,12 +187,6 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = enacted_anglois_schooling
-			random_owned = {
-					limit = {
-						owner = { education = church }
-					}
-					owner = { social_reform = public }
-				}
 			country_event = 650330
 		}
 	}

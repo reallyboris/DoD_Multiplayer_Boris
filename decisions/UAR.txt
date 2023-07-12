@@ -17,8 +17,12 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						in_sphere = THIS
-						vassal_of = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 						empty = yes
 					}
 				}
@@ -27,9 +31,13 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 						empty = yes
-						in_sphere = THIS
-						vassal_of = THIS
 					}
 				}
 			}
@@ -37,43 +45,59 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
 						empty = yes
-						in_sphere = THIS
-						vassal_of = THIS
 					}
 				}
 			}
 			OR = {
 				EGY = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							empty = yes
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
 							in_sphere = THIS
 							vassal_of = THIS
+							}
 						}
+						empty = yes
 					}
 				}
+			}
 				IRQ = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							empty = yes
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
 							in_sphere = THIS
 							vassal_of = THIS
+							}
 						}
+						empty = yes
 					}
 				}
+			}
 				NEJ = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							empty = yes
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
 							in_sphere = THIS
 							vassal_of = THIS
+							}
 						}
+						empty = yes
 					}
 				}
+			}
 			}
 		}
 		
@@ -174,10 +198,10 @@ political_decisions = {
 				country_event = 333458
 			  
 		}
-		ai_will_do = {
+	}
+	ai_will_do = {
 			factor = 1
 		}
-	}
  }	
 
 	claim_ethiopia = {

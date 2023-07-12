@@ -118,7 +118,7 @@ political_decisions = {
                     }
                 }
             }
-            KAL = {  
+            BLC = {  
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -168,7 +168,7 @@ political_decisions = {
 					OR = {  in_sphere = THIS vassal_of = THIS }
               }
               AND = {
-                  tag = KAL
+                  tag = BLC
 					OR = {  in_sphere = THIS vassal_of = THIS }
               }
               AND = {
@@ -208,7 +208,7 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
-			KAL = {
+			BLC = {
 				all_core = {
 					add_core = THIS
 				}

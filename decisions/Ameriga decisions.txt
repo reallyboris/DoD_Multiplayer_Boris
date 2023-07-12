@@ -262,7 +262,7 @@ political_decisions = {
 	Ameriga_LOT = { 
 		potential = { 
 		tag = LOT 
-		have_country_flag = LOT_AMG
+		has_country_flag = LOT_AMG
 		nationalism_n_imperialism = 1
 		}
 		
@@ -503,7 +503,7 @@ political_decisions = {
 		}
 		allow = {
 			is_greater_power = yes
-			political_thought = 1  
+			nationalism_n_imperialism = 1  
 		war = no  
 		}
 		effect = {
@@ -670,7 +670,7 @@ political_decisions = {
 		}
 	
 		allow = {
-			cheap_steel = 1
+			bessemer_process = 1
 		}
 	
 		effect = {
@@ -704,7 +704,7 @@ political_decisions = {
 		
 		allow = { 
 		medicine = 1 
-		cheap_iron = 1 
+		hot_blast = 1 
 		romanticism = 1 
 		}
 		

@@ -42,13 +42,9 @@ peace_order = {
 treaty_port_casus_belli
 war_reparations
 become_independent
-dismantle_cb
-dismantle_cb_add
-dismantle_cb_add_new
 colonial_competition
 acquire_all_cores
 acquire_core_state
-colonial_reconquest_cb
 unification_casus_belli
 civil_war
 unification_annex_casus_belli
@@ -83,13 +79,10 @@ humiliate
 place_in_the_sun
 dismantle_forts
 china_acquire_state
-china_acquire_state_2
 china_conquest
 acquire_state
-acquire_any_state
 acquire_substate_region
 take_capital
-colonial_conquest
 demand_concession_BC_casus_belli
 demand_concession_NI_casus_belli
 demand_concession_casus_belli
@@ -295,100 +288,6 @@ acquire_all_cores = {
 			from = jingoism 
 			to = pro_military
 			value = 0.25
-		}
-	}
-}
-
-colonial_reconquest_cb = {
-	sprite_index = 2
-	is_triggered_only = no
-	months = 12
-	
-	badboy_factor = 0
-	prestige_factor = 1
-	peace_cost_factor = 1
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	always = yes
-	
-	can_use = {
-		OR = {
-			AND = {
-				THIS = {
-					OR = {
-						tag = SPA
-						tag = SPC
-					}
-					NOT = { has_global_flag = spanish_american_war }
-				}
-				OR = {
-					tag = PRI
-					tag = CUB
-					tag = PHL
-				}
-			}
-			OR = {
-				AND = {
-				THIS = { 
-					tag = NET 
-					has_country_flag = conquest_of_jambi
-				}
-				tag = DJA
-				}
-				AND = {
-				THIS = { 
-					tag = NET 
-					has_country_flag = javanese_integrated
-				}
-				tag = JAV
-				}
-				AND = {
-				THIS = { 
-					tag = NET 
-					has_country_flag = tidore_integrated
-					}
-				tag = MAL
-					}
-				}
-			}
-		NOT = { number_of_states = 3 }
-		part_of_sphere = no
-		THIS = {
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
-			}
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = { revolution_n_counterrevolution = 1 }
-		}
-		OR = {
-			war_with = THIS
-			THIS = { NOT = { has_country_modifier = punitive_effects } }
-		}
-	}
-	
-	po_annex = yes
-	
-	war_name = WAR_COLONIAL_RECONQUEST_NAME
-
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
 		}
 	}
 }
@@ -1129,17 +1028,14 @@ free_peoples = {
 		NOT = {
 			tag = FROM
 			FROM = { tag = THIS }
-			FROM = { tag = MTC }
 			FROM = { tag = ETH }
 			FROM = { tag = UKR }
 			FROM = { tag = HND }
 			FROM = { tag = PLC }
-			FROM = { tag = TPG }
 			FROM = { tag = POL }
 			FROM = { tag = CPL }
 			FROM = { tag = QNG }
 			FROM = { tag = CHI }
-			FROM = { tag = CSA }
 			FROM = { tag = KAM }
 			FROM = { tag = KAZ }
 			FROM = { tag = BDK }
@@ -1148,15 +1044,10 @@ free_peoples = {
 			FROM = { tag = ALT }
 			FROM = { tag = URA }
 			FROM = { tag = MCK }
-			FROM = { tag = XIN }
 			this_culture_union = FROM
 			AND = {
 				FROM = { tag = ETH }
 				ETH = { exists = no }
-			}
-			AND = {
-				FROM = { tag = BOL }
-				exists = PBC
 			}
 		}
 		FROM = {
@@ -1344,7 +1235,6 @@ free_peoples = {
 					tag = CRO
 					tag = BUL
 					tag = SIE
-					tag = LUX
 				}
 			}
 			AND = {
@@ -1352,7 +1242,6 @@ free_peoples = {
 					OR = {
 						region = PRU_701
 						region = RUS_706
-						region = RUS_715
 						region = AUS_702
 					}
 				}
@@ -1394,10 +1283,6 @@ free_peoples = {
 			AND = {
 				any_owned_province = { region = AUS_657 }
 				FROM = { tag = SIE }
-			}
-			AND = {
-				any_owned_province = { province_id = 397 }
-				FROM = { tag = LUX }
 			}
 		}
 	}
@@ -1490,20 +1375,6 @@ liberate_country = {
 			THIS = { ai = no }
 			FROM = { NOT = { any_core = { is_core = THIS } } }
 			FROM = { involved_in_crisis = yes }
-		}
-		NOT = {
-			tag = FROM
-			FROM = { tag = THIS }
-			FROM = { tag = MTC }
-			this_culture_union = FROM
-			AND = {
-				FROM = { tag = ETH }
-				NOT = { exists = ETH }
-			}
-			AND = {
-				FROM = { tag = BOL }
-				exists = PBC
-			}
 		}
 		OR = {
 			AND = {
@@ -2199,53 +2070,7 @@ cut_down_to_size = {
 	}
 	
 	on_po_accepted = {
-		random_owned = {
-			limit = {
-				owner = {
-					civilized = no
-					OR = {
-						owns = 1498 #Macao
-						owns = 1538 #Shanghai
-						owns = 1496 #Hong Kong
-						owns = 1566	#Qingdao
-						owns = 1481 #Lushun - Port Arthur
-						owns = 1569 #Weihaiwei
-						owns = 1606 #Jiaxing
-						owns = 2681 #Taibei
-						owns = 2562 #Tainan
-						owns = 1499 #Hainan
-						owns = 2632 #Kwangchowan
-						#owns = 1540 #Nantong
-						owns = 1071 #Qeshm
-						owns = 1695 #Ifni
-					}
-				}
-				THIS = {
-					civilized = yes
-					NOT = { is_culture_group = chinese }
-					num_of_ports = 1
-				}
-			}
-			owner = { add_country_modifier = { name = negotiating_unequal_treaty duration = 30 } }
-			THIS = { add_country_modifier = { name = negotiating_treaty duration = 30 } }
-		}
-		random_owned = { limit = { owner = { civilized = no has_country_modifier = uncivilized_isolationism } }
-			owner = { remove_country_modifier = uncivilized_isolationism }
-		}
-		random_owned = { limit = { owner = { civilized = no NOT = { has_country_modifier = western_influences } } }
-			owner = { add_country_modifier = { name = western_influences duration = -1 } }
-		}
-		random_owned = { limit = { owner = { civilized = no NOT = { capital_scope = { has_country_modifier = legation_quarter } } } }
-			owner = { capital_scope = { add_province_modifier = { name = legation_quarter duration = -1 } } }
-		}
-		random_owned = { limit = { owner = { has_country_flag = holding_tangiers owns = 1686 } }
-			owner = { 1686 = { secede_province = THIS } clr_country_flag = holding_tangiers }
-			THIS = { 1686 = { secede_province = MOR } }
-		}
-		random_owned = { limit = { owner = { has_country_flag = refused_to_cede_congo } }
-			owner = { any_owned = { limit = { is_core = CNG } secede_province = THIS } clr_country_flag = refused_to_cede_congo }
-			THIS = { any_owned = { limit = { is_core = CNG } secede_province = CNG } }
-		}
+		
 	}
 }
 
@@ -3549,14 +3374,6 @@ annex_africa = {
 			civilized = yes
 			has_global_flag = berlin_conference
 		}
-		NOT = {
-			tag = MOR
-			tag = ALD
-			tag = TRI
-			tag = LIB
-			tag = ETH
-			has_country_flag = post_colonial_country
-		}
 		civilized = no
 		capital_scope = { continent = africa }
 		ai = yes
@@ -3645,14 +3462,6 @@ annex_africa_full = {
 			has_global_flag = berlin_conference
 		}
 		civilized = no
-		NOT = {
-			tag = MOR
-			tag = ALD
-			tag = TRI
-			tag = LIB
-			tag = ETH
-			has_country_flag = post_colonial_country
-		}
 		capital_scope = { continent = africa }
 		ai = yes
 		OR = {
@@ -5007,26 +4816,7 @@ conquest_any = {
 	}
 	
 	on_po_accepted = {
-		THIS = {
-			random_owned = {
-				limit = { is_core = TRN TRN = { exists = no has_country_flag = uncivilize_on_conquest } }
-				THIS = { release_vassal = TRN }
-				TRN = { clr_country_flag = uncivilize_on_conquest civilized = no annex_to = THIS }
-				TRN = { civilized = yes }
-			}
-			random_owned = {
-				limit = { is_core = ORA ORA = { exists = no has_country_flag = uncivilize_on_conquest } }
-				THIS = { release_vassal = ORA }
-				ORA = { clr_country_flag = uncivilize_on_conquest civilized = no annex_to = THIS }
-				ORA = { civilized = yes }
-			}
-			random_owned = {
-				limit = { is_core = NAL NAL = { exists = no has_country_flag = uncivilize_on_conquest } }
-				THIS = { release_vassal = NAL }
-				NAL = { clr_country_flag = uncivilize_on_conquest civilized = no annex_to = THIS }
-				NAL = { civilized = yes }
-			}
-		}
+	
 	}
 }
 
@@ -5282,125 +5072,6 @@ install_democracy_make_puppet = {
 	on_po_accepted = { THIS = { set_country_flag = friendly_democracy_puppet } country_event = 96085 }
 }
 
-#Colonial Conquest
-colonial_conquest = {
-	sprite_index = 21
-	months = 12
-	
-	construction_speed = 0.8
-
-	badboy_factor = 0
-	prestige_factor = 0.25
-	peace_cost_factor = 0.6
-	penalty_factor = 1
-	always = yes
-
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	can_use = {
-		NOT = { is_our_vassal = THIS }
-		THIS = {
-			NOT = { has_country_modifier = no_more_war }
-			NOT = { has_country_modifier = neutrality }
-			is_disarmed = no
-			NOT = { badboy = 0.88 }
-			state_n_government = 1
-			OR = {
-				war_policy = jingoism
-				war_policy = pro_military
-			}
-			capital_scope = { continent = europe }
-		}
-		OR = {
-			NOT = { relation = { who = THIS value = 150 } }
-			THIS = { ai = no }
-		}
-		THIS = { owns = 2060 }
-		any_owned_province = {
-			OR = {
-				region = POR_2060
-				region = POR_2053
-				region = POR_2054
-				region = POR_2049
-			}
-		}
-		neighbour = THIS
-		NOT = { has_country_modifier = neutrality }
-		NOT = { in_sphere = THIS }
-		OR = {
-			war_with = THIS
-			THIS = { NOT = { has_country_modifier = punitive_effects } }
-		}
-	}
-	
-	allowed_states = {
-		OR = {
-			AND = {
-				THIS = { owns = 2060 }
-				any_owned_province = {
-					OR = {
-						region = POR_2060
-						region = POR_2053
-						region = POR_2054
-						region = POR_2049
-					}
-				}
-			}
-		}
-	}
-
-	po_demand_state = yes
-	
-	war_name = WAR_CONCESSION_NAME
-	
-	on_add = {
-		random_list = {
-			25 = { badboy = 0.5 }
-			25 = { badboy = 1 }
-			25 = { badboy = 1.5 }
-			25 = { badboy = 2 }
-		}
-		
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-	
-	on_po_accepted = {
-		THIS = {
-			random_owned = {
-				limit = { owner = { has_global_flag = mozambique_created } }
-				owner = {
-					any_owned = { 
-						limit = {
-							NOT = { is_core = MOZ }
-							OR = {
-								region = POR_2060
-								region = POR_2053
-								region = POR_2054
-								region = POR_2049
-							}
-						}
-						add_core = MOZ
-						remove_core = GAZ
-						remove_core = AGC
-						remove_core = ZUL
-						remove_core = SHO
-					}
-				}
-			}
-		}
-	}
-}
 
 # War Reparations
 war_reparations = {
@@ -5874,7 +5545,6 @@ negotiated_transfer = {
 
 	can_use = {
 		NOT = { tag = UTI }
-		NOT = { tag = CLN }
 		is_independant = yes
 		ai = no
 		THIS = { ai = no } 

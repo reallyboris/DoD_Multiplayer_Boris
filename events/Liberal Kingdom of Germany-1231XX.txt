@@ -35,7 +35,6 @@ country_event = {
 					is_core = SWI
 					is_core = WUR
 					is_core = BAD
-					is_core = WES
 					is_core = RHI
 					is_core = HAN
 					is_core = PRU

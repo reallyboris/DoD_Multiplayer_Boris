@@ -31,7 +31,6 @@ country_event = {
 		OR = { 
 			tag = TUI
 			tag = HAW
-			tag = RAP
 		}
 		part_of_sphere = yes
 		sphere_owner = {

@@ -887,7 +887,6 @@ country_event = {
 					tag = PNJ
 					tag = MUG
 					tag = HYD
-					tag = BNG
 					primary_culture = THIS
 				}
 				THIS = {
@@ -925,9 +924,7 @@ country_event = {
 			limit = {
 				THIS = { NOT = { has_country_flag = crown_from_the_gutter } }
 				OR = {
-					tag = MAH
 					tag = MUG
-					tag = RAJ
 				}
 				THIS = { primary_culture = marathi }
 				neighbour = THIS

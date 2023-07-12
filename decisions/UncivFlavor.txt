@@ -46,6 +46,7 @@ political_decisions = {
 	tag = MCH
 	tag = KOK
 		}
+		NOT = { exists = TKS }
 	}
 	
 	allow = { 

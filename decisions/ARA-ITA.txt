@@ -104,11 +104,7 @@ political_decisions = {
 			}
 			random_country = {
 				limit = {
-					ai = yes
-					OR = { 
-						tag = RAP
-						tag = HAW
-					}
+					tag = UTI
 				}
 				country_event = 124101
 			}

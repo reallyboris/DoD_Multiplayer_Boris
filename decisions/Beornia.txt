@@ -125,7 +125,6 @@ political_decisions = {
 				
 				NAN = { all_core = { add_core = HBE	} }
 				AMA = { all_core = { add_core = HBE	} }
-				ARU = { all_core = { add_core = HBE	} }
 				LOT = { all_core = { add_core = HBE	} }
 				GUY = { all_core = { add_core = HBE	} }
         

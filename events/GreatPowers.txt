@@ -705,89 +705,6 @@ country_event = {
 	}
 }
 
-#Egypt Allows
-country_event = {
-	id = 19041
-	title = "EVTNAME19041"
-	desc = "EVTDESC19041"
-	picture = "ValleyoftheKings"
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = "EVTOPTA19041"
-		add_country_modifier = {
-			name = egyptian_excavations
-			duration = -1
-		}
-		relation = {
-			who = FROM
-			value = 20
-		}
-		set_global_flag = egyptian_excavation_rights
-		prestige = 5
-	}
-}
-
-#Egypt Refuses
-country_event = {
-	id = 19042
-	title = "EVTNAME19042"
-	desc = "EVTDESC19042"
-	picture = "ValleyoftheKings"
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = "EVTOPTA19042"
-		relation = {
-			who = FROM
-			value = -20
-		}
-		prestige = -5
-		set_country_flag = egypt_refused
-	}
-}
-
-#Tutankhamun's Tomb
-country_event = {
-	id = 19046
-	title = "EVTNAME19046"
-	desc = "EVTDESC19046"
-	news = yes
-	news_desc_long = "EVTDESC19046_NEWS_LONG"
-	news_desc_medium = "EVTDESC19046_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC19046_NEWS_SHORT"
-	picture = "Egyptian"	
-	
-	trigger = {
-		has_country_modifier = egyptian_excavations
-		NOT = {
-			has_global_flag = tutankhamun_found
-		}
-	}
-	
-	major = yes
-	
-	mean_time_to_happen = {
-		months = 2000
-	}
-	
-	option = {
-		name = "EVTOPTA19046"
-		prestige = 30
-		# years_of_research = 1
-		set_global_flag = tutankhamun_found
-		any_country = {
-			remove_country_modifier = egyptian_excavations
-		}
-		remove_country_modifier = egyptian_excavations
-		clr_global_flag = egyptian_excavation_rights
-	}
-}
-
-
-
 # The Statue of Liberty (fired by French decision)
 country_event = {
 	id = 19300
@@ -1236,7 +1153,6 @@ country_event = {
 		random_country = {
 			limit = {
 				prestige = 10
-				NOT = { tag = HAI }
 				capital_scope = { continent = north_america }
 				OR = {
 					is_greater_power = yes

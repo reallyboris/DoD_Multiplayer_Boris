@@ -28,10 +28,6 @@ piston_steam_engine = {
 		}
 		modifier = {
 			factor = 2
-			tag = BRZ
-		}
-		modifier = {
-			factor = 2
 			year = 1845
 		}
 		modifier = {
@@ -73,10 +69,6 @@ high_pressure_steam_engine = {
 		modifier = {
 			factor = 2
 			year = 1850
-		}
-		modifier = {
-			factor = 2
-			tag = BRZ
 		}
 		modifier = {
 			factor = 1.02
@@ -123,10 +115,6 @@ compound_steam_engines = {
 			year = 1865
 		}
 		modifier = {
-			factor = 2
-			tag = BRZ
-		}
-		modifier = {
 			factor = 1.02
 			tech_school = industrial_tech_school
 		}
@@ -169,10 +157,6 @@ steam_turbine = {
 		modifier = {
 			factor = 1.02
 			tech_school = industrial_tech_school
-		}
-		modifier = {
-			factor = 2
-			tag = BRZ
 		}
 		modifier = {
 			factor = 1.2
@@ -641,18 +625,6 @@ puddling = {
 		factor = 2
 
 		modifier = {
-			factor = 20
-			OR = {
-				tag = NGF
-				tag = GER
-				tag = PRU
-				tag = FRA
-				tag = AUS
-				tag = KUK
-				tag = RUS
-			}
-		}
-		modifier = {
 			factor = 5
 			big_producer = coal
 		}
@@ -1092,16 +1064,6 @@ experimental_railroad = {
 	ai_chance = {
 		factor = 2
 		modifier = {
-			factor = 10
-			OR = {
-				tag = NGF
-				tag = GER
-				tag = PRU
-				tag = AUS
-				tag = KUK
-			}
-		}
-		modifier = {
 			factor = 1.1
 			capital_scope = { continent = europe }
 		}
@@ -1142,16 +1104,6 @@ early_railroad = {
 	ai_chance = {
 		factor = 2
 		modifier = {
-			factor = 10
-			OR = {
-				tag = NGF
-				tag = GER
-				tag = PRU
-				tag = AUS
-				tag = KUK
-			}
-		}
-		modifier = {
 			factor = 5
 			OR = {
 				is_greater_power = yes
@@ -1186,13 +1138,6 @@ iron_railroad = {
 	max_railroad = 1 
 	ai_chance = {
 		factor = 2
-		modifier = {
-			factor = 20
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
-		}
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes

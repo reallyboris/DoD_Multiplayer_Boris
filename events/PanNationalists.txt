@@ -48,8 +48,6 @@ country_event = {
 					is_greater_power = yes
 					tag = WAL
 					tag = MOL
-					tag = DEN
-					tag = SWE
 				}
 				NOT = { is_cultural_union = yes }
 			}
@@ -341,7 +339,6 @@ country_event = {
 				THIS = {
 					NOT = {
 						tag = AUS
-						tag = DNB
 					}
 				}
 			}
@@ -415,8 +412,6 @@ country_event = {
 					primary_culture = south_german
 					NOT = {
 						tag = AUS
-
-						tag = DNB
 					}
 				}
 				NOT = { exists = GER }
@@ -456,7 +451,6 @@ country_event = {
 					primary_culture = south_german
 					NOT = {
 						tag = AUS
-						tag = DNB
 					}
 				}
 				NOT = { exists = GER }
@@ -537,7 +531,6 @@ country_event = {
 					primary_culture = south_german
 					NOT = {
 						tag = AUS
-						tag = DNB
 					}
 				}
 				NOT = { exists = GER }

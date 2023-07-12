@@ -109,32 +109,6 @@ country_event = {
 }
 
 country_event = {
-	id = 18530
-	title = "EVTNAME18530"
-	desc = "EVTDESC18530"
-	picture = "Invention"
-	
-	trigger = {
-		nationalvalue = nv_liberty
-	}
-	
-	mean_time_to_happen = {
-		months = 800
-	}
-	
-	option = {
-		name = "EVTOPTA18530"
-		years_of_research = 0.4
-	}
-	
-	option = {
-		name = "EVTOPTB18530"
-		years_of_research = 0.2
-		prestige = 5
-	}
-}
-
-country_event = {
 	id = 18540
 	title = "EVTNAME18540"
 	desc = "EVTDESC18540"
@@ -190,37 +164,6 @@ country_event = {
 			militancy = 2
 		}
 		prestige = 10
-	}
-}
-
-country_event = {
-	id = 18570
-	title = "EVTNAME18570"
-	desc = "EVTDESC18570"
-	picture = "Finepeople"
-	
-	trigger = {
-		OR = {
-			nationalvalue = nv_equality
-			nationalvalue = nv_productivity
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 800
-	}
-	
-	option = {
-		name = "EVTOPTA18570"
-		prestige = 10
-		any_pop = {
-			militancy = -1
-		}
-	}
-	
-	option = {
-		name = "EVTOPTB18570"
-		years_of_research = 0.2
 	}
 }
 
@@ -281,7 +224,7 @@ country_event = {
 	
 	option = {
 		name = "EVT18535OPTA"
-		years_of_research = 0.4
+		# years_of_research = 0.4
 		random_owned = {
 			limit = {
 				is_capital = yes

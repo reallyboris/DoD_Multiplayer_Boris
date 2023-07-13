@@ -5,21 +5,26 @@ political_decisions = {
 		potential = {
 			NOT = { is_canal_enabled = 1 }
 			is_greater_power = yes
-			NOT = { has_global_flag = kiel_canal_global }
 		}
 		allow = {
 			owns = 369
+			interchangeable_parts = 1
 			steam_turbine = 1
-			money = 50000
+			money = 100000
+			cement = 500
+			steel = 250
+			machine_parts = 200
+			explosives = 400
 		}
 		effect = {
-			treasury = -50000	
-			set_global_flag = kiel_canal_global
-			set_global_flag = building_kiel_canal_phase0
-			add_country_modifier = {
-				name = building_kiel_canal
-				duration = -1
-			}
+			treasury = -100000
+			cement = -500
+			steel = -250
+			machine_parts = -200
+			explosives = -400
+			enable_canal = 1
+			369 = { set_province_flag = kiel_canal }
+			prestige = 5
 		}
 		ai_will_do = {
 			factor = 1
@@ -37,32 +42,37 @@ political_decisions = {
 					owns = 1755
 				}
 			}
-			NOT = { has_global_flag = suez_canal_global }
 		}
 		allow = {
 			OR = {
 				1755 = { owner = { in_sphere = THIS } }
 				owns = 1755
 			}	
+			interchangeable_parts = 1
 			steam_turbine = 1
-			money = 25000
+			money = 1000000
+			cement = 1900
+			steel = 1500
+			machine_parts = 500
+			explosives = 1000
+			
 		}
 		effect = {
-			treasury = -25000	
-			set_global_flag = suez_canal_global
-			set_global_flag = building_suez_canal_phase0
-			add_country_modifier = {
-				name = building_suez_canal
-				duration = -1
+			treasury = -1000000	
+			cement = -1900
+			steel = -1500
+			machine_parts = -500
+			explosives = -1000
+			1755 = { secede_province = THIS }
+			prestige = 10
+			enable_canal = 2
+			1755 = {
+				trade_goods = precious_goods
+				set_province_flag = suez_canal
 			}
-			random_country = {
-				limit = {
-					owns = 1755
-					NOT = { tag = THIS }
-				}
-				THIS = { treasury = -300000 }
-				country_event = 97300
-			}
+			
+			
+			
 		}
 		ai_will_do = {
 			factor = 1
@@ -88,33 +98,29 @@ political_decisions = {
 				1723 = { owner = { in_sphere = THIS } }
 				owns = 1723
 			}	
+			interchangeable_parts = 1
 			inorganic_chemistry = 1
 			steam_turbine = 1
-			money = 100000
+			money = 500000
+			cement = 1000
+			steel = 750
+			machine_parts = 300
+			explosives = 500
 		}
 		effect = {
-			treasury = -100000	
-			set_global_flag = panama_canal_global
-			add_country_modifier = {
-				name = building_panama_canal
-				duration = -1
+			treasury = -500000
+			cement = -1000
+			steel = -750
+			machine_parts = -300
+			explosives = -500
+			enable_canal = 3
+			prestige = 20
+			1723 = { 
+				trade_goods = precious_goods
+				set_province_flag = panama_canal
 			}
-			random_country = {
-				limit = {
-					NOT = { tag = PNM }
-					NOT = { tag = THIS }
-					owns = 1723
-				}
-				country_event = 97390
-			}
-			random_country = {
-				limit = {
-					tag = PNM
-					NOT = { tag = THIS }
-					owns = 1723
-				}
-				country_event = 97394
-			}
+			
+			
 		}
 		ai_will_do = {
 			factor = 1

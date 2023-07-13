@@ -116,7 +116,7 @@ vassal_nation = {
 		exists = yes
 		OR = {
 			is_vassal = yes
-			is_substate = no
+			is_substate = yes
 		}
 	}
 	icon = 10

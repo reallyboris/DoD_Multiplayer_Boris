@@ -125,75 +125,6 @@ country_event = {
 }
 
 country_event = { 
-	id = 48910
-	title = "DZG10.T"
-	desc = "DZG10.D"
-	picture = "tibet"
-	
-	trigger = { 
-	tag = CHG 
-	has_country_modifier = stroganov_romanov
-	TIB = { exists = yes NOT = { vassal_of = CHG } }
-	NOT = { owns = 1587 }
-	}
-	
-	mean_time_to_happen = { months = 15 }
-	
-	fire_only_once = yes 
-	
-	option = { 
-	name = "48910.A"
-	war = {
-			target = TIB
-			attacker_goal = {
-				casus_belli = make_puppet
-			}
-		}
-	}
-	
-	option = { 
-	name = "48910.B"
-	relation = { who = TIB value = 100 }
-	}
-}
-
-country_event = { 
-	id = 48911
-	title = "DZG11.T"
-	desc = "DZG11.D"
-	picture = "tibet"
-
-	trigger = { 
-	tag = TIB 
-	vassal_of = CHG
-	owns = 1556
-	}
-	
-	mean_time_to_happen = { 
-	days = 1
-	}
-	
-	option = { 
-	name = "48911.A"
-	any_owned = { limit = { is_core = XBI } secede_province = CHG }
-	CHG = { country_event =  48912 }
-	}
-}
-
-country_event = { 
-	id = 48912
-	title = "DZG12.T"
-	desc = "DZG12.D"
-	picture = "tibet"
-	
-	is_triggered_only = yes 
-	
-	option = { 
-	name = "190441.A"
-	}
-}
-
-country_event = { 
 	id = 48913
 	title = "DZG13.T"
 	desc = "DZG13.D"
@@ -212,9 +143,7 @@ country_event = {
 	option = { 
 	name = "48913.A"
 	random_owned = { limit = { owner = { army_schools = no_army_schools } } owner = { military_reform = yes_army_schools   activate_technology = bronze_muzzle_loaded_artillery  }  }
-	random_owned = { limit = { owner = { army_schools = yes_army_schools } } owner = { military_reform = army_academies   activate_technology = iron_muzzle_loaded_artillery }  }
 	random_owned = { limit = { owner = { foreign_training = no_foreign_training  } } owner = { military_reform = yes_foreign_training  activate_technology = military_staff_system  }  }
-	random_owned = { limit = { owner = { foreign_training = yes_foreign_training } } owner = { military_reform = advanced_foreign_training  activate_technology = military_plans }  }
 	any_pop = { 
 	scaled_militancy = {
 		ideology = reactionary
@@ -240,55 +169,6 @@ country_event = {
 	option = { 
 	name = "48913.B"
 	prestige = -5
-	}
-}
-
-country_event = { 
-	id = 48914
-	title = "DZG14.T"
-	desc = "DZG14.D"
-	picture = "cossack_baron"
-	
-	trigger = { 
-	tag = MGL 
-	war =  no 
-	CHG = { has_country_flag = steppe_madness }
-	}
-	
-	fire_only_once = yes 
-	
-	option = { 
-	name = "48914.A"
-	war = {
-			target = CHG
-			attacker_goal = {
-				casus_belli = conquest
-			}
-		}
-	CHG = { country_event = 48915 }
-	ai_chance = { 
-	factor = 100	
-		}
-	}
-	
-	option = { 
-	name = "48914.B"
-	ai_chance = { 
-	factor = 0	
-		}
-	}
-}
-
-country_event = { 
-	id = 48915
-	title = "DZG15.T"
-	desc = "DZG15.D"
-	picture = "cossack_baron"
-	
-	is_triggered_only = yes 
-	
-	option = { 
-	name = "97430.A"
 	}
 }
 
@@ -320,7 +200,6 @@ country_event = {
 	set_country_flag = script_question
 	money = -100000
 	any_pop = { literacy = 0.05 }
-	random_owned = { limit = { owner = { education_reform = yes_education_reform } } owner = { economic_reform = advanced_education_reform activate_technology = positivism  }  }
 	random_owned = { limit = { owner = { education_reform = no_education_reform } } owner = { economic_reform = yes_education_reform activate_technology = malthusian_thought }  }
 	ai_chance = { 
 	factor = 40 
@@ -337,7 +216,6 @@ country_event = {
 	set_country_flag = script_question
 	money = -1000000
 	any_pop = { literacy = 0.1  }
-	random_owned = { limit = { owner = { education_reform = yes_education_reform } } owner = { economic_reform = advanced_education_reform activate_technology = positivism  }  }
 	random_owned = { limit = { owner = { education_reform = no_education_reform } } owner = { economic_reform = yes_education_reform activate_technology = malthusian_thought }  }
 	random_owned = { limit = { owner = { academic_institutions = universities  } } owner = { research_points = 8000 }  }
 	random_owned = { limit = { owner = { academic_institutions = madrasahs } } owner = { economic_reform = universities  activate_technology = idealism }  }
@@ -351,69 +229,6 @@ country_event = {
 	}
 }
 	
-country_event = { 
-	id = 48921 #Archaelogical findings
-	title = "DZG21.T"
-	desc = "DZG21.D"
-	picture = "tocharians"	
-	
-	trigger = { 
-	civilized = yes 
-	has_country_flag = university_urumqi 
-	empiricism = 1
-	owns = 1594
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { 
-	months = 5 
-	}
-	
-	option = { 
-	name = "48921.A"
-	ai_chance = { 
-	factor = 25 
-		}
-	}
-	
-	option = { 
-	name = "48921.B"
-	money = -10000
-	set_country_flag = tocharians
-	ai_chance = { 
-	factor = 75 
-		}
-	}
-	
-}
-
-
-country_event = { 
-	id = 48922 #Archaelogical findings revealed
-	title = "DZG22.T"
-	desc = "DZG22.D"
-	picture = "tocharians"	
-
-	major = yes
-		
-	fire_only_once = yes 	
-		
-	trigger = { 
-	has_country_flag = tocharians
-	owns = 1594
-	}
-	
-	mean_time_to_happen = { 
-	months = 43 
-	}
-	
-	option = { 
-	name = "48922.A"
-	prestige = 40 
-	}
-	
-}	
 country_event = { 
 	id = 48923 #Choice of Script
 	title = "DZG23.T"
@@ -486,74 +301,6 @@ country_event = {
 	name = "97391.A"
 	research_points = 11000
 	set_country_flag = kawaguchi
-	}
-}
-
-country_event = { 
-	id = 48932
-	title = "DZG32.T"
-	desc = "DZG32.D"
-	picture = "japanese_lama"
-	
-	trigger = { 
-	tag = CHG
-	has_country_flag = kawaguchi
-	war = no 
-	neighbour = TIB 
-	NOT = { TIB = { vassal_of = CHG } }
-	}
-	
-	mean_time_to_happen = { 
-	months = 25
-	}
-	
-	option = { 
-	name = "48932.A" 
-	TIB = { country_event = 48933 }
-	relation = { who = TIB value = 200 }
-	relation = { who = JAP value = 50 }
-	ai_chance = { 
-	factor = 50 
-		}
-	}
-	
-	option = { 
-	name = "48932.B"
-	clr_country_flag = kawaguchi
-	relation = { who = JAP value = -50 }
-	relation = { who = TIB value = -50 }
-	ai_chance = { 
-	factor = 50 
-		}
-	}
-}
-
-country_event = { 
-	id = 48933
-	title = "DZG33.T"
-	desc = "DZG33.D"
-	picture = "japanese_lama"
-	
-	is_triggered_only = yes 
-	
-	option = { 
-	name = "48933.A"
-	JAP = { country_event = 48934 }
-	relation = { who = JAP value = 50 }
-	}
-}
-
-country_event = { 
-	id = 48934
-	title = "DZG34.T"
-	desc = "DZG34.D"
-	picture = "japanese_lama"
-	
-	is_triggered_only = yes 
-	
-	option = { 
-	name = "48934.A"
-	prestige = 4 
 	}
 }
 

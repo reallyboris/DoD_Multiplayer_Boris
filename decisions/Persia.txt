@@ -223,28 +223,4 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	
-	timurid_legacy = { 
-	potential = { 
-	tag = ZND 
-	QAJ = { exists = yes }
-	NOT = { truce_with = QAJ }
-	NOT = { has_country_flag = legacy_timur }
-		}
-	
-	allow = { 
-	all_core = { owned_by = THIS }
-		}
-		
-	effect = { 
-	set_country_flag = legacy_timur
-	war = { 
-		target = QAJ 
-		attacker_goal = { 
-		casus_belli = conquest 
-			}
-		}
-	}
-	
-	}
 }

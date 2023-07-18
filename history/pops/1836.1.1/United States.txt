@@ -3239,7 +3239,7 @@
 }
 #Lubbock (8000/2000 POPS)
 135 = {
-	aristocrats ={
+	aristocrats = {
 		culture = lusitanian
 		religion = catholic
 		size = 200
@@ -3703,7 +3703,7 @@
 	}
 
 	farmers = {
-		culture= afro_frankish
+		culture = afro_frankish
 		religion = catholic
 		size = 15
 	}

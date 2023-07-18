@@ -705,7 +705,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size =28150
+		size = 28150
 	}
 
 	clergymen = {
@@ -729,7 +729,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size =4150
+		size = 4150
 	}
 
 	clergymen = {
@@ -759,7 +759,7 @@
 	}
 
 	artisans = {
-		culture =persian
+		culture = persian
 		religion = shiite
 		size = 1175
 	}

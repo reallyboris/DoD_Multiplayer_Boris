@@ -2672,7 +2672,7 @@
 
 	clergymen = {
 		culture = french
-		religion= catholic
+		religion = catholic
 		size = 400
 	}
 	

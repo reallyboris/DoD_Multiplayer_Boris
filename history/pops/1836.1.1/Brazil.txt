@@ -1234,7 +1234,7 @@
 		size = 100
 	}
 
-	farmers ={ 
+	farmers = { 
 		culture = afro_frankish
 		religion = catholic
 		size = 700

@@ -1,11 +1,10 @@
 capital = 1926
-primary_culture = yoruba
-culture = fon
+primary_culture = african_minor
 religion = fetishist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.034
+literacy = 0.02
 non_state_culture_literacy = 0.02
 
 # Political reforms

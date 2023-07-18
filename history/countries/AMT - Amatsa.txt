@@ -1,5 +1,5 @@
 capital = 1848
-primary_culture = tigray
+primary_culture = amhara
 religion = coptic
 government = prussian_constitutionalism
 plurality = 0.0

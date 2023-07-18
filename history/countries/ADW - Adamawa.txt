@@ -1,10 +1,10 @@
 capital = 1950
-primary_culture = fulbe
+primary_culture = african_minor
 religion = fetishist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.023
+literacy = 0.018
 non_state_culture_literacy = 0.015
 
 # Political reforms

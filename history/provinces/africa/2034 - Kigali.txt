@@ -1,6 +1,5 @@
-owner = RWA
-controller = RWA
-add_core = RWA
+owner = BUG
+controller = BUG
 add_core = BUG
 trade_goods = coffee
 terrain = montane_forest

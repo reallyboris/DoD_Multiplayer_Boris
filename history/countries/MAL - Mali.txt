@@ -1,8 +1,5 @@
 capital = 1902
-primary_culture = mossi
-culture = songhai
-culture = fulbe
-culture = mande
+primary_culture = african_minor
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

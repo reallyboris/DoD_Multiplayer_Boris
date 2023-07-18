@@ -1,11 +1,11 @@
 capital = 1933
-primary_culture = ibo
+primary_culture = african_minor
 religion = fetishist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.04
-non_state_culture_literacy = 0.024
+literacy = 0.02
+non_state_culture_literacy = 0.02
 
 # Political reforms
 slavery = yes_slavery

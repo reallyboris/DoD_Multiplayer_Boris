@@ -1,7 +1,5 @@
 capital = 1867
-primary_culture = somali
-culture = amhara
-culture = oromo
+primary_culture = amhara
 religion = sunni
 government = feudal_monarchy
 plurality = 0.0

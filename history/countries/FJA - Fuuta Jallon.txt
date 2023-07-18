@@ -1,5 +1,5 @@
 capital = 1792
-primary_culture = mande
+primary_culture = african_minor
 religion = fetishist
 government = absolute_monarchy
 plurality = 0.0

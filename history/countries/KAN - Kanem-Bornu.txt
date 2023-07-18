@@ -1,13 +1,10 @@
 capital = 1816
-primary_culture = kanuri
-culture = bedouin
-culture = fulbe
-culture = african_minor
+primary_culture = african_minor
 religion = sunni
 government = feudal_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.002
+literacy = 0.001
 
 # Political reforms
 slavery = yes_slavery

@@ -47,10 +47,7 @@ political_decisions = {
 				country_event = 11101
 			}
 			religion = coptic
-			add_accepted_culture = tigray
 			add_accepted_culture = amhara
-			add_accepted_culture = oromo
-			add_accepted_culture = cushitic
 			capital = 1859
 		}
 		ai_will_do = {

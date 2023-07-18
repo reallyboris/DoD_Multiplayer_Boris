@@ -139,7 +139,7 @@
 	farmers = {
 		culture = armenian
 		religion = coptic
-		size =30750
+		size = 30750
 	}
 
 	aristocrats = {

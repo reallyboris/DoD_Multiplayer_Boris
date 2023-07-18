@@ -244,40 +244,6 @@ pan_swiss = {
 scandinavian = {
 	leader = european
 	unit = SwedishGC
-	swedish = { 
-		color = { 20 40 160}
-		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
-		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
-		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
-		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
-		
-		last_names = { Abelin Bernardotte Bildt Björnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjörn Dyrssen
-		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
-		Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
-		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
-	}
-	danish = { 
-		color = { 220 40 40}
-		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin
-		Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar
-		Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto
-		Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
-		
-		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso "de Meza" Eberlin Falsen
-		Folsach Güntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe
-		Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg
-		Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
-	}
-	norwegian = { 
-		color = { 140 20 140}
-		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
-		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
-		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
-		
-		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
-		Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
-		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glücksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
-	}
 	icelandic = { 
 		color = { 80 20 150}
 		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
@@ -323,20 +289,6 @@ scandinavian = {
 british = {
 	leader = european
 	unit = BritishGC
-	british = {
-		color = { 220 100 220}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
-		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
 	irish = { 
 		color = { 35 140 50}
 		radicalism = 15
@@ -2662,142 +2614,6 @@ southern_african = {
 	leader = african
 	is_overseas = no
 	unit = ZuluGC
-	chewa = {
-		color = {88 88 88}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Mwale Phiri Mkunkhuntha Mbewe Kalimakudzulu
-		}
-	}
-	nyasa = {
-		color = {18 88 48}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Mwale Phiri Mkunkhuntha Mbewe Kalimakudzulu
-		}
-	}
-	herero = {
-		color = {94 180 42}
-		first_names = { Samuel Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Maharero Witbooi Tjavikwa Tjimba Hakawona vaKuvale vaZemba
-		}
-	}
-	khoisan = {
-		color = {122 46 133}
-		first_names = { Naresib Gabeb Gorakhab Oasib Na-khom Tsawub Gaob Hanab O-Naib Khaub Khomab Hab
-		}
-
-		last_names = { Hamab Khomaa Khaumab O-Naimab Hanamab Gamab Nakhomab Manassee Oasmab
-		}
-	}
-	lomwe = {
-		color = {184 220 31}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Muhsini Camakama Mugosirima "Bwana Mkuu" Usufu "Musa Quanto" "Bari Bwana"
-		}
-	}
-	makua = {
-		color = {94 156 82}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { "Muhammad Raja" Muhammad Raja Uthman Usufu Mukusedi Molidi "Umkubu Muntu" Marave "Ali Ibrahimu"
-		}
-	}
-	nguni = {
-		color = {165 43 18}
-		first_names = { Kinjikitile Fambaltate Songea Ebabruma Mputa Mbemchapa Atepa Matola Magobi Rjoroza Wasesse Rinyizea Chapwanya Chakoma Kapola Kapungu Kindunda Kinjalla Kiwanga Mahengu Mburu Mhavanginonya Namkina Ngosingosi Schabruma Sentambandu Uawula Ulanga 
-		}
-
-		last_names = { Ngwale Farhenga Chimai Amari Kwira Mtemi Hanga Mwanawalifa Mbano
-		}
-	}
-	southern_bantu = {
-		color = {165 111 17}
-		first_names = { Kinjikitile Fambaltate Songea Ebabruma Mputa Mbemchapa Atepa Matola Magobi Rjoroza Wasesse Rinyizea Chapwanya Chakoma Kapola Kapungu Kindunda Kinjalla Kiwanga Mahengu Mburu Mhavanginonya Namkina Ngosingosi Schabruma Sentambandu Uawula Ulanga 
-		}
-
-		last_names = { Ngwale Farhenga Chimai Amari Kwira Mtemi Hanga Mwanawalifa Mbano
-		}
-	}
-	ovimbundu = {
-		color = {91 63 231}
-		first_names = { Kakembembe Ciponge Cikunyu Kinya Nguvenge Kayangula Kahala Cingi Ngelo Ciasungu Kapoko Vilombo Hungulu Livonge Wambu
-		}
-
-		last_names = { Vasovava Hundungulu Njambayamina Ndunduma Cilemo Kanene Kaneketela Yale Cinene Kiapungo Kacingangu Kapusukusu Cimbungu
-		}
-	}
-	sena = {
-		color = {81 212 142}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Mutiwapangome Cipfumba nyasoro Cimininyambo Kandeya Dambamupute
-		}
-	}
-	shona = {
-		color = {98 134 18}
-		first_names = { Zuka Sundai Tichawonna Sekayi Runako Petiri Pepukayi Mwanyisa Muchaneta Mashama Mboro Goredenna Gamba Chionesu Chinouyazue Banga
-		}
-
-		last_names = { Mzilikazi Lobengula Mlimo Soshangane Magaya Kwenda Muhuru Maraire
-		}
-	}
-	sotho = {
-		color = {42 121 176}
-		first_names = { Letsie Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Moshoeshoe Lerotholi Masopha Matsaba Leabua Mamohato
-		}
-	}
-	tonga = {
-		color = {94 187 36}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Nyondo Muyila Kalagho Malokotela Sibale Chizimu Kayuni Panja
-		}
-	}
-	tswana = {
-		color = {91 212 36}
-		first_names = { Khama Bathoen Sebele Baruti Boipelu Gaone Kabelo Kedikilwe Kefentse Thabo Tale Mothudi Mosegi Mowen Moetapele Molefi Turnelo
-		}
-
-		last_names = { Bakgatla Bakwna Balete Bamangwato Bangwaketse Barolong Batawana Batlokwa Batsapong Bakgalakgadi Bakalaka
-		}
-	}
-	xhosa = {
-		color = {49 58 156}
-		first_names = { Mthuthuzeli Nolizwe Nonceba Paki Sipliwo Themba Uuka Thandiwe 
-		}
-
-		last_names = { Behle Dosini Dlamini Gqunu Gxarha Hegebe Khawatu Khumalo Kwayi Maduna Qadi Rhadebe Ncuthu Mpemvu Sikhosana Xesibe Zangwa
-		}
-	}
-	yao = {
-		color = {189 20 31}
-		first_names = { Chekandino Chikumbu Chisisi Kapendi Linje Lukongolo Mapira Masibuwa Ndembo Ngolinga Ngombe Thenga Umi Utni Citiwala Kajombo Mbiya
-		}
-
-		last_names = { Hlatshwayo Ntabeni Mgayi "Gwaza Jere" Mmbelwa Mwamba Cimtunga 
-		}
-	}
-	zulu = {
-		color = {0 0 0}
-		first_names = { Cetshwayo Ntshingwayo Dabulamanzi Sikukuni Sihayo Mavumengwana Mbilini Mnyamana Hamu Gawozi Mgojana Zibhebhu Hehlokazulu Manyonyoba Mahubulwana Mkhosana Dingiswayo Senzagkhona Sekhukhune Sekethwayo Somopho
-		}
-
-		last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha
-		}
-	}
 	afro_south_african = {
 		color = {24 44 49}
 		first_names = { Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles

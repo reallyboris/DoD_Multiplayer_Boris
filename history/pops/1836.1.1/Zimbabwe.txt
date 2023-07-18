@@ -253,91 +253,91 @@
 #Bulawayo (136000/34000 POPS)
 2071 = {
     aristocrats = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 500
     }
 
     bureaucrats = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     officers = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 40
     }
 
     clergymen = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 1200
     }
 
     soldiers = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 8050
     }
 
     farmers = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 29000
     }
 
     aristocrats = {
-        culture = shona
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = shona
+        culture = african_minor
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = shona
+        culture = african_minor
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = shona
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = shona
+        culture = african_minor
         religion = animist
         size = 5400
     }
 
     artisans = {
-        culture = sotho
+        culture = african_minor
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = sotho
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = sotho
+        culture = african_minor
         religion = animist
         size = 6650
     }

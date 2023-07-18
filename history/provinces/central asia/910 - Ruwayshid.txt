@@ -1,3 +1,5 @@
+owner = TUR
+controller = TUR
 add_core = SYR
 add_core = TUR
 add_core = NEJ

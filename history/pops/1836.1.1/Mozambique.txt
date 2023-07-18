@@ -15,7 +15,7 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 196
     }
@@ -33,31 +33,31 @@
     }
 
     farmers = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 15820
     }
 
     slaves = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 3500
     }
 
     clergymen = {
-        culture = tonga
+        culture = african_minor
         religion = animist
         size = 126
     }
 
     farmers = {
-        culture = tonga
+        culture = african_minor
         religion = animist
         size = 5334
     }
 
     slaves = {
-        culture = tonga
+        culture = african_minor
         religion = animist
         size = 9100
     }
@@ -119,7 +119,7 @@
 #Chaimate (280000/70000 POPS)
 2050 = {
     clergymen = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 392
     }
@@ -131,31 +131,31 @@
     }
 
     farmers = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 10020
     }
 
     slaves = {
-        culture = nguni
+        culture = african_minor
         religion = animist
         size = 3500
     }
 
     clergymen = {
-        culture = tonga
+        culture = african_minor
         religion = animist
         size = 420
     }
 
     farmers = {
-        culture = tonga
+        culture = african_minor
         religion = animist
         size = 10682
     }
 
     slaves = {
-        culture = tonga
+        culture = african_minor
         religion = animist
         size = 9200
     }

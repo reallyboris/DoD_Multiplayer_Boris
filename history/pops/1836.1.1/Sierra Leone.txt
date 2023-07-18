@@ -138,67 +138,67 @@
 #Bo (352000/88000 POPS)
 1886 = {
     aristocrats = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 900
     }
 
     clergymen = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 475
     }
 
     artisans = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 1875
     }
 
     soldiers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 475
     }
 
     farmers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 36275
     }
 
     aristocrats = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 800
     }
 
     clergymen = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 425
     }
 
     farmers = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 37675
     }
 
     slaves = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 7000
     }
@@ -208,97 +208,97 @@
 #Falaba (384000/96000 POPS) #now part of Sierra Leone
 1885 = {
     aristocrats = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 925
     }
 
     clergymen = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 475
     }
 
     artisans = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 1900
     }
 
     soldiers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 475
     }
 
     farmers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 36225
     }
 
     aristocrats = {
-        culture = western_nigritic
+        culture = african_minor
         religion = sunni
         size = 800
     }
 
     clergymen = {
-        culture = western_nigritic
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
+        culture = african_minor
         religion = sunni
         size = 1650
     }
 
     soldiers = {
-        culture = western_nigritic
+        culture = african_minor
         religion = sunni
         size = 425
     }
 
     farmers = {
-        culture = western_nigritic
+        culture = african_minor
         religion = sunni
         size = 37025
     }
 
     aristocrats = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 2300
     }
 
     slaves = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 13000
     }

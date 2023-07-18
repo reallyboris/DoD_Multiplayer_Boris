@@ -1,58 +1,18 @@
-#Casamance Region (96000) #see Guinea Bissau.txt and Senegambia.txt for balance of Region
-#under the rule of Gabu in 1836
-#Boffa (192000/48000 POPS) #now part of Guinea
-1879 = {
+#file includes modern Somalia and Djibouti
+#Benadir Region (392000)
+#under the loose rule of Muscat in 1836
+#Mogadishu (216000/54000 POPS)
+1868 = {
     aristocrats = {
         culture = african_minor
         religion = sunni
-        size = 900
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
-        size = 500
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 1900
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 700
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 60000
-    }
-
-    slaves = {
-        culture = african_minor
-        religion = animist
-        size = 6000
-    }
-}
-#Jallon Region (540000) #see Sierra Leone.txt for balance of Region
-#uncolonized in 1836/ruled by Emirate of Futa Jallon
-#Timbo (540000/135000 POPS)
-#from here one they were african minor
-1880 = {
-    aristocrats = {
-        culture = african_minor
-        religion = sunni
-        size = 1750
+        size = 1050
     }
 
     bureaucrats = {
         culture = african_minor
         religion = sunni
-        size = 375
+        size = 100
     }
 
     officers = {
@@ -64,55 +24,25 @@
     clergymen = {
         culture = african_minor
         religion = sunni
-        size = 375
+        size = 550
     }
 
     artisans = {
         culture = african_minor
         religion = sunni
-        size = 1575
+        size = 2175
     }
 
     soldiers = {
         culture = african_minor
         religion = sunni
-        size = 1150
+        size = 1125
     }
 
     farmers = {
         culture = african_minor
         religion = sunni
-        size = 96400
-    }
-
-    aristocrats = {
-        culture = african_minor
-        religion = sunni
-        size = 1800
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
-        size = 975
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 4800
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 1025
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 20000
+        size = 43000
     }
 
     slaves = {
@@ -121,130 +51,24 @@
         size = 6000
     }
 }
-#Dinguiraye (272000/68000 POPS)
-1881 = {
+#Kismayo (84000/21000 POPS)
+1870 = {
     aristocrats = {
         culture = african_minor
         religion = sunni
-        size = 565
+        size = 275
     }
 
     clergymen = {
         culture = african_minor
         religion = sunni
-        size = 300
+        size = 150
     }
 
     artisans = {
         culture = african_minor
         religion = sunni
-        size = 1165
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 1015
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 28900
-    }
-
-    aristocrats = {
-        culture = african_minor
-        religion = sunni
-        size = 565
-    }
-
-    officers = {
-        culture = african_minor
-        religion = sunni
-        size = 115
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
-        size = 300
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 1500
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 300
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 20225
-    }
-
-    aristocrats = {
-        culture = african_minor
-        religion = sunni
-        size = 200
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
-        size = 75
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 450
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 75
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 8250
-    }
-
-    slaves = {
-        culture = african_minor
-        religion = animist
-        size = 10000
-    }
-}
-#Bure Region (340000) #see Mali.txt and Ivory Coast.txt for balance of Region
-#uncolonized in 1836/ruled by Futa Jallon
-#Kankan (236000/59000 POPS)
-1882 = {
-    aristocrats = {
-        culture = african_minor
-        religion = sunni
-        size = 390
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
-        size = 115
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 600
+        size = 650
     }
 
     soldiers = {
@@ -256,118 +80,19 @@
     farmers = {
         culture = african_minor
         religion = sunni
-        size = 9450
+        size = 13775
     }
 
     aristocrats = {
         culture = african_minor
-        religion = sunni
-        size = 715
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
-        size = 375
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 1875
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 1025
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 36090
-    }
-
-    aristocrats = {
-        culture = african_minor
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
+        religion = animist
         size = 75
     }
 
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 450
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 115
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 8215
-    }
-
-    slaves = {
-        culture = african_minor
-        religion = animist
-        size = 4500
-    }
-}
-#uncolonized in 1836
-#Beyla (184000/46000 POPS)
-1883 = {
-    aristocrats = {
-        culture = african_minor
-        religion = sunni
-        size = 800
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = sunni
-        size = 400
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = sunni
-        size = 1650
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = sunni
-        size = 425
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = sunni
-        size = 12725
-    }
-
-    aristocrats = {
-        culture = african_minor
-        religion = animist
-        size = 100
-    }
-
     clergymen = {
         culture = african_minor
         religion = animist
-        size = 100
+        size = 50
     }
 
     artisans = {
@@ -379,18 +104,293 @@
     soldiers = {
         culture = african_minor
         religion = animist
-        size = 100
+        size = 50
     }
 
     farmers = {
         culture = african_minor
         religion = animist
-        size = 24550
+        size = 4575
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 1100
+    }
+}
+#uncolonized/ruled by the Sultan of Geledi in 1836
+#Baidoa (92000/23000 POPS)
+1869 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1175
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 20000
+    }
+}
+#Majerteyn Region (192000)
+#under the loose rule of Muscat via Sultan of Majerteyn in 1836
+#Hobye (76000/19000 POPS)
+1871 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 775
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 15500
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2000
+    }
+}
+#Busaso (116000/29000 POPS)
+1872 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 540
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 275
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1175
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 20950
     }
 
     slaves = {
         culture = african_minor
         religion = animist
         size = 5000
+    }
+}
+#Adal Region (244000)
+#under the loose rule of Egypt 1836
+#Berbera (188000/47000 POPS)
+1873 = {
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 890
+    }
+
+    bureaucrats = {
+        culture = somali
+        religion = sunni
+        size = 10
+    }
+
+    officers = {
+        culture = somali
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 450
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 1850
+    }
+
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 1750
+    }
+
+    farmers = {
+        culture = somali
+        religion = sunni
+        size = 32000
+    }
+
+    slaves = {
+        culture = oromo
+        religion = animist
+        size = 7000
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = animist
+        size = 3000
+    }
+}
+#Zayla (32000/8000 POPS)
+1874 = {
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = somali
+        religion = sunni
+        size = 7300
+    }
+}
+#Jibuti (28000/7000 POPS) #now part of Djibouti
+1875 = {
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 190
+    }
+
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = somali
+        religion = sunni
+        size = 3900
+    }
+
+    aristocrats = {
+        culture = afar
+        religion = sunni
+        size = 105
+    }
+
+    clergymen = {
+        culture = afar
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = afar
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = afar
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = afar
+        religion = sunni
+        size = 6625
     }
 }

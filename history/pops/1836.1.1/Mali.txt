@@ -1227,61 +1227,61 @@
 #Tessalit (16000/4000 POPS)
 1807 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 2625
     }
 
     aristocrats = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 800
     }
@@ -1289,61 +1289,61 @@
 #Araouane (12000/3000 POPS)
 2609 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 3500
     }
 
     aristocrats = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = african_minor
         religion = sunni
         size = 600
     }

@@ -154,61 +154,61 @@
 #was african minor
 1889 = {
     aristocrats = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 475
     }
 
     clergymen = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 250
     }
 
     artisans = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 1250
     }
 
     soldiers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 250
     }
 
     farmers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 22775
     }
 
     aristocrats = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 35475
     }
@@ -217,61 +217,61 @@
 #was african minor
 1890 = {
     aristocrats = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 550
     }
 
     soldiers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = mande
+        culture = african_minor
         religion = sunni
         size = 10025
     }
 
     aristocrats = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 425
     }
 
     clergymen = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 225
     }
 
     artisans = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 225
     }
 
     farmers = {
-        culture = mande
+        culture = african_minor
         religion = animist
         size = 65025
     }
@@ -279,25 +279,25 @@
 #Zwedru (168000/42000 POPS)
 1891 = {
     aristocrats = {
-        culture = kru
+        culture = african_minor
         religion = animist
         size = 425
     }
 
     soldiers = {
-        culture = kru
+        culture = african_minor
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = kru
+        culture = african_minor
         religion = animist
         size = 20975
     }
 
     farmers = {
-        culture = western_nigritic
+        culture = african_minor
         religion = animist
         size = 17300
     }

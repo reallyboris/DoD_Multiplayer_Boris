@@ -1017,73 +1017,73 @@
 #Negele (720000/180000 POPS)
 1864 = {
     aristocrats = {
-        culture = amhara
+        culture = african_minor
         religion = animist
         size = 1175
     }
 
     clergymen = {
-        culture = amhara
+        culture = african_minor
         religion = animist
         size = 660
     }
 
     artisans = {
-        culture = amhara
+        culture = african_minor
         religion = animist
         size = 2450
     }
 
     soldiers = {
-        culture = amhara
+        culture = african_minor
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = amhara
+        culture = african_minor
         religion = animist
         size = 48375
     }
 
     slaves = {
-        culture = amhara
+        culture = african_minor
         religion = animist
         size = 12750
     }
 
     aristocrats = {
-        culture = amhara
+        culture = african_minor
         religion = coptic
         size = 3325
     }
 
     clergymen = {
-        culture = amhara
+        culture = african_minor
         religion = coptic
         size = 1185
     }
 
     artisans = {
-        culture = amhara
+        culture = african_minor
         religion = coptic
         size = 6950
     }
 
     soldiers = {
-        culture = amhara
+        culture = african_minor
         religion = coptic
         size = 2000
     }
 
     farmers = {
-        culture = amhara
+        culture = african_minor
         religion = coptic
         size = 169995
     }
 
     slaves = {
-        culture = amhara
+        culture = african_minor
         religion = animist
         size = 36700
     }

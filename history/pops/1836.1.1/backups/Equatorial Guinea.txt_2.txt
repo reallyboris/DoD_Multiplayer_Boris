@@ -1,168 +1,152 @@
-#Gabon Region (180000)  #see Gulf of Guinea.txt for balance of region
-#uncolonized in 1836/under the influence of Teke
-#Libreville (48000/12000 POPS)
-1972 = {
+#Equatorial Guinea (143000)
+#Ruled By Spain in 1836
+#Fernando Po (11000/2750 POPS)
+1955 = {
     aristocrats = {
+        culture = castilian
+        religion = catholic
+        size = 3
+    }
+
+    bureaucrats = {
+        culture = castilian
+        religion = catholic
+        size = 2
+    }
+
+    clergymen = {
+        culture = castilian
+        religion = catholic
+        size = 5
+    }
+
+    artisans = {
+        culture = castilian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = castilian
+        religion = catholic
+        size = 5
+    }
+
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 10
+    }
+
+    officers = {
+        culture = forest_bantu
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 120
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 530
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 10
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 120
+    }
+
+    soldiers = {
         culture = african_minor
         religion = animist
         size = 50
     }
 
-    clergymen = {
-        culture = african_minor
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = african_minor
         religion = animist
-        size = 2700
+        size = 700
     }
 
-    aristocrats = {
-        culture = african_minor
+    slaves = {
+        culture = kru
         religion = animist
-        size = 150
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = animist
-        size = 450
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = animist
-        size = 8200
+        size = 630
     }
 }
-#Mayumbe (32000/8000 POPS)
-1974 = {
+#uncolonized in 1836
+#Bata (132000/33000 POPS)
+1973 = {
     aristocrats = {
-        culture = african_minor
-        religion = animist
-        size = 150
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = animist
-        size = 400
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = animist
-        size = 7300
-    }
-}
-#Moanda (28000/7000 POPS)
-1975 = {
-    aristocrats = {
-        culture = african_minor
-        religion = animist
-        size = 125
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
         culture = african_minor
         religion = animist
         size = 350
     }
 
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = animist
-        size = 6375
-    }
-}
-#uncolonized in 1836
-#Makokou (72000/18000 POPS)
-1976 = {
-    aristocrats = {
-        culture = african_minor
-        religion = animist
-        size = 150
-    }
-
     clergymen = {
         culture = african_minor
         religion = animist
-        size = 75
+        size = 300
     }
 
     artisans = {
         culture = african_minor
         religion = animist
-        size = 400
+        size = 1500
     }
 
     soldiers = {
         culture = african_minor
         religion = animist
-        size = 75
+        size = 350
     }
 
     farmers = {
         culture = african_minor
         religion = animist
-        size = 7300
+        size = 31500
     }
 
     aristocrats = {
         culture = african_minor
         religion = animist
-        size = 175
+        size = 100
     }
 
     clergymen = {
@@ -172,20 +156,26 @@
     }
 
     artisans = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 1000
+    }
+
+    slaves = {
         culture = african_minor
         religion = animist
         size = 500
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = animist
-        size = 9125
     }
 }

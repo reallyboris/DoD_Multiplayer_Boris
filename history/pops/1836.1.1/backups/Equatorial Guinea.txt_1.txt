@@ -1,164 +1,152 @@
-#Middle Congo Region (148000)
-#under the rule of Loango in 1836
-#Nkuna (400000/100000 POPS)
-1977 = {
+#Equatorial Guinea (143000)
+#Ruled By Spain in 1836
+#Fernando Po (11000/2750 POPS)
+1955 = {
     aristocrats = {
-        culture = african_minor
-        religion = animist
-        size = 1750
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = animist
-        size = 1100
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = animist
-        size = 4000
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = animist
-        size = 72250
-    }
-
-    slaves = {
-        culture = african_minor
-        religion = animist
-        size = 20000
-    }
-}
-#Madingou (160000/40000 POPS)
-1978 = {
-    aristocrats = {
-        culture = african_minor
-        religion = animist
-        size = 750
-    }
-
-    clergymen = {
-        culture = african_minor
-        religion = animist
-        size = 500
-    }
-
-    artisans = {
-        culture = african_minor
-        religion = animist
-        size = 1750
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 500
-    }
-
-    farmers = {
-        culture = african_minor
-        religion = animist
-        size = 26500
-    }
-
-    slaves = {
-        culture = african_minor
-        religion = animist
-        size = 10000
-    }
-}
-#Loango (320000/80000 POPS)
-2624 = {
-    aristocrats = {
-        culture = african_minor
-        religion = animist
-        size = 1500
+        culture = castilian
+        religion = catholic
+        size = 3
     }
 
     bureaucrats = {
-        culture = african_minor
-        religion = animist
-        size = 400
+        culture = castilian
+        religion = catholic
+        size = 2
     }
 
     clergymen = {
-        culture = african_minor
-        religion = animist
-        size = 750
+        culture = castilian
+        religion = catholic
+        size = 5
     }
 
     artisans = {
-        culture = african_minor
-        religion = animist
-        size = 3250
+        culture = castilian
+        religion = catholic
+        size = 5
     }
 
     soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 1000
+        culture = castilian
+        religion = catholic
+        size = 5
     }
 
-    farmers = {
-        culture = african_minor
-        religion = animist
-        size = 53500
-    }
-
-    slaves = {
-        culture = african_minor
-        religion = animist
-        size = 20000
-    }
-}
-#uncolonized in 1836
-#Djambala (28000/7000 POPS)
-1980 = {
     aristocrats = {
-        culture = african_minor
+        culture = forest_bantu
         religion = animist
-        size = 125
+        size = 10
+    }
+
+    officers = {
+        culture = forest_bantu
+        religion = animist
+        size = 20
     }
 
     clergymen = {
-        culture = african_minor
+        culture = forest_bantu
         religion = animist
-        size = 75
+        size = 20
     }
 
     artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 120
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 530
+    }
+
+    aristocrats = {
+        culture = ibo
+        religion = animist
+        size = 10
+    }
+
+    officers = {
+        culture = ibo
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = ibo
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = ibo
+        religion = animist
+        size = 120
+    }
+
+    soldiers = {
+        culture = ibo
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = ibo
+        religion = animist
+        size = 700
+    }
+
+    slaves = {
+        culture = kru
+        religion = animist
+        size = 630
+    }
+}
+#uncolonized in 1836
+#Bata (132000/33000 POPS)
+1973 = {
+    aristocrats = {
         culture = african_minor
         religion = animist
         size = 350
     }
 
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1500
+    }
+
     soldiers = {
         culture = african_minor
         religion = animist
-        size = 75
+        size = 350
     }
 
     farmers = {
         culture = african_minor
         religion = animist
-        size = 6375
+        size = 31500
     }
-}
-#Impfondo (32000/8000 POPS)
-1981 = {
+
     aristocrats = {
         culture = african_minor
         religion = animist
-        size = 150
+        size = 100
     }
 
     clergymen = {
@@ -170,7 +158,7 @@
     artisans = {
         culture = african_minor
         religion = animist
-        size = 400
+        size = 100
     }
 
     soldiers = {
@@ -182,7 +170,7 @@
     farmers = {
         culture = african_minor
         religion = animist
-        size = 7300
+        size = 1000
     }
 
     slaves = {

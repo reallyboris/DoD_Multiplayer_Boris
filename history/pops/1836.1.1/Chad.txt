@@ -718,31 +718,31 @@
 #Zouar (72000/18000 POPS)
 1825 = {
     aristocrats = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 1380
     }
@@ -751,37 +751,37 @@
 #Faya (56000/14000 POPS)
 1826 = {
     aristocrats = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 1080
     }
 
     farmers = {
-        culture = bedouin
+        culture = african_minor
         religion = sunni
         size = 300
     }

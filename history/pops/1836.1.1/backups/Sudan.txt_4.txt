@@ -291,37 +291,37 @@
     }
 
     aristocrats = {
-        culture = african_minor
+        culture = shilluk
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = african_minor
+        culture = shilluk
         religion = sunni
         size = 155
     }
 
     artisans = {
-        culture = african_minor
+        culture = shilluk
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = african_minor
+        culture = shilluk
         religion = sunni
         size = 1250
     }
 
     farmers = {
-        culture = african_minor
+        culture = shilluk
         religion = sunni
         size = 19625
     }
 
     slaves = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 13500
     }
@@ -419,7 +419,7 @@
     }
 
     slaves = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 10500
     }
@@ -487,67 +487,67 @@
     }
 
     aristocrats = {
-        culture = african_minor
+        culture = nuer
         religion = animist
         size = 1010
     }
 
     clergymen = {
-        culture = african_minor
+        culture = nuer
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = african_minor
+        culture = nuer
         religion = animist
         size = 2900
     }
 
     soldiers = {
-        culture = african_minor
+        culture = nuer
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = african_minor
+        culture = nuer
         religion = animist
         size = 68750
     }
 
     aristocrats = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 265
     }
 
     artisans = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 1055
     }
 
     soldiers = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 39565
     }
 
     slaves = {
-        culture = african_minor
+        culture = shilluk
         religion = animist
         size = 24500
     }
@@ -1103,31 +1103,31 @@
 #Salima (8000/2000 POPS)
 2564 = {
     aristocrats = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 2400
     }
@@ -1135,31 +1135,31 @@
 #Taoudenni - Now Bayuda (8000/2000 POPS)
 1806 = {
     aristocrats = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 500
     }

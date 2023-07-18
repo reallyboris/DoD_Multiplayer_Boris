@@ -98,31 +98,31 @@
 #Aleg (84000/21000 POPS)
 1777 = {
     officers = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 5
     }
 
     clergymen = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 850
     }
 
     farmers = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 13325
     }
 
     slaves = {
-        culture = african_minor
+        culture = zanj
         religion = animist
         size = 6000
     }

@@ -499,67 +499,67 @@
 #Agades (168000/42000 POPS)
 1812 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 500
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 300
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 15000
     }
 
     aristocrats = {
-        culture = hausa
+        culture = african_minor
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = hausa
+        culture = african_minor
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = hausa
+        culture = african_minor
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = hausa
+        culture = african_minor
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = hausa
+        culture = african_minor
         religion = sunni
         size = 20750
     }
 
     slaves = {
-        culture = baguirmi
+        culture = african_minor
         religion = animist
         size = 2000
     }
@@ -567,31 +567,31 @@
 #Arlit (16000/4000 POPS)
 1813 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 3625
     }
@@ -599,37 +599,37 @@
 #Madama (44000/11000 POPS)
 1814 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 550
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 9025
     }
 
     slaves = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 1000
     }
@@ -842,67 +842,67 @@
 #Bilma (36000/9000 POPS)
 1817 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 350
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = sunni
         size = 6375
     }
 
     aristocrats = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = teda
+        culture = african_minor
         religion = sunni
         size = 800
     }
 
     slaves = {
-        culture = baguirmi
+        culture = african_minor
         religion = animist
         size = 1000
     }

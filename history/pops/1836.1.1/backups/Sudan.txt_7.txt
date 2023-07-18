@@ -1103,31 +1103,31 @@
 #Salima (8000/2000 POPS)
 2564 = {
     aristocrats = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = sudanese
+        culture = african_minor
         religion = sunni
         size = 2400
     }

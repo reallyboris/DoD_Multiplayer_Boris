@@ -261,67 +261,67 @@
 #Saint-Louis (24000/6000 POPS)
 1784 = {
     aristocrats = {
-        culture = african_minor
+        culture = wolof
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = african_minor
+        culture = wolof
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = african_minor
+        culture = wolof
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = african_minor
+        culture = wolof
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = african_minor
+        culture = wolof
         religion = sunni
         size = 2700
     }
 
     slaves = {
-        culture = african_minor
+        culture = wolof
         religion = sunni
         size = 1100
     }
 
     aristocrats = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = african_minor
+        culture = maures
         religion = sunni
         size = 1700
     }
@@ -496,49 +496,49 @@
 #Podor (348000/87000 POPS)
 1789 = {
     aristocrats = {
-        culture = african_minor
+        culture = fulbe
         religion = sunni
         size = 1650
     }
 
     bureaucrats = {
-        culture = african_minor
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     officers = {
-        culture = african_minor
+        culture = fulbe
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = african_minor
+        culture = fulbe
         religion = sunni
         size = 900
     }
 
     artisans = {
-        culture = african_minor
+        culture = fulbe
         religion = sunni
         size = 3525
     }
 
     soldiers = {
-        culture = african_minor
+        culture = fulbe
         religion = sunni
         size = 1700
     }
 
     farmers = {
-        culture = african_minor
+        culture = fulbe
         religion = sunni
         size = 64000
     }
 
     slaves = {
-        culture = african_minor
+        culture = wolof
         religion = sunni
         size = 12000
     }

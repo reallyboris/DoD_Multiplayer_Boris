@@ -1,8 +1,8 @@
 capital = 1302
-primary_culture = tamil
-culture = malayalam
-culture = tamil
-culture = telegu
+primary_culture = south_indian
+culture = south_indian
+culture = south_indian
+culture = south_indian
 culture = marathi
 religion = hindu
 government = absolute_monarchy

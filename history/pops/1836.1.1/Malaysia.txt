@@ -40,7 +40,7 @@
 	}
 
 	artisans = {
-		culture = tamil
+		culture = south_indian
 		religion = hindu
 		size = 1100
 	}

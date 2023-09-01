@@ -13,11 +13,11 @@ culture = kashmiri
 culture = gujarati
 culture = sindi
 culture = rajput
-culture = marathi
-culture = malayalam
-culture = tamil
-culture = telegu
-culture = tamil
+culture = south_indian
+culture = south_indian
+culture = south_indian
+culture = south_indian
+culture = south_indian
 
 
 religion = hindu

@@ -919,7 +919,7 @@ country_event = {
 				OR = {
 					tag = MUG
 				}
-				THIS = { primary_culture = marathi }
+				THIS = { primary_culture = south_indian }
 				neighbour = THIS
 				is_vassal = no
 				NOT = {
@@ -944,17 +944,17 @@ country_event = {
 			limit = {
 				THIS = { NOT = { has_country_flag = crown_from_the_gutter } }
 				OR = {
-					primary_culture = tamil
-					primary_culture = tamil
-					primary_culture = telegu
-					primary_culture = malayalam
+					primary_culture = south_indian
+					primary_culture = south_indian
+					primary_culture = south_indian
+					primary_culture = south_indian
 				}
 				THIS = {
 					OR = {
-						primary_culture = tamil
-						primary_culture = tamil
-						primary_culture = telegu
-						primary_culture = malayalam
+						primary_culture = south_indian
+						primary_culture = south_indian
+						primary_culture = south_indian
+						primary_culture = south_indian
 					}
 				}
 				neighbour = THIS

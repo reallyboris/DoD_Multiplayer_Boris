@@ -1,5 +1,5 @@
 capital = 1313
-primary_culture = tamil
+primary_culture = south_indian
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0

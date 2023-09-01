@@ -1,5 +1,5 @@
 capital = 1270
-primary_culture = marathi
+primary_culture = south_indian
 culture = avadhi
 religion = hindu
 government = absolute_monarchy
@@ -31,7 +31,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = hindu_country

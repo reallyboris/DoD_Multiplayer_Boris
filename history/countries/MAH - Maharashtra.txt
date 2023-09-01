@@ -1,7 +1,7 @@
 capital = 1299
-primary_culture = marathi
+primary_culture = south_indian
 culture = sindi
-culture = tamil
+culture = south_indian
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0

@@ -39,9 +39,9 @@ country_event = {
 			owner = {
 				add_accepted_culture = kanauji
 				add_accepted_culture = south_indian
-				add_accepted_culture = rajput
-				add_accepted_culture = bihari
-				add_accepted_culture = bengali
+				add_accepted_culture = kanauji
+				add_accepted_culture = kanauji
+				add_accepted_culture = kanauji
 				add_accepted_culture = kanauji
 				add_accepted_culture = panjabi
 			}

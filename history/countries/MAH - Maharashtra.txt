@@ -1,6 +1,6 @@
 capital = 1299
 primary_culture = south_indian
-culture = sindi
+culture = kanauji
 culture = south_indian
 religion = hindu
 government = absolute_monarchy

@@ -1,5 +1,5 @@
 capital = 1322
-primary_culture = sinhala
+primary_culture = south_indian
 culture = south_indian
 religion = theravada
 government = absolute_monarchy

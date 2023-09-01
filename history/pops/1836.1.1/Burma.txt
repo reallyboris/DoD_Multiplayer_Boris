@@ -1281,13 +1281,13 @@
 	}
 
 	clergymen = {
-		culture = bengali
+		culture = kanauji
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = bengali
+		culture = kanauji
 		religion = sunni
 		size = 1950
 	}

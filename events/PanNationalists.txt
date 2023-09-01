@@ -884,13 +884,13 @@ country_event = {
 				}
 				THIS = {
 					OR = {
-						primary_culture = assamese
-						primary_culture = bengali
+						primary_culture = kanauji
+						primary_culture = kanauji
 						primary_culture = panjabi
 						primary_culture = kanauji
 						primary_culture = kanauji
-						primary_culture = bihari
-						primary_culture = oriya
+						primary_culture = kanauji
+						primary_culture = kanauji
 					}
 				}
 				neighbour = THIS
@@ -980,11 +980,11 @@ country_event = {
 		random_country = {
 			limit = {
 				THIS = { NOT = { has_country_flag = crown_from_the_gutter } }
-				primary_culture = rajput
+				primary_culture = kanauji
 				THIS = {
 					OR = {
-						primary_culture = rajput
-						primary_culture = gujarati
+						primary_culture = kanauji
+						primary_culture = kanauji
 					}
 				}
 				neighbour = THIS

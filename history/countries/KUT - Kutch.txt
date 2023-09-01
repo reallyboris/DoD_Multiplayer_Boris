@@ -1,5 +1,5 @@
 capital = 1293
-primary_culture = gujarati
+primary_culture = kanauji
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -30,7 +30,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 ruling_party = KUT_conservative

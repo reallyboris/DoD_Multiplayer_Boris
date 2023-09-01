@@ -1,7 +1,7 @@
 capital = 1338
-primary_culture = shan
+primary_culture = burmese
 culture = thai
-culture = kachin
+culture = burmese
 religion = theravada
 government = absolute_monarchy
 plurality = 0.0
@@ -31,7 +31,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = theravada_country

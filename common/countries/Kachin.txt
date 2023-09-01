@@ -108,22 +108,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Mytykina Dartsendo Gyantse Gartse Kachin Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+		Mytykina Dartsendo Gyantse Gartse vietnamese Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
 	}
 	ironclad = {
-		Mytykina Dartsendo Gyantse Gartse Kachin Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+		Mytykina Dartsendo Gyantse Gartse vietnamese Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
 	}
 	manowar = {
-		Mytykina Dartsendo Gyantse Gartse Kachin Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+		Mytykina Dartsendo Gyantse Gartse vietnamese Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
 	}
 	cruiser = {
-		Mytykina Dartsendo Gyantse Gartse Kachin Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+		Mytykina Dartsendo Gyantse Gartse vietnamese Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
 	}
 	frigate = {
-		Mytykina Dartsendo Gyantse Gartse Kachin Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+		Mytykina Dartsendo Gyantse Gartse vietnamese Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
 	}
 	monitor = {
-		Mytykina Dartsendo Gyantse Gartse Kachin Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+		Mytykina Dartsendo Gyantse Gartse vietnamese Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
 	}
 	clipper_transport = {
 		
@@ -132,6 +132,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Mytykina Dartsendo Gyantse Gartse Kachin Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+		Mytykina Dartsendo Gyantse Gartse vietnamese Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
 	}
 }

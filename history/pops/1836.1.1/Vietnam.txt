@@ -674,32 +674,32 @@
 	}
 
 	aristocrats = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 450
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 225
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 1100
 	}
 
 	soldiers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 225
 
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 19975
 	}
@@ -725,32 +725,32 @@
 #Pleiku (148000 37000 POPS)
 1378 = {
 	aristocrats = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 700
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 325
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 1700
 	}
 
 	soldiers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 350
 
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 30925
 	}
@@ -762,7 +762,7 @@
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 50
 	}
@@ -813,32 +813,32 @@
 	}
 
 	aristocrats = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 500
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 225
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 1200
 	}
 
 	soldiers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 250
 
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 21825
 	}
@@ -848,50 +848,50 @@
 #Saigon (848000/212000 POPS)
 1380 = {
 	aristocrats = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 3600
 	}
 
 	bureaucrats = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 325
 	}
 
 	officers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 300
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 1775
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 7500
 	}
 
 	soldiers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 1775
 
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 161725
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 8000
 	}
@@ -953,50 +953,50 @@
 #Dongquai (244000/61000 POPS)
 1381 = {
 	aristocrats = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 900
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 475
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 2400
 	}
 
 	soldiers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 475
 
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 43750
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 50
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 250
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 4700
 	}
@@ -1035,57 +1035,57 @@
 #Hatien (172000/43000 POPS)
 1382 = {
 	aristocrats = {
-		culture = khmer
+		culture = vietnamese
 		religion = mahayana
 		size = 300
 	}
 
 	clergymen = {
-		culture = khmer
+		culture = vietnamese
 		religion = mahayana
 		size = 125
 	}
 
 	artisans = {
-		culture = khmer
+		culture = vietnamese
 		religion = mahayana
 		size = 700
 	}
 
 	soldiers = {
-		culture = khmer
+		culture = vietnamese
 		religion = mahayana
 		size = 150
 
 	}
 
 	farmers = {
-		culture = khmer
+		culture = vietnamese
 		religion = mahayana
 		size = 12725
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 300
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 1450
 	}
 
 	soldiers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 250
 
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 27000
 	}
@@ -1093,57 +1093,57 @@
 #Vinhlong (120000/30000 POPS)
 1383 = {
 	aristocrats = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 300
 	}
 
 	clergymen = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 125
 	}
 
 	artisans = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 700
 	}
 
 	soldiers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 1100
 
 	}
 
 	farmers = {
-		culture = champa
+		culture = vietnamese
 		religion = hindu
 		size = 11875
 	}
 
 	clergymen = {
-		culture = khmer
+		culture = vietnamese
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = khmer
+		culture = vietnamese
 		religion = theravada
 		size = 800
 	}
 
 	soldiers = {
-		culture = khmer
+		culture = vietnamese
 		religion = theravada
 		size = 150
 
 	}
 
 	farmers = {
-		culture = khmer
+		culture = vietnamese
 		religion = theravada
 		size = 14900
 	}

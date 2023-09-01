@@ -1,5 +1,5 @@
 capital = 1380
-primary_culture = champa
+primary_culture = vietnamese
 religion = hindu
 government = absolute_monarchy 
 plurality = 0.0

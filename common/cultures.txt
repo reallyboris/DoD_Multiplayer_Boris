@@ -1445,16 +1445,6 @@ south_asian = {
 austronesian = {
 	leader = asian
 	unit = AsianGC
-	champa = {
-		color = {180 23 75}
-		first_names = { "Nguyen Phuoc" "Ton That" "Noang Cao" "Bui An" Nguyen Truong Tran 
-			
-		}
-		
-		last_names = { "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep" "Mien Lam" "Mien Trinh" "Buu Lan"
-               
-		}
-	}
 	malay = {
 		color = {85 78 89}
 		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
@@ -1463,77 +1453,6 @@ austronesian = {
 		
 		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul
                
-		}
-	}
-	filipino = {
-		color = {200 220 30}
-		first_names = { Abul Muhammad Safiuddin Ahmad Muhieddin Zainul Cirebon Amir Arifin Panembahan Haji Anom 
-			
-		}
-		
-		last_names = { Salihin Mufakhir Alaeddin Muttakin Sepuh Nurus Khairuddin Djalaluddin Emiruddin Akbaruddin Tajul Natadiningrat
-               
-		}
-	}
-	javan = {
-		color = {154 32 88}
-		first_names = { Abul Muhammad Safiuddin Ahmad Muhieddin Zainul Cirebon Amir Arifin Panembahan Haji Anom 
-			
-		}
-		
-		last_names = { Salihin Mufakhir Alaeddin Muttakin Sepuh Nurus Khairuddin Djalaluddin Emiruddin Akbaruddin Tajul Natadiningrat
-               
-		}
-	}
-	acehnese = {
-		color = {55 90 55}
-		first_names = { Teuku Ismed Surya Hilbram Hamzah Nuruddin Alauddin Ali Iskander Salahuddin "Ratu Safiatuddin" Daud Hasan "Cut Nyak"
-		Azwar Hasballah Irwandi Jusman Mustafa Zaini
-		}
-		
-		last_names = { Abdullah Abubakar Nazar Djamal Saad Umar Meutia Dhien di Tiro Bereueh "Taj ul-Alam" Thani Muda "al Qahhar" Fansuri
-		"ar-Raniri" Sofyan   
-		}
-
-	}
-	balinese = {
-		color = {219 139 34}
-		first_names = { "I Gusti" "Anak Agung" "Tjokorda" "Ida I Dewa" "Dewa Agung" "I Dewa"	
-		}
-		
-		last_names = { Wayan Made Nyoman Ketut Putu Kadek Komang NgNga      
-		}
-	}
-	moluccan = {
-		color = {100 132 116}
-		first_names = { Abul Muhammad Safiuddin Ahmad Muhieddin Zainul Cirebon Amir Arifin Panembahan Haji Anom 
-			
-		}
-		
-		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz
-               
-		}
-	}
-	polynesian = {
-		color = {89 35 168}
-		first_names = { Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka "Te Taulu" Tavita Malietoa Iosefo William 
-		}
-		last_names = { Ma'ufanga Feletoa Moengangongo Tuabayi Maeakafa "Te Fuli" Ielemia
-		}
-	}
-	maori = {
-		color = {95 14 187}
-		first_names = { Potatau Tukaroto Matutaera Tawhiao Mahuta "Te Rata" Koroki "Te Ata-i" Rangi-Kahu 
-		}
-		last_names = { Wherowhero Kenena Raouparah Herangi Ataarangikaahu 
-		}
-	}
-	malagasy = {
-		color = {87 164 95}
-		first_names = { Radama Rainilaiarivony Rabiby Andriamanely Ndriantompoinairivo Tonanahary Ratsimivila Ramasoandro Andriantsirotso Lamboina Tsialana Tsimiharo
-		}
-
-		last_names = { Tsiranana Ramanantsoa Ratsimandrava Andriamahazo Ratsiraka
 		}
 	}
 
@@ -1554,26 +1473,6 @@ southeast_asian = {
 		}
 		radicalism = 5
 	}
-	dayak = {
-		color = {0 35 65}
-		first_names = { Shahabuddin Randa Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
-			
-		}
-		
-		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul
-               
-		}
-	}	
-	khmer = {
-		color = {220 86 34}
-		first_names = { Ang Sisowath Norodom Pok Satha Thommo 
-			
-		}
-		
-		last_names = { Eng Chan Em Snguon Mey Reachea Tong Non
-               
-		}
-	}
 	thai = {
 		color = {76 99 150}
 		first_names = { Nangklao Mongkut Rama Chulalongkorn Chao Vajiravudh Prajadhipok Naritsaranuwatiwong Phya Plaek
@@ -1581,26 +1480,6 @@ southeast_asian = {
 		}
 		
 		last_names = { Suriyawongse Saovabha Chichalerm "Praya Siri" Nitithada Phonphayuhasena
-               
-		}
-	}
-	lao = {
-		color = {90 45 154}
-		first_names = { Manthaturath Anurutha Unkeo Sukha Chantha Unkham Sakkarin Sisavang Setthathirath Nanthasen Ong Phraya
-			
-		}
-		
-		last_names = { Vong Kuman S�m Bun Supho Long Intharavong Anuvong
-               
-		}
-	}
-	shan = {
-		color = {76 122 90}
-		first_names = { Hswe Hs� Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun
-			
-		}
-		
-		last_names = { Cheng Kaw M�ng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min
                
 		}
 	}
@@ -1621,26 +1500,6 @@ southeast_asian = {
 		}
 		
 		last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
-               
-		}
-	}
-	kachin = {
-		color = {255 98 76}
-		first_names = { Sama Sinwa U Zan Hta Duwa Ding Ga Hkyeng
-			
-		}
-		
-		last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
-               
-		}
-	}
-	karen = {
-		color = {99 88 122}
-		first_names = { Po La Paban Hkun Maung Papw Sao Saw
-			
-		}
-		
-		last_names = { Che Baw U Lawi Lasa Pyatin "Law Paw" Kyi Pun Nge Bye Kye
                
 		}
 	}
@@ -1842,20 +1701,6 @@ oceanic = {
 		first_names = { Nemarluk Umbarra Wylie Yagan Tollamareena Pemulwy Mokare Derrimut Bennelong Billibellary
 		}
 		last_names = { Bunurong Lanne Noongar Mullagh Windich Wonga
-		}
-	}
-	melanesian = {
-		color = {187 42 167}
-		first_names = { Ti-Toorou Ti-Quatchium Kaoua Kanendjo Samuel Ti-Abel  Seru Epenisa Tamavunisa Yavala Ralulu Raivalita Rasolo Lubati Taltai Eroni
-		}
-		last_names = { Hortense Vendegou Cakobau Cokanauto Qaraniqio Banuve Loganimoce Tupou Lakeba
-		}
-	}
-	micronesian = {
-		color = {68 213 88}
-		first_names = { Tem Makiatia Takahihi Tikoro Hakana Hakapeke Wekeia Poiaka Maehua Tawehi
-		}
-		last_names = { Tetabo Namoriki Karotu Tawaia Baiteke Binoka Bauro Tokatake Panena Mensile Sapwasap Totonu 
 		}
 	}
 }

@@ -107,21 +107,21 @@ political_decisions = {
 			add_accepted_culture = south_indian
 			add_accepted_culture = south_indian
 			add_accepted_culture = south_indian
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
 			add_accepted_culture = panjabi
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
 			add_accepted_culture = south_indian
 			add_accepted_culture = burmese
 			add_accepted_culture = pashtun
 			add_accepted_culture = nepali
-			add_accepted_culture = kanauji
+			add_accepted_culture = north_indian
 			AFG_1214 = { add_core = BHA }
 			AFG_1217 = { add_core = BHA }
 			KAL_1221 = { add_core = BHA }
@@ -183,19 +183,19 @@ political_decisions = {
 		effect = {
 			prestige = 40
 			change_tag = HND
-            add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
+            add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
 			add_accepted_culture = south_indian
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
 			add_accepted_culture = panjabi
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
-			add_accepted_culture = kanauji
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
+			add_accepted_culture = north_indian
 			any_country = {
 				limit = {
 					NOT = {
@@ -240,7 +240,7 @@ political_decisions = {
 	set_country_flag = PNJ_capital
 	primary_culture = panjabi 
 	add_accepted_culture = pashtun
-	add_accepted_culture = kanauji
+	add_accepted_culture = north_indian
 	PNJ = { all_core = { add_core = THIS } }
 	any_country = { limit = { tag = AFG government = feudal_monarchy } government = absolute_monarchy }
 	}
@@ -263,7 +263,7 @@ political_decisions = {
 	
 	effect = { 
 	BEN = { all_core = { add_core = THIS } }
-	add_accepted_culture = kanauji
+	add_accepted_culture = north_indian
 	set_country_flag = Bengal_MUG
 	}
 	

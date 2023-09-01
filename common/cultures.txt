@@ -1528,7 +1528,7 @@ south_asian = {
                
 		}
 	}
-	kanauji = {
+	north_indian = {
 		color = {90 190 41}
 		first_names = { Lokendra Raghuraj Vijay Vishvanath Pheran Jugal Parbhu Narayan Ishvari Udit Prasan Mahip
 			

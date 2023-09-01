@@ -75,7 +75,7 @@
 	}
 
 	slaves = {
-		culture = kanauji
+		culture = north_indian
 		religion = hindu
 		size = 7000
 	}

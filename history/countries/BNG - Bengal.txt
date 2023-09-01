@@ -1,6 +1,6 @@
 capital = 1251
-primary_culture = kanauji
-culture = kanauji
+primary_culture = north_indian
+culture = north_indian
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0

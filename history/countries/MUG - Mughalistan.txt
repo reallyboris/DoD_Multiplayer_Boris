@@ -1,10 +1,10 @@
 capital = 1236
-primary_culture = kanauji
+primary_culture = north_indian
 culture = panjabi
 culture = south_indian
 culture = south_indian
-culture = kanauji
-culture = kanauji
+culture = north_indian
+culture = north_indian
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

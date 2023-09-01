@@ -1,6 +1,6 @@
 capital = 1423
 primary_culture = malay
-culture = dayak
+culture = malay
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -31,7 +31,8 @@ school_reforms = no_schools
 conscription = two_year_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 ruling_party = JAV_conservative

@@ -1,5 +1,5 @@
 capital = 1455
-primary_culture = filipino
+primary_culture = malay
 culture = asian_minor
 religion = catholic
 government = presidential_dictatorship
@@ -30,7 +30,8 @@ school_reforms = no_schools
 conscription = two_year_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = catholic_country

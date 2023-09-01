@@ -1,5 +1,5 @@
 capital = 2528
-primary_culture = melanesian
+primary_culture = malay
 religion = animist
 government = feudal_monarchy
 plurality = 0.0

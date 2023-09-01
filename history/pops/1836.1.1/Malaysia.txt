@@ -531,32 +531,32 @@
 	}
 
 	aristocrats = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 525
 	}
 
 	soldiers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 125
 
 	}
 
 	farmers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 10125
 	}
@@ -613,32 +613,32 @@
 	}
 
 	aristocrats = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 100
 
 	}
 
 	farmers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 7375
 	}
@@ -646,32 +646,32 @@
 #Api (56000/14000 POPS)
 1396 = {
 	aristocrats = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 75
 
 	}
 
 	farmers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 5575
 	}
@@ -729,32 +729,32 @@
 #Sandakan (40000/10000 POPS)
 1397 = {
 	aristocrats = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 75
 
 	}
 
 	farmers = {
-		culture = dayak
+		culture = malay
 		religion = animist
 		size = 6475
 	}

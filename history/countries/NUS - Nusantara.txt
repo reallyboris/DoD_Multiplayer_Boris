@@ -1,15 +1,15 @@
 capital = 1417
-primary_culture = javan
+primary_culture = malay
 culture = vietnamese
 culture = malay
-culture = moluccan
-culture = filipino
+culture = malay
+culture = malay
 culture = min
-culture = melanesian
+culture = malay
 culture = hawaiian
-culture = polynesian
-culture = malagasy
-culture = maori
+culture = malay
+culture = malay
+culture = malay
 
 religion = sunni
 government = hms_government

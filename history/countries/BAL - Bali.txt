@@ -1,7 +1,7 @@
 capital = 1438
-primary_culture = balinese
-culture = moluccan
-culture = javan
+primary_culture = malay
+culture = malay
+culture = malay
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0
@@ -30,7 +30,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = hindu_country

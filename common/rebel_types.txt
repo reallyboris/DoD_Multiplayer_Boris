@@ -4651,7 +4651,7 @@ native_rebels = {
 					is_culture_group = east_african
 					is_culture_group = southern_african
 					is_culture_group = austronesian
-					culture = maori
+					culture = malay
 				}
 			}
 		}

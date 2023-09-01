@@ -4895,51 +4895,51 @@
 #Gwalior (1184000/296000 POPS)
 1270 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 250
 	}
 
 	officers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 300
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 4375
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 9000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 257075
 	}
@@ -4973,44 +4973,44 @@
 #Indore (1048000/262000 POPS)
 1271 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2600
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 250
 	}
 
 	officers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 9000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 233400
 	}
@@ -5044,51 +5044,51 @@
 #Bhopal (812000/203000 POPS)
 1272 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 200
 	}
 
 	officers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 200
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 7500
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 181100
 	}
@@ -5307,51 +5307,51 @@
 #Jubbulpore (3024000/756000 POPS)
 1275 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 7500
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 7000
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 850
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 10000
 	}
 	
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1500
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 668650
 	}
@@ -5396,32 +5396,32 @@
 #Hoshangabad (596000/149000 POPS)
 1276 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1500
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1500
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 7500
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1500
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 125000
 	}
@@ -5456,57 +5456,57 @@
 #Nagpur (1848000/462000 POPS)
 1277 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3750
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1150
 	}
 
 	officers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 750
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3750
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 10000
 	}
 	
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 750
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 337850
 	}
@@ -5570,32 +5570,32 @@
 #Raipur (804000/201000 POPS)
 1280 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 850
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 800
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 7000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 800
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 70550
 	}
@@ -5634,32 +5634,32 @@
 #Bilaspur (672000/168000 POPS)
 1281 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 850
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 850
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 5000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1100
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 74300
 	}
@@ -5699,32 +5699,32 @@
 #Amaraoti (1268000/317000 POPS) 
 1278 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 7500
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 280500
 	}
@@ -6071,32 +6071,32 @@
 #Aurangabad (1244000/311000 POPS)
 1284 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2250
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 7500
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 249750
 	}
@@ -6135,32 +6135,32 @@
 #Nizamabad (1052000/263000 POPS)
 1285 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1500
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1750
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 6500
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 208350
 	}
@@ -7151,57 +7151,57 @@
 #Bombay (2680000/670000 POPS)
 1297 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 5000
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 5000
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1500
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 9000
 	}
 	
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 9000
 	}
 	
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 320000
 	}
@@ -7213,19 +7213,19 @@
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 1950
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 2000
 	}
@@ -7373,32 +7373,32 @@
 #Nasik (796000/199000 POPS)
 1298 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1250
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 5000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 181750
 	}
@@ -7437,32 +7437,32 @@
 #Poona (1196000/299000 POPS)
 1299 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 10000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 3000
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 255500
 	}
@@ -7501,38 +7501,38 @@
 #Bijapur (1044000/261000 POPS)
 1300 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 1100
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 226500
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 9000
 	}
@@ -7571,32 +7571,32 @@
 #Kolhapur (880000/220000 POPS)
 1301 = {
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2250
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2500
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 8000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 2250
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 198000
 	}
@@ -7756,63 +7756,63 @@
 	}
 
 	aristocrats = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 2300
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 1100
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = catholic
 		size = 43725
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 100
 	}
 
 	artisans = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 500
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 100
 
 	}
 
 	farmers = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 9300
 	}

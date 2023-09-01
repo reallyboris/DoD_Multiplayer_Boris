@@ -1679,7 +1679,7 @@
 	}
 
 	slaves = {
-		culture = marathi
+		culture = south_indian
 		religion = hindu
 		size = 6000
 	}

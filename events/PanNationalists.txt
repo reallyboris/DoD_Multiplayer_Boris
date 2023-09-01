@@ -945,14 +945,14 @@ country_event = {
 				THIS = { NOT = { has_country_flag = crown_from_the_gutter } }
 				OR = {
 					primary_culture = tamil
-					primary_culture = kannada
+					primary_culture = tamil
 					primary_culture = telegu
 					primary_culture = malayalam
 				}
 				THIS = {
 					OR = {
 						primary_culture = tamil
-						primary_culture = kannada
+						primary_culture = tamil
 						primary_culture = telegu
 						primary_culture = malayalam
 					}

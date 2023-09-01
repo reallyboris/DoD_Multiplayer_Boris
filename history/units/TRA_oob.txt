@@ -59,25 +59,25 @@ army = {
 	name = "Army of Mysore"
 	location = 1314
 	regiment = {
-		name= "1. Kannada infantry"
+		name= "1. tamil infantry"
 		type = infantry
 		home = 1317
 	}
 
 	regiment = {
-		name= "2. Kannada infantry"
+		name= "2. tamil infantry"
 		type = infantry
 		home = 1317
 	}
 
 	regiment = {
-		name= "3. Kannada infantry"
+		name= "3. tamil infantry"
 		type = infantry
 		home = 1317
 	}
 
 	regiment = {
-		name= "4. Kannada infantry"
+		name= "4. tamil infantry"
 		type = infantry
 		home = 1314
 	}

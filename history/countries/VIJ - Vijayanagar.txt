@@ -1,5 +1,5 @@
 capital = 1302
-primary_culture = kannada
+primary_culture = tamil
 culture = malayalam
 culture = tamil
 culture = telegu

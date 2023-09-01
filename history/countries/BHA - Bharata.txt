@@ -15,7 +15,7 @@ culture = sindi
 culture = rajput
 culture = marathi
 culture = malayalam
-culture = kannada
+culture = tamil
 culture = telegu
 culture = tamil
 

@@ -1,5 +1,5 @@
 capital = 1251
-primary_culture = avadhi
+primary_culture = kanauji
 culture = bihari
 culture = kanauji
 culture = assamese

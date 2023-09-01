@@ -1624,32 +1624,32 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 650
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 650
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 650
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 57950
 	}
@@ -1689,32 +1689,32 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 600
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 625
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 2400
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 750
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 50625
 	}
@@ -1805,38 +1805,38 @@
 #Delhi (1356000/339000 POPS)
 1236 = {
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1100
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1750
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1125
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 6000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1100
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 80125
 	}
@@ -1992,32 +1992,32 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 2500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 2250
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 6000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 2000
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 206250
 	}
@@ -2025,63 +2025,63 @@
 #Dehra Dun (952000/238000 POPS)
 1238 = {
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 16250
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1250
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1750
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 7000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1750
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 157250
 	}
@@ -2120,70 +2120,70 @@
 #Meerut (1580000/395000 POPS)
 1239 = {
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 500
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 24375
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 4000
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 500
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 338000
 	}
@@ -2191,82 +2191,82 @@
 #Agra (4180000/1045000 POPS)
 1240 = {
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1100
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1100
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 85500
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 7500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 11250
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3000
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 875250
 	}
@@ -2274,76 +2274,76 @@
 #Kanpur (3720000/930000 POPS)
 1241 = {
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 7500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 8750
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 2000
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 736750
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1750
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1375
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 9000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1500
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 118375
 	}
@@ -2601,149 +2601,149 @@
 #Lucknow (2756000/689000 POPS)
 1242 = {
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1250
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 500
 	}
 
 	officers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1125
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1500
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 56125
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 700
 	}
 
 	officers = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 750
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 275
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 5000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 1100
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 5525
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 4500
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 5500
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 2000
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 528500
 	}
@@ -2751,82 +2751,82 @@
 #Fyzabad (2064000/516000 POPS)
 1244 = {
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 4000
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 5000
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 5000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 1500
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = hindu
 		size = 454500
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 700
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1100
 	}
 	
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 500
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 21400
 	}
@@ -4429,32 +4429,32 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 300
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 8325
 	}
@@ -4512,26 +4512,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2500
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 100
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 5325
 	}
@@ -4602,32 +4602,32 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 4200
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2500
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 200
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 7100
 	}
@@ -4686,26 +4686,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 100
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2825
 	}
@@ -4770,38 +4770,38 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 5050
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 600
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 59050
 	}
@@ -4866,26 +4866,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 50
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 900
 	}
@@ -4945,26 +4945,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 200
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 8650
 	}
@@ -5016,26 +5016,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 50
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2875
 	}
@@ -5094,26 +5094,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2500
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 50
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 400
 	}
@@ -5190,19 +5190,19 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 950
 	}
@@ -5254,19 +5254,19 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 4000
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1925
 	}
@@ -5357,38 +5357,38 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 25950
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 25
 	}
@@ -5427,26 +5427,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 100
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 11200
 	}
@@ -5512,26 +5512,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 350
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 28300
 	}
@@ -5730,26 +5730,26 @@
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 8000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 300
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 11500
 	}
@@ -5982,88 +5982,88 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1250
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2250
 	}
 
 	officers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2000
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 625
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 3000
 
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1000
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 13875
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 50
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 4000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 75
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = shiite
 		size = 1835
 	}
@@ -6102,32 +6102,32 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 8000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 700
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 36900
 	}
@@ -6166,32 +6166,32 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1100
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 7000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 800
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 33700
 	}
@@ -6230,32 +6230,32 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 150
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 4525
 	}
@@ -6301,38 +6301,38 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 250
 
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = kanauji
 		religion = sunni
 		size = 5350
 	}

@@ -1,5 +1,5 @@
 capital = 1236
-primary_culture = avadhi
+primary_culture = kanauji
 culture = panjabi
 culture = south_indian
 culture = south_indian

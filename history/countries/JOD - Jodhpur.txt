@@ -1,6 +1,5 @@
 capital = 1266
 primary_culture = north_indian
-culture = south_indian
 religion = hindu
 government = feudal_monarchy
 plurality = 0.0

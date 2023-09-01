@@ -32,10 +32,6 @@ political_decisions = {
 			capital = 1304
 			change_tag = DRA
 			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
 			any_country = {
 				limit = {
 					NOT = {
@@ -102,26 +98,12 @@ political_decisions = {
 			DRA = { all_core = {  add_core = BHA } }
 			HND = { all_core = { add_core = BHA } }
 			change_tag = BHA
-			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
 			add_accepted_culture = north_indian
 			add_accepted_culture = panjabi
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
 			add_accepted_culture = south_indian
 			add_accepted_culture = burmese
 			add_accepted_culture = pashtun
 			add_accepted_culture = nepali
-			add_accepted_culture = north_indian
 			AFG_1214 = { add_core = BHA }
 			AFG_1217 = { add_core = BHA }
 			KAL_1221 = { add_core = BHA }
@@ -185,17 +167,7 @@ political_decisions = {
 			change_tag = HND
             add_accepted_culture = north_indian
 			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = south_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
 			add_accepted_culture = panjabi
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
-			add_accepted_culture = north_indian
 			any_country = {
 				limit = {
 					NOT = {

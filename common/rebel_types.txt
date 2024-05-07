@@ -3707,6 +3707,209 @@ separatist_rebels = {
 	}
 }
 
+
+
+
+
+###################################
+# Chinese nationalists
+###################################
+chinese_nationalists = {
+	icon = 15
+	
+	area = nation_culture 				# Stays within provinces of their culture
+	
+	# <this is the government in the country> = <this is what the rebels want>
+	government = {
+		proletarian_dictatorship = proletarian_dictatorship
+		presidential_dictatorship = presidential_dictatorship
+		bourgeois_dictatorship = bourgeois_dictatorship
+		fascist_dictatorship = fascist_dictatorship
+		absolute_monarchy = absolute_monarchy
+		prussian_constitutionalism = prussian_constitutionalism
+		hms_government = hms_government
+		democracy = democracy
+		theocracy = theocracy
+		feudal_monarchy = feudal_monarchy
+		merchant_republic = merchant_republic
+	}
+	
+	
+	defection = none		# If the country seeks independence, defection specifies what type of provinces it wants.
+	independence = none
+	defect_delay = 3		# Can spontaneously declare independence after X months (earliest)
+	
+	allow_all_cultures = no
+	allow_all_religions = yes
+	allow_all_ideologies = yes
+	
+	ideology = liberal
+	resilient = yes					# Does not disband on retreat
+	reinforcing = yes				# Does not receive reinforcements
+	general = yes					# Does use generals
+	smart = yes					# Does not assault forts, tactically withdraw from battle, etc.
+	unit_transfer = no				# Units do remain after enforcing demands.
+	
+	occupation_mult = 5.0			# The amount of strength this rebel gains from taking provinces	
+
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the faction's strength
+	will_rise = {
+		factor = 0.5
+		modifier = {
+			war = yes
+			factor = 0.8
+		}
+		modifier = {
+			war_exhaustion = 4
+			factor = 0.95
+		}
+		modifier = {
+			war_exhaustion = 6
+			factor = 0.95
+		}
+		modifier = {
+			war_exhaustion = 8
+			factor = 0.95
+		}
+		modifier = {
+			factor = 0.5
+			has_country_modifier = springtime_of_nations
+		}
+		modifier = {
+			factor = 0.5
+			has_country_modifier = global_liberal_agitation
+		}
+	}
+	
+	# The rebel type with the highest modifier for this pop gets picked
+	spawn_chance = {
+		factor = 100
+		modifier = {
+			factor = 0
+			OR = {
+				NOT = {has_global_flag = chinese_rebels_activated }
+				country = {is_culture_group = chinese }
+				NOT = { is_culture_group = chinese }
+				NOT = { location = { is_core = CHI } }
+				# manchuria exceptions
+				location = { province_id =  1480 }
+				location = { province_id =  1479 }
+				location = { province_id =  1555 }
+				location = { province_id =  1533 }
+				location = { province_id =  1552 }
+				location = { province_id =  1002 }
+				location = { province_id =  1553 }
+				location = { province_id =  1554 }
+				location = { province_id =  1082 }
+				location = { province_id =  1083 }
+				location = { province_id =  2617 }
+				location = { province_id =  1084 }
+				location = { province_id =  1085 }
+				location = { province_id =  1499 }
+			
+			}
+		}
+	}
+ 
+ 	#This is checked for EACH province in the Area of Operations
+	movement_evaluation = {
+		factor = 1
+		modifier = {
+			factor = 0.1
+			units_in_province = 1
+		}
+		modifier = {
+			factor = 0.001
+			controlled_by = REB
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 8
+		}
+		modifier = {
+			factor = 2.0
+			is_capital = yes
+		}
+		modifier = {
+			factor = 0.4
+			country = {
+				has_country_modifier = springtime_of_nations
+			}
+		}
+	}
+	
+ 	# Province Scope
+ 	siege_won_trigger = {
+		NOT = {
+			OR = {
+				has_province_modifier = war_torn
+				has_province_modifier = patriot_uprising
+			}
+		}
+ 	}
+	
+	siege_won_effect = {
+		add_province_modifier = {
+			name = war_torn
+			duration = 365
+		}
+		add_province_modifier = {
+			name = patriot_uprising
+			duration = 1095
+		}
+	}
+	
+
+	# Country scope
+	demands_enforced_trigger = {
+		capital_scope = {
+			controlled_by = REB
+			province_control_days = 90
+		}
+	}
+	demands_enforced_effect = {
+		prestige_factor = -0.2
+		any_owned = {
+			limit = {
+				any_core = {
+					exists = yes
+					NOT = { is_primary_culture = THIS }
+					NOT = { has_province_modifier = patriot_uprising }
+				}
+			}
+			add_province_modifier = {
+				name = patriot_uprising
+				duration = 1095
+			}
+		}
+		any_country = {
+			limit = {
+				exists = yes
+				any_core = {
+					owned_by = THIS
+					has_province_modifier = patriot_uprising
+				}
+			}
+			country_event = 97700
+		}
+	}
+}
+
+
+
+
+
+
+
+
 #NNM/PDM Rebel Type
 ###################################
 # Militant Socialists

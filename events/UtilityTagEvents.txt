@@ -469,6 +469,36 @@ country_event = {
 				}
 				set_country_flag = modern_central_bank_system_invented
 			}
+			# chinese militancy increase when owned by foreigners if flag is enabled
+			any_country = {
+				limit = {
+					has_global_flag = chinese_rebels_activated
+					NOT = { is_culture_group = chinese}
+				}
+				any_pop = {
+					limit = {
+						is_culture_group = chinese
+						location = { is_core = CHI }
+						# manchuria exceptions
+						NOT = {location = { province_id =  1480 }}
+						NOT = {location = { province_id =  1479 }}
+						NOT = {location = { province_id =  1555 }}
+						NOT = {location = { province_id =  1533 }}
+						NOT = {location = { province_id =  1552 }}
+						NOT = {location = { province_id =  1002 }}
+						NOT = {location = { province_id =  1553 }}
+						NOT = {location = { province_id =  1554 }}
+						NOT = {location = { province_id =  1082 }}
+						NOT = {location = { province_id =  1083 }}
+						NOT = {location = { province_id =  2617 }}
+						NOT = {location = { province_id =  1084 }}
+						NOT = {location = { province_id =  1085 }}
+						NOT = {location = { province_id =  1499 }}
+					
+					}
+					militancy = 1
+				}
+			}
 			
 			
 			# turns sefs into labourers/farmers is serfdom is not allowed

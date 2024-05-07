@@ -1,3 +1,25 @@
+
+# utility invention, superbuffs chinese rebels
+romanticist_literature = {
+	news = no
+	chance = {
+		base = 100
+	}
+	effect = {
+		rebel_org_gain = {
+			faction = chinese_nationalists
+			value = 9999
+		}
+	}
+}
+
+
+
+
+
+
+
+
 #romanticism
 romanticist_literature = {
 	limit = { romanticism = 1 }

@@ -569,4 +569,40 @@ political_decisions = {
 			factor = 0
 		}
 	}
+	enable_chinese_rebels = {
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			NOT = {has_global_flag = chinese_rebels_activated }
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			set_global_flag = chinese_rebels_activated
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	disable_chinese_rebels = {
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			has_global_flag = chinese_rebels_activated
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			clr_global_flag = chinese_rebels_activated
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
 }

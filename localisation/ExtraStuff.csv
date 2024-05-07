@@ -412,3 +412,7 @@ EVT7777929OPTC;Lower militarisation;;;;;;;;;;;;;
 conscription;Militarisation;;;;;;;;;;;;;
 enable_infamytransfers_title;Enable Transfers Costing Infamy;;;;;;;;;;;
 enable_infamytransfers_desc;Clicking this decision will make all transfer CBs cost infamy roughly equivalent to the cost of the state/colony. Will also make 3-way transfers host-only.\nThe decision will only be visible till 1837!;;;;;;;;;;;
+chinese_nationalists_title;Chinese Nationalist;Nationalistes;Nationalist;;Nacionalistas;;;;;;;;;
+chinese_nationalists_name;Chinese Nationalists;$INDEP$ - Nationalistes;$INDEP$-Nationalisten;;Nacionalistas de $INDEP$;;;;;;;;;
+chinese_nationalists_desc;Chinese Nationalist rebels seek freedom for the chinese people. They are well led and equipped, and they will stop at nothing to eject colonisers from China.;Les rebelles nationalistes veulent la liberté pour leur peuple. Bien menés et bien équipés, ils vont tout mettre en œuvre pour obtenir l'indépendance de leur nation.;Nationalistische Rebellen kämpfen für die Freiheit ihres Volkes. Gut diszipliniert und ausgerüstet konzentrieren sich auf die Erlangung der Unabhängigkeit für ihr Land.;;Los rebeldes nacionalistas buscan la libertad de su pueblo. Están bien dirigidos y equipados, y se afanarán en lograr la independencia de su nación.;;;;;;;;;
+chinese_nationalists_army;Chinese Nationalists;$INDEP$ - Nationalistes;$INDEP$-Nationalisten;;Nacionalistas de $INDEP$;;;;;;;;;

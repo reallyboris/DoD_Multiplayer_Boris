@@ -1,0 +1,101 @@
+political_decisions = {
+
+	Locals_Money_package_lite = {
+		picture = "financial_stimulus"
+		potential = {
+			ai = no
+			NOT = { number_of_states = 10 }
+		}
+		alert = no
+		allow = {
+			money = 60000
+			war = no
+			election = no
+		}
+		
+		effect = {
+			money = -50000
+		any_pop = { limit = { is_primary_culture = yes } money = 500 }
+		any_pop = { limit = { is_accepted_culture = yes } money = 400 }
+		any_pop = { limit = { is_primary_culture = yes OR = { type = capitalists type = aristocrats } } money = 8000 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = capitalists type = aristocrats } } money = 3000 }
+		any_pop = { limit = { is_primary_culture = yes OR = { type = craftsmen type = clerks } } money = 30 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = craftsmen type = clerks } } money = 20 }
+			}
+					}
+
+	Locals_Money_package_medium = {
+		picture = "financial_stimulus"
+		potential = {
+			ai = no
+			number_of_states = 10
+			NOT = { number_of_states = 30 }
+		}
+		alert = no
+		allow = {
+			money = 90000
+			war = no
+			election = no
+		}
+		
+		effect = {
+			money = -80000
+		any_pop = { limit = { is_primary_culture = yes } money = 500 }
+		any_pop = { limit = { is_accepted_culture = yes } money = 400 }	
+		any_pop = { limit = { is_primary_culture = yes OR = { type = capitalists type = aristocrats } } money = 8000 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = capitalists type = aristocrats } } money = 3000 }
+		any_pop = { limit = { is_primary_culture = yes OR = { type = craftsmen type = clerks } } money = 30 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = craftsmen type = clerks } } money = 20 }
+			}	
+					}
+
+	Locals_Money_package_big = {
+		picture = "financial_stimulus"
+		potential = {
+			ai = no
+			number_of_states = 30
+			NOT = { number_of_states = 55 }
+		}
+		alert = no
+		allow = {
+			money = 160000
+			war = no
+			election = no
+		}
+		
+		effect = {
+			money = -150000
+		any_pop = { limit = { is_primary_culture = yes } money = 500 }
+		any_pop = { limit = { is_accepted_culture = yes } money = 400 }		
+		any_pop = { limit = { is_primary_culture = yes OR = { type = capitalists type = aristocrats } } money = 8000 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = capitalists type = aristocrats } } money = 3000 }
+		any_pop = { limit = { is_primary_culture = yes OR = { type = craftsmen type = clerks } } money = 30 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = craftsmen type = clerks } } money = 20 }
+			}
+					}
+
+	Locals_Money_package_profligate = {
+		picture = "financial_stimulus"
+		potential = {
+			ai = no
+			number_of_states = 55
+		}
+		alert = no
+		allow = {
+			money = 250000
+			war = no
+			election = no
+		}
+		
+		effect = {
+			money = -200000
+		any_pop = { limit = { is_primary_culture = yes } money = 500 }
+		any_pop = { limit = { is_accepted_culture = yes } money = 400 }
+		any_pop = { limit = { is_primary_culture = yes OR = { type = capitalists type = aristocrats } } money = 8000 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = capitalists type = aristocrats } } money = 3000 }
+		any_pop = { limit = { is_primary_culture = yes OR = { type = craftsmen type = clerks } } money = 30 }
+		any_pop = { limit = { is_accepted_culture = yes OR = { type = craftsmen type = clerks } } money = 20 }
+			}		
+					}
+	
+}

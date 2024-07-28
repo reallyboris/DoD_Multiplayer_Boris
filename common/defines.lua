@@ -96,7 +96,7 @@ country = {
 economy = {
 	MAX_DAILY_RESEARCH		    = 100,
 	LOAN_BASE_INTEREST			= 0.02,
-	BANKRUPTCY_EXTERNAL_LOAN_YEARS	= 10,
+	BANKRUPTCY_EXTERNAL_LOAN_YEARS	= 5,
 	BANKRUPTCY_FACTOR = 0.2,
 	SHADOWY_FINANCIERS_MAX_LOAN_AMOUNT = 5000,
 	MAX_LOAN_CAP_FROM_BANKS = 20, -- can loan max % of country tax base from single country
@@ -118,7 +118,7 @@ economy = {
 	FACTORY_UPGRADE_EMPLOYEE_FACTOR = 0.75, -- determines how close to the employee limit we need to be before "upgrade all" will upgrade/expand a given factory (1 = 100%).
 	RGO_SUPPLY_DEMAND_FACTOR_HIRE_HI = 0.2,	-- how fast pops are Hired when there is a high demand
 	RGO_SUPPLY_DEMAND_FACTOR_HIRE_LO = 0.02,	-- how fast pops are Hired when there is a medium demand
-	RGO_SUPPLY_DEMAND_FACTOR_FIRE = 0.2,		-- how fast pops are Fired when there is a low demand
+	RGO_SUPPLY_DEMAND_FACTOR_FIRE = 0,		-- how fast pops are Fired when there is a low demand
 	EMPLOYMENT_HIRE_LOWEST = 0.01,				-- we Hire pops no slower then x% of total required per day
 	EMPLOYMENT_FIRE_LOWEST = 0.01,				-- we Fire pops no slower then x% of total required per day
 	TRADE_CAP_LOW_LIMIT_LAND = 0.05, 				-- the lowest % the slider can go for land units
@@ -676,7 +676,7 @@ pops = {
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
 	LUXURY_CON_CHANGE = 0.001, -- con boost from over-buying luxury goods
-	INVENTION_IMPACT_ON_DEMAND = 0.02, -- how much each invention in a country increases demand for a product in percent
+	INVENTION_IMPACT_ON_DEMAND = 0.03, -- how much each invention in a country increases demand for a product in percent
 	ARTISAN_SUPPRESSED_COLONIAL_GOODS_CATEGORY = 0, -- Goods category index not produced in colonies
 	ISSUE_MOVEMENT_JOIN_LIMIT = 8,
 	ISSUE_MOVEMENT_LEAVE_LIMIT = 7,
